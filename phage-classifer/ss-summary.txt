@@ -1,0 +1,4324 @@
+
+1. Vibrio phage vB_Vipa10, complete genome
+9,318 bp linear DNA 
+MT188666.1 GI:1834463278
+
+2. Vibrio phage vB_Vipa4291, complete genome
+9,663 bp linear DNA 
+MT188665.1 GI:1834463262
+
+3. Vibrio phage vB_VipaK, complete genome
+10,809 bp circular DNA 
+MT188664.1 GI:1834463246
+
+4. Vibrio phage vB_Vipa36, complete genome
+9,721 bp circular DNA 
+MT188663.1 GI:1834463230
+
+5. Vibrio phage vB_Vipa26, complete genome
+10,893 bp circular DNA 
+MT188662.1 GI:1834463211
+
+6. Rhizobium phage RHEph17, complete genome
+6,053 bp circular DNA 
+MW980067.1 GI:2071737677
+
+7. Cellulophaga phage Omtje_5, complete genome
+6,559 bp circular DNA 
+MT732449.1 GI:1958903300
+
+8. Cellulophaga phage Omtje_4, complete genome
+6,558 bp circular DNA 
+MT732448.1 GI:1958903270
+
+9. Cellulophaga phage Omtje_3, complete genome
+6,558 bp circular DNA 
+MT732447.1 GI:1958903256
+
+10. Cellulophaga phage Omtje_2, complete genome
+6,558 bp circular DNA 
+MT732446.1 GI:1958903242
+
+11. Cellulophaga phage Omtje_1, complete genome
+6,558 bp circular DNA 
+MT732445.1 GI:1958903228
+
+12. Xanthomonas phage Xf409, complete genome
+8,280 bp circular DNA 
+NC_055055.1 GI:2046361462
+
+13. Ralstonia phage RS611 DNA, complete genome
+6,386 bp circular DNA 
+NC_055054.1 GI:2046361450
+
+14. Ralstonia phage RSS-TH1 DNA, complete genome
+7,273 bp circular DNA 
+NC_055053.1 GI:2046361437
+
+15. Vibrio phage ND1-fs1 DNA, complete genome
+6,856 bp circular DNA 
+NC_055051.1 GI:2046361411
+
+16. Vibrio phage vB_Vipa71, complete genome
+10,295 bp linear DNA 
+MT193890.1 GI:1834463293
+
+17. Aeromonas phage MBa-2020a, partial genome
+7,191 bp linear DNA 
+CP062802.1 GI:2030727901
+
+18. Escherichia phage lillemer, complete genome
+5,492 bp linear DNA 
+MN850599.1 GI:1802640186
+
+19. Escherichia phage Lilledu, complete genome
+5,484 bp linear DNA 
+MK791318.1 GI:1735346732
+
+20. Escherichia phage Lilleen, complete genome
+5,342 bp linear DNA 
+MK629526.1 GI:1625842012
+
+21. Escherichia phage Lilleto, complete genome
+5,494 bp linear DNA 
+MK629529.1 GI:1613838597
+
+22. Escherichia phage Lilleven, complete genome
+6,090 bp linear DNA 
+MK629527.1 GI:1613838531
+
+23. Escherichia phage Lilleput, complete genome
+5,490 bp linear DNA 
+MK629525.1 GI:1613838524
+
+24. Rhizobium phage RHph_Y3_38, partial genome
+6,034 bp circular DNA 
+MN988562.1 GI:1817937828
+
+25. Rhizobium phage RHph_N39, complete genome
+4,781 bp circular DNA 
+MN988550.1 GI:1817935867
+
+26. Rhizobium phage RHph_N2_10, complete genome
+6,010 bp circular DNA 
+MN988518.1 GI:1817930406
+
+27. Rhizobium phage RHph_Y2, complete genome
+6,006 bp circular DNA 
+MN988511.1 GI:1817929772
+
+28. Rhizobium phage RHph_N25, complete genome
+6,010 bp circular DNA 
+MN988504.1 GI:1817928855
+
+29. Rhizobium phage RHph_Y3_56_2, complete genome
+6,034 bp circular DNA 
+MN988503.1 GI:1817928847
+
+30. Rhizobium phage RHph_TM1_20A, complete genome
+6,034 bp circular DNA 
+MN988499.1 GI:1817928669
+
+31. Rhizobium phage RHph_Y3_19, complete genome
+6,034 bp circular DNA 
+MN988498.1 GI:1817928661
+
+32. Rhizobium phage RHph_TM3_3_12, complete genome
+6,034 bp circular DNA 
+MN988494.1 GI:1817928334
+
+33. Rhizobium phage RHph_Y3_36, complete genome
+6,034 bp circular DNA 
+MN988491.1 GI:1817928211
+
+34. Rhizobium phage RHph_Y2_19, complete genome
+6,034 bp circular DNA 
+MN988489.1 GI:1817928141
+
+35. Rhizobium phage RHph_Y67, complete genome
+4,801 bp circular DNA 
+MN988485.1 GI:1817927739
+
+36. Rhizobium phage RHph_TM3_4A, complete genome
+6,034 bp circular DNA 
+MN988481.1 GI:1817927416
+
+37. Rhizobium phage RHph_TM1_10A, complete genome
+6,034 bp circular DNA 
+MN988480.1 GI:1817927408
+
+38. Rhizobium phage RHph_TM15, complete genome
+6,034 bp circular DNA 
+MN988479.1 GI:1817927400
+
+39. Rhizobium phage RHph_TM3_3_7A, complete genome
+6,037 bp circular DNA 
+MN988478.1 GI:1817927392
+
+40. Rhizobium phage RHph_TM32, complete genome
+6,210 bp circular DNA 
+MN988477.1 GI:1817927384
+
+41. Rhizobium phage RHph_TM1_7A, complete genome
+6,204 bp circular DNA 
+MN988476.1 GI:1817927376
+
+42. Rhizobium phage RHph_TM3_3_5B, complete genome
+6,034 bp circular DNA 
+MN988475.1 GI:1817927368
+
+43. Rhizobium phage RHph_TM3_3_4B, complete genome
+6,037 bp circular DNA 
+MN988474.1 GI:1817927360
+
+44. Rhizobium phage RHph_TM1_10B, complete genome
+6,033 bp circular DNA 
+MN988473.1 GI:1817927352
+
+45. Rhizobium phage RHph_TM3_3_14A, complete genome
+6,038 bp circular DNA 
+MN988471.1 GI:1817927254
+
+46. Rhizobium phage RHph_TM3_3_5A, complete genome
+6,034 bp circular DNA 
+MN988469.1 GI:1817927117
+
+47. Rhizobium phage RHph_TM36, complete genome
+6,037 bp circular DNA 
+MN988467.1 GI:1817927022
+
+48. Rhizobium phage RHph_TM24, complete genome
+6,208 bp circular DNA 
+MN988464.1 GI:1817926887
+
+49. Rhizobium phage RHph_TM23, complete genome
+6,046 bp circular DNA 
+MN988460.1 GI:1817926608
+
+50. Erwinia phage PEar6, complete genome
+6,608 bp circular DNA 
+MT901800.1 GI:1942253082
+
+51. Erwinia phage PEar4, complete genome
+6,801 bp circular DNA 
+MT901799.1 GI:1914792610
+
+52. Erwinia phage PEar2, complete genome
+6,651 bp circular DNA 
+MT901798.1 GI:1914792599
+
+53. Erwinia phage PEar1, complete genome
+6,646 bp circular DNA 
+MT901797.1 GI:1914792588
+
+54. Escherichia phage EC6098, complete genome
+4,526 bp linear DNA 
+NC_048874.1 GI:1859671168
+
+55. Vibrio phage CTXphi, complete genome
+10,638 bp linear DNA 
+NC_015209.1 GI:332672294
+
+56. Vibrio phage CTXphi, complete genome
+10,638 bp linear DNA 
+HQ224500.1 GI:323145568
+
+57. Spiroplasma phage SkV1CR23x, complete genome
+7,870 bp circular DNA 
+EF506570.1 GI:155965223
+
+58. Protaetiibacter phage SSC1, complete genome
+5,386 bp circular DNA 
+MT947439.1 GI:1908378710
+
+59. UNVERIFIED: Xanthomonas phage phiLF, complete genome
+6,009 bp circular DNA 
+MN263053.1 GI:1740136847
+
+60. Vibrio phage VAI1, complete genome
+6,117 bp circular DNA 
+MN200778.1 GI:1756564132
+
+61. Vibrio phage VAI2, complete genome
+6,117 bp circular DNA 
+MN200777.1 GI:1756564120
+
+62. Ralstonia phage RSBg, complete genome
+7,540 bp circular DNA 
+MT495635.1 GI:1865635326
+
+63. Ralstonia phage Rs551, complete genome
+7,929 bp linear DNA 
+NC_047765.1 GI:1841998152
+
+64. Vibrio phage Vf12 DNA, complete genome
+7,965 bp circular DNA 
+NC_005949.1 GI:49248530
+
+65. Escherichia phage EC6098, complete genome
+4,526 bp linear DNA 
+MT185428.1 GI:1825544128
+
+66. Thermus phage phiOH3 genomic DNA, complete genome
+5,688 bp circular DNA 
+NC_045425.1 GI:1784318017
+
+67. Pseudomonas phage pf8_ST274-AUS411, complete genome
+10,061 bp circular DNA 
+MN710383.1 GI:1786622884
+
+68. Vibrio phage VALG_phi6, complete genome
+8,529 bp linear DNA 
+MN719123.1 GI:1781483745
+
+69. Vibrio phage VALG_phi8, complete genome
+7,311 bp linear DNA 
+MN690600.1 GI:1781483672
+
+70. Vibrio phage VP24-2_Ke, complete genome
+7,180 bp linear DNA 
+MN536023.1 GI:1777141816
+
+71. Xanthomonas phage XaF13, complete genome
+7,045 bp linear DNA 
+MN335248.1 GI:1765937410
+
+72. Shigella phage SGF3, complete genome
+5,386 bp circular DNA 
+MN266305.1 GI:1756564144
+
+73. Xanthomonas phage Cf2, complete genome
+6,454 bp circular DNA 
+MK512531.1 GI:1585638198
+
+74. Stenotrophomonas phage phiSMA6 proviral complete genome
+7,648 bp circular RNA 
+NC_043029.1 GI:1694995567
+
+75. Xanthomonas phage Xf109, complete genome
+7,190 bp circular DNA 
+NC_043028.1 GI:1694995541
+
+76. Ralstonia phage RSM3 DNA, complete genome
+8,929 bp circular DNA 
+NC_011399.1 GI:209901313
+
+77. Chlamydia phage 4, complete genome
+4,530 bp circular DNA 
+NC_007461.1 GI:77020114
+
+78. Parabacteroides phage YZ-2015b, complete genome
+5,001 bp circular DNA 
+NC_029014.1 GI:971765802
+
+79. Parabacteroides phage YZ-2015a, complete genome
+4,623 bp circular DNA 
+NC_029012.1 GI:971765480
+
+80. Uncultured phage WW-nAnB strain 3, complete genome
+5,210 bp circular DNA 
+NC_026613.1 GI:764162356
+
+81. Uncultured phage WW-nAnB strain 2, complete genome
+5,077 bp circular DNA 
+NC_026612.1 GI:764162340
+
+82. Uncultured phage WW-nAnB, complete genome
+4,817 bp linear DNA 
+NC_026582.1 GI:764159063
+
+83. Enterobacteria phage fd strain 478, complete genome
+6,408 bp circular DNA 
+NC_025824.1 GI:730977588
+
+84. Ralstonia phage RS603 DNA, complete genome
+7,679 bp circular DNA 
+NC_025454.1 GI:725950579
+
+85. Ralstonia phage 1 NP-2014, complete sequence
+8,460 bp circular DNA 
+NC_023586.1 GI:589287117
+
+86. Ralstonia phage RSM1, complete genome
+9,004 bp circular DNA 
+NC_008574.2 GI:565323596
+
+87. Cellulophaga phage phi12a:1, complete genome
+6,478 bp circular DNA 
+NC_021805.1 GI:526178379
+
+88. Cellulophaga phage phi12:2, complete genome
+6,453 bp circular DNA 
+NC_021797.1 GI:526177653
+
+89. Ralstonia phage RSS20 DNA
+7,219 bp circular DNA 
+NC_021866.1 GI:526120125
+
+90. Ralstonia phage RSS30 DNA, complete genome
+8,576 bp circular DNA 
+NC_021862.1 GI:526120121
+
+91. Stenotrophomonas phage phiSMA7 proviral complete genome
+7,069 bp circular DNA 
+NC_021569.1 GI:514361131
+
+92. Vibrio phage VFJ, complete genome
+8,555 bp circular DNA 
+NC_021562.1 GI:514361032
+
+93. Ralstonia phage RSS0, complete genome
+7,288 bp circular DNA 
+NC_019548.1 GI:423262453
+
+94. Stenotrophomonas phage phiSHP2, complete genome
+5,819 bp circular DNA 
+NC_015586.1 GI:363542401
+
+95. Vibrio phage VCY-phi, complete genome
+7,103 bp linear DNA 
+NC_016162.1 GI:358356470
+
+96. Ralstonia phage PE226, complete genome
+5,475 bp circular DNA 
+NC_015297.1 GI:327198628
+
+97. Enterobacteria phage St-1, complete genome
+6,094 bp circular DNA 
+NC_012868.1 GI:242346741
+
+98. Vibrio phage VEJphi, complete genome
+6,842 bp circular DNA 
+NC_012757.1 GI:238821372
+
+99. Genome of phage G4 (coliphage)
+5,577 bp circular DNA 
+NC_001420.2 GI:176120944
+
+100. Stenotrophomonas phage PSH1, complete sequence
+6,867 bp circular DNA 
+NC_010429.1 GI:170783404
+
+101. Ralstonia phage p12J, complete genome
+7,118 bp linear DNA 
+NC_005131.2 GI:156535141
+
+102. Ralstonia phage RSS1, complete genome
+6,662 bp circular DNA 
+NC_008575.1 GI:118430711
+
+103. Enterobacteria phage WA13, complete genome
+6,068 bp circular DNA 
+NC_007821.1 GI:89888652
+
+104. Enterobacteria phage ID2 Moscow/ID/2001, complete genome
+5,486 bp circular DNA 
+NC_007817.1 GI:89888607
+
+105. Enterobacteria phage ID18, complete genome
+5,486 bp circular DNA 
+NC_007856.1 GI:89888094
+
+106. Stenotrophomonas phage phiSMA9, complete genome
+6,907 bp circular DNA 
+NC_007189.1 GI:70727678
+
+107. Enterobacteria phage M13, complete genome
+6,407 bp circular DNA 
+NC_003287.2 GI:56718463
+
+108. Vibrio phage KSF-1phi, complete genome
+7,107 bp circular DNA 
+NC_006294.1 GI:52221121
+
+109. Vibrio phage Vf33, complete genome
+7,965 bp circular DNA 
+NC_005948.1 GI:49248521
+
+110. Spiroplasma phage SVTS2, complete genome
+6,825 bp circular DNA 
+NC_001270.2 GI:45597171
+
+111. Vibrio phage VGJphi, complete genome
+7,542 bp circular DNA 
+NC_004736.1 GI:30039743
+
+112. Vibrio phage VSK, complete genome
+6,882 bp circular DNA 
+NC_003327.2 GI:26114633
+
+113. Vibrio phage fs1, complete genome
+6,340 bp circular DNA 
+NC_004306.1 GI:23455823
+
+114. Spiroplasma phage 1-C74, complete genome
+7,768 bp circular DNA 
+NC_003793.1 GI:20514675
+
+115. Propionibacterium phage B5, complete genome
+5,804 bp circular DNA 
+NC_003460.1 GI:19718349
+
+116. Spiroplasma phage 4, complete genome
+4,421 bp circular DNA 
+NC_003438.1 GI:19387568
+
+117. Bdellovibrio phage phiMH2K, complete genome
+4,594 bp circular DNA 
+NC_002643.1 GI:12085135
+
+118. Chlamydia phage phiCPAR39, complete sequence
+4,532 bp circular DNA 
+NC_002180.1 GI:9791176
+
+119. Vibrio phage VfO4K68, complete genome
+6,891 bp circular DNA 
+NC_002363.1 GI:9635478
+
+120. Vibrio phage VfO3K6, complete genome
+8,784 bp circular DNA 
+NC_002362.1 GI:9635467
+
+121. Chlamydia phage Chp2, complete genome
+4,563 bp circular DNA 
+NC_002194.1 GI:9634948
+
+122. Guinea pig Chlamydia phage, complete genome
+4,529 bp circular DNA 
+NC_001998.1 GI:9632287
+
+123. Vibrio phage fs2, complete genome
+8,651 bp linear DNA 
+NC_001956.1 GI:9630761
+
+124. Enterobacteria phage If1, complete genome
+8,454 bp circular DNA 
+NC_001954.1 GI:9630747
+
+125. Chlamydia phage Chp1, complete genome
+4,877 bp circular DNA 
+NC_001741.1 GI:9629143
+
+126. Pseudomonas phage Pf3, complete genome
+5,833 bp circular DNA 
+NC_001418.1 GI:9626316
+
+127. Enterobacteria phage Ike, complete genome
+6,883 bp circular DNA 
+NC_002014.1 GI:9626232
+
+128. Xanthomonas phage Cf1c, complete genome
+7,308 bp circular DNA 
+NC_001396.1 GI:9626133
+
+129. Spiroplasma phage 1-R8A2B, complete genome
+8,273 bp circular DNA 
+NC_001365.1 GI:9626109
+
+130. Acholeplasma phage MV-L1, complete genome
+4,491 bp circular DNA 
+NC_001341.1 GI:9625557
+
+131. Enterobacteria phage I2-2, complete genome
+6,744 bp circular DNA 
+NC_001332.1 GI:9625381
+
+132. Pseudomonas phage Pf1, complete genome
+7,349 bp linear DNA 
+NC_001331.1 GI:9625366
+
+133. Enterobacteria phage alpha3, complete genome
+6,087 bp circular DNA 
+NC_001330.1 GI:9625355
+
+134. Xanthomonas phage phiLf UK variant, complete genome
+6,062 bp circular DNA 
+MH206184.1 GI:1417814846
+
+135. Xanthomonas phage phiXv2, complete genome
+6,564 bp circular DNA 
+MH206183.1 GI:1417814833
+
+136. Xanthomonas phage phiLf2, complete genome
+6,372 bp circular DNA 
+MH218848.1 GI:1417814821
+
+137. Ruegeria phage vB_RpoMi-V15, complete genome
+4,248 bp linear DNA 
+MH015251.1 GI:1417814084
+
+138. Escherichia phage SECphi17 genome assembly, complete genome: monopartite
+5,538 bp linear DNA 
+LT960607.1 GI:1315671042
+
+139. Ruegeria phage DSS3-P22, complete genome
+4,248 bp circular DNA 
+MF101922.1 GI:1214639193
+
+140. Escherichia phage EMCL318, complete genome
+5,489 bp circular DNA 
+MG563770.1 GI:1315519547
+
+141. Citromicrobium phage vB_Cib_ssDNA_P1, complete genome
+4,360 bp circular DNA 
+MG214764.1 GI:1278266386
+
+142. Xanthomonas phage Cf1c unknown gene
+7,308 bp linear DNA 
+M57538.1 GI:166169
+
+143. Enterobacteria phage M13 isolate WT variety Rutgers, complete genome
+6,407 bp circular DNA 
+JX412914.1 GI:401823911
+
+144. Stenotrophomonas phage PSH1, complete sequence
+6,867 bp circular DNA 
+EF489910.1 GI:152218403
+
+145. Xanthomonas phage Xf409, complete genome
+8,280 bp circular DNA 
+KY853667.1 GI:1184850182
+
+146. Vibrio phage K05K4_VK05K4_2, complete sequence
+13,327 bp circular DNA 
+CP017906.1 GI:1190152879
+
+147. Vibrio phage K05K4_VK05K4_1, complete sequence
+21,012 bp circular DNA 
+CP017905.1 GI:1190152844
+
+148. Vibrio phage K04M1_VK04M1, complete sequence
+7,079 bp circular DNA 
+CP017895.1 GI:1190137647
+
+149. Ralstonia phage Rs551, complete genome
+7,929 bp linear DNA 
+KX179905.1 GI:1041568536
+
+150. Thermus phage phiOH16 genomic DNA, complete genome
+6,533 bp circular DNA 
+LC210520.1 GI:1162562630
+
+151. Thermus phage phiOH3 genomic DNA, complete genome
+5,688 bp circular DNA 
+LC035386.1 GI:928589210
+
+152. Salmonella phage alphaalpha, complete genome
+5,387 bp circular DNA 
+KY653237.1 GI:1158824266
+
+153. Xanthomonas phage Xf109, complete genome
+7,190 bp circular DNA 
+KX181651.1 GI:1041568900
+
+154. Vibrio phage CTX plasmid pCTX-2 RstR (rstR), RstA (rstA), RstB (rstB), Cep (cep), OrfU (orfu), Ace (ace), Zot (zot), CtxA (ctxA), CtxB (ctxB), RstR (rstR), RstA (rstA), RstB (rstB), Cep (cep), OrfU (orfu), Ace (ace), Zot (zot), CtxA (ctxA), and CtxB (ctxB) genes, complete cds
+14,849 bp linear DNA 
+KF664567.1 GI:554621651
+
+155. Enterobacteria phage G4 isolate G4_3_FR, complete genome
+5,577 bp circular DNA 
+JF719731.1 GI:350280572
+
+156. Enterobacteria phage G4 isolate G4_2_FR, complete genome
+5,577 bp circular DNA 
+JF719730.1 GI:350280560
+
+157. Enterobacteria phage G4 isolate G4_1_FR, complete genome
+5,577 bp circular DNA 
+JF719729.1 GI:350280548
+
+158. Vibrio phage CTX chromosome I prophage, complete sequence
+17,070 bp linear DNA 
+GU942563.1 GI:294470392
+
+159. Mutant Enterobacteria phage f1 isolate F1_1, complete genome
+6,407 bp circular DNA 
+GQ153916.1 GI:262064141
+
+160. Vibrio phage CTX RstA2 (rstA2) gene, partial cds; and RstB2 (rstB2), Cep (cep), OrfU (orfU), Ace (ace), Zot (zot), CtxA (ctxA), and CtxB (ctxB) genes, complete cds
+4,883 bp linear DNA 
+AF414369.2 GI:24440227
+
+161. Vibrio phage CTX RstA2 (rstA2) gene, partial cds; and RstB2 (rstB2), Cep (cep), OrfU (orfU), Ace (ace), Zot (zot), CtxA (ctxA), and CtxB (ctxB) genes, complete cds
+4,878 bp linear DNA 
+AF542088.2 GI:24438360
+
+162. Vibrio phage CTX RstA2 (rstA2) gene, partial cds; and RstB2 (rstB2), Cep (cep), OrfU (orfU), Ace (ace), Zot (zot), CtxA (ctxA), and CtxB (ctxB) genes, complete cds
+4,878 bp linear DNA 
+AF542089.2 GI:24437189
+
+163. Enterobacteria phage ID11 clone beta_7B_F178_7_27_6, complete genome
+5,577 bp circular DNA 
+KX266637.1 GI:1043241837
+
+164. Enterobacteria phage ID11 clone beta_7B_F178_5_12_4, complete genome
+5,577 bp circular DNA 
+KX266636.1 GI:1043241825
+
+165. Enterobacteria phage ID11 clone beta_7B_F178_5_12_3, complete genome
+5,577 bp circular DNA 
+KX266635.1 GI:1043241813
+
+166. Enterobacteria phage ID11 clone beta_7B_F178_5-12_2, complete genome
+5,577 bp circular DNA 
+KX266634.1 GI:1043241801
+
+167. Enterobacteria phage ID11 clone beta_7B_F178_5-12_1, complete genome
+5,577 bp circular DNA 
+KX266633.1 GI:1043241789
+
+168. Enterobacteria phage ID11 clone gamma_7F_F421_5_12_5, complete genome
+5,577 bp circular DNA 
+KX266632.1 GI:1043241777
+
+169. Enterobacteria phage ID11 clone gamma_7F_F421_5_12_4, complete genome
+5,577 bp circular DNA 
+KX266631.1 GI:1043241765
+
+170. Enterobacteria phage ID11 clone gamma_7F_F421_5_12_3, complete genome
+5,577 bp circular DNA 
+KX266630.1 GI:1043241753
+
+171. Enterobacteria phage ID11 clone gamma_7F_F421_5-12_2, complete genome
+5,577 bp circular DNA 
+KX266629.1 GI:1043241741
+
+172. Enterobacteria phage ID11 clone gamma_7F_F421_5-12_1, complete genome
+5,577 bp circular DNA 
+KX266628.1 GI:1043241729
+
+173. Enterobacteria phage ID11 clone gamma_5D_F421_7_27_6, complete genome
+5,577 bp circular DNA 
+KX266627.1 GI:1043241717
+
+174. Enterobacteria phage ID11 clone gamma_5D_F421_5_12_5, complete genome
+5,577 bp circular DNA 
+KX266626.1 GI:1043241705
+
+175. Enterobacteria phage ID11 clone gamma_5D_F421_5_12_3, complete genome
+5,577 bp circular DNA 
+KX266625.1 GI:1043241693
+
+176. Enterobacteria phage ID11 clone gamma_5D_F421_5-12_2, complete genome
+5,577 bp circular DNA 
+KX266624.1 GI:1043241681
+
+177. Enterobacteria phage ID11 clone gamma_5D_F421_5-12_1, complete genome
+5,577 bp circular DNA 
+KX266623.1 GI:1043241669
+
+178. Enterobacteria phage ID11 clone gamma_3B_F421_7_11_6, complete genome
+5,577 bp circular DNA 
+KX266622.1 GI:1043241657
+
+179. Enterobacteria phage ID11 clone gamma_3B_F421_5_12_5, complete genome
+5,577 bp circular DNA 
+KX266621.1 GI:1043241645
+
+180. Enterobacteria phage ID11 clone gamma_3B_F421_5_12_4, complete genome
+5,577 bp circular DNA 
+KX266620.1 GI:1043241633
+
+181. Enterobacteria phage ID11 clone gamma_3B_F421_5_12_3, complete genome
+5,577 bp circular DNA 
+KX266619.1 GI:1043241621
+
+182. Enterobacteria phage ID11 clone gamma_3B_F421_5-12_2, complete genome
+5,577 bp circular DNA 
+KX266618.1 GI:1043241609
+
+183. Enterobacteria phage ID11 clone gamma_3B_F421_5-12_1, complete genome
+5,577 bp circular DNA 
+KX266617.1 GI:1043241597
+
+184. Enterobacteria phage ID11 clone gamma_5F_F416_5_12_5, complete genome
+5,577 bp circular DNA 
+KX266616.1 GI:1043241585
+
+185. Enterobacteria phage ID11 clone gamma_5F_F416_5_12_4, complete genome
+5,577 bp circular DNA 
+KX266615.1 GI:1043241573
+
+186. Enterobacteria phage ID11 clone gamma_5F_F416_5_12_3, complete genome
+5,577 bp circular DNA 
+KX266614.1 GI:1043241561
+
+187. Enterobacteria phage ID11 clone gamma_5F_F416_5-12_2, complete genome
+5,577 bp circular DNA 
+KX266613.1 GI:1043241549
+
+188. Enterobacteria phage ID11 clone gamma_5F_F416_5-12_1, complete genome
+5,577 bp circular DNA 
+KX266612.1 GI:1043241537
+
+189. Enterobacteria phage ID11 clone gamma_1B_F416_5_12_5, complete genome
+5,577 bp circular DNA 
+KX266611.1 GI:1043241525
+
+190. Enterobacteria phage ID11 clone gamma_1B_F416_5_12_4, complete genome
+5,577 bp circular DNA 
+KX266610.1 GI:1043241513
+
+191. Enterobacteria phage ID11 clone gamma_1B_F416_5_12_3, complete genome
+5,577 bp circular DNA 
+KX266609.1 GI:1043241501
+
+192. Enterobacteria phage ID11 clone gamma_1B_F416_5-12_2, complete genome
+5,577 bp circular DNA 
+KX266608.1 GI:1043241489
+
+193. Enterobacteria phage ID11 clone gamma_1B_F416_5-12_1, complete genome
+5,577 bp circular DNA 
+KX266607.1 GI:1043241477
+
+194. Enterobacteria phage ID11 clone beta_8E_F416_5_12_5, complete genome
+5,577 bp circular DNA 
+KX266606.1 GI:1043241465
+
+195. Enterobacteria phage ID11 clone beta_8E_F416_5_12_4, complete genome
+5,577 bp circular DNA 
+KX266605.1 GI:1043241453
+
+196. Enterobacteria phage ID11 clone beta_8E_F416_5_12_3, complete genome
+5,577 bp circular DNA 
+KX266604.1 GI:1043241441
+
+197. Enterobacteria phage ID11 clone beta_8E_F416_5-12_2, complete genome
+5,577 bp circular DNA 
+KX266603.1 GI:1043241429
+
+198. Enterobacteria phage ID11 clone beta_8E_F416_5-12_1, complete genome
+5,577 bp circular DNA 
+KX266602.1 GI:1043241417
+
+199. Enterobacteria phage ID11 clone beta_6C_F416_5_12_5, complete genome
+5,577 bp circular DNA 
+KX266601.1 GI:1043241405
+
+200. Enterobacteria phage ID11 clone beta_6C_F416_5_12_4, complete genome
+5,577 bp circular DNA 
+KX266600.1 GI:1043241393
+
+201. Enterobacteria phage ID11 clone beta_6C_F416_5_12_3, complete genome
+5,577 bp circular DNA 
+KX266599.1 GI:1043241381
+
+202. Enterobacteria phage ID11 clone beta_6C_F416_5-12_2, complete genome
+5,577 bp circular DNA 
+KX266598.1 GI:1043241369
+
+203. Enterobacteria phage ID11 clone beta_6C_F416_5-12_1, complete genome
+5,577 bp circular DNA 
+KX266597.1 GI:1043241357
+
+204. Enterobacteria phage ID11 clone beta_4A_F416_5_12_5, complete genome
+5,577 bp circular DNA 
+KX266596.1 GI:1043241345
+
+205. Enterobacteria phage ID11 clone beta_4A_F416_5_12_4, complete genome
+5,577 bp circular DNA 
+KX266595.1 GI:1043241333
+
+206. Enterobacteria phage ID11 clone beta_4A_F416_5_12_3, complete genome
+5,577 bp circular DNA 
+KX266594.1 GI:1043241321
+
+207. Enterobacteria phage ID11 clone beta_4A_F416_5-12_2, complete genome
+5,577 bp circular DNA 
+KX266593.1 GI:1043241309
+
+208. Enterobacteria phage ID11 clone beta_4A_F416_5-12_1, complete genome
+5,577 bp circular DNA 
+KX266592.1 GI:1043241297
+
+209. Enterobacteria phage ID11 clone alpha_2E_F416_5_12_5, complete genome
+5,577 bp circular DNA 
+KX266591.1 GI:1043241285
+
+210. Enterobacteria phage ID11 clone alpha_2E_F416_5_12_4, complete genome
+5,577 bp circular DNA 
+KX266590.1 GI:1043241273
+
+211. Enterobacteria phage ID11 clone alpha_2E_F416_5_12_3, complete genome
+5,577 bp circular DNA 
+KX266589.1 GI:1043241261
+
+212. Enterobacteria phage ID11 clone alpha_2E_F416_5-12_2, complete genome
+5,577 bp circular DNA 
+KX266588.1 GI:1043241249
+
+213. Enterobacteria phage ID11 clone alpha_2E_F416_5-12_1, complete genome
+5,577 bp circular DNA 
+KX266587.1 GI:1043241237
+
+214. Enterobacteria phage ID11 clone alpha_7B_F416_5_12_5, complete genome
+5,577 bp circular DNA 
+KX266586.1 GI:1043241225
+
+215. Enterobacteria phage ID11 clone alpha_7B_F416_5_12_4, complete genome
+5,577 bp circular DNA 
+KX266585.1 GI:1043241213
+
+216. Enterobacteria phage ID11 clone alpha_7B_F416_5_12_3, complete genome
+5,577 bp circular DNA 
+KX266584.1 GI:1043241201
+
+217. Enterobacteria phage ID11 clone alpha_7B_F416_5-12_2, complete genome
+5,577 bp circular DNA 
+KX266583.1 GI:1043241189
+
+218. Enterobacteria phage ID11 clone alpha_7B_F416_5-12_1, complete genome
+5,577 bp circular DNA 
+KX266582.1 GI:1043241177
+
+219. Enterobacteria phage ID11 clone gamma_3F_J20_5_12_5, complete genome
+5,577 bp circular DNA 
+KX266581.1 GI:1043241165
+
+220. Enterobacteria phage ID11 clone gamma_3F_J20_5_12_4, complete genome
+5,577 bp circular DNA 
+KX266580.1 GI:1043241153
+
+221. Enterobacteria phage ID11 clone gamma_3F_J20_5_12_3, complete genome
+5,577 bp circular DNA 
+KX266579.1 GI:1043241141
+
+222. Enterobacteria phage ID11 clone gamma_3F_J20_5-12_2, complete genome
+5,577 bp circular DNA 
+KX266578.1 GI:1043241129
+
+223. Enterobacteria phage ID11 clone gamma_3F_J20_5-12_1, complete genome
+5,577 bp circular DNA 
+KX266577.1 GI:1043241117
+
+224. Enterobacteria phage ID11 clone gamma_4E_F355_5_12_5, complete genome
+5,577 bp circular DNA 
+KX266576.1 GI:1043241105
+
+225. Enterobacteria phage ID11 clone gamma_4E_F355_5_12_4, complete genome
+5,577 bp circular DNA 
+KX266575.1 GI:1043241093
+
+226. Enterobacteria phage ID11 clone gamma_4E_F355_5_12_3, complete genome
+5,577 bp circular DNA 
+KX266574.1 GI:1043241081
+
+227. Enterobacteria phage ID11 clone gamma_4E_F355_5-12_2, complete genome
+5,577 bp circular DNA 
+KX266573.1 GI:1043241069
+
+228. Enterobacteria phage ID11 clone gamma_4E_F355_5-12_1, complete genome
+5,577 bp circular DNA 
+KX266572.1 GI:1043241057
+
+229. Enterobacteria phage ID11 clone gamma_2C_F355_7_11_6, complete genome
+5,577 bp circular DNA 
+KX266571.1 GI:1043241045
+
+230. Enterobacteria phage ID11 clone gamma_2C_F355_5_12_5, complete genome
+5,577 bp circular DNA 
+KX266570.1 GI:1043241033
+
+231. Enterobacteria phage ID11 clone gamma_2C_F355_5_12_4, complete genome
+5,577 bp circular DNA 
+KX266569.1 GI:1043241021
+
+232. Enterobacteria phage ID11 clone gamma_2C_F355_5_12_3, complete genome
+5,577 bp circular DNA 
+KX266568.1 GI:1043241009
+
+233. Enterobacteria phage ID11 clone gamma_2C_F355_5-12_1, complete genome
+5,577 bp circular DNA 
+KX266567.1 GI:1043240997
+
+234. Enterobacteria phage ID11 clone gamma_5B_F5_7_27_6, complete genome
+5,577 bp circular DNA 
+KX266566.1 GI:1043240985
+
+235. Enterobacteria phage ID11 clone gamma_5B_F5_5_12_5, complete genome
+5,577 bp circular DNA 
+KX266565.1 GI:1043240973
+
+236. Enterobacteria phage ID11 clone gamma_5B_F5_5_12_3, complete genome
+5,577 bp circular DNA 
+KX266564.1 GI:1043240961
+
+237. Enterobacteria phage ID11 clone gamma_5B_F5_5-12_2, complete genome
+5,577 bp circular DNA 
+KX266563.1 GI:1043240949
+
+238. Enterobacteria phage ID11 clone gamma_5B_F5_5-12_1, complete genome
+5,577 bp circular DNA 
+KX266562.1 GI:1043240937
+
+239. Enterobacteria phage ID11 clone beta_8A_F5_7_27_6, complete genome
+5,577 bp circular DNA 
+KX266561.1 GI:1043240925
+
+240. Enterobacteria phage ID11 clone beta_8A_F5_5_12_5, complete genome
+5,577 bp circular DNA 
+KX266560.1 GI:1043240913
+
+241. Enterobacteria phage ID11 clone beta_8A_F5_5_12_3, complete genome
+5,577 bp circular DNA 
+KX266559.1 GI:1043240901
+
+242. Enterobacteria phage ID11 clone beta_8A_F5_5-12_2, complete genome
+5,577 bp circular DNA 
+KX266558.1 GI:1043240889
+
+243. Enterobacteria phage ID11 clone beta_8A_F5_5-12_1, complete genome
+5,577 bp circular DNA 
+KX266557.1 GI:1043240877
+
+244. Enterobacteria phage ID11 clone gamma_6C_F178_2, complete genome
+5,577 bp circular DNA 
+KX266556.1 GI:1043240865
+
+245. Enterobacteria phage ID11 clone gamma_6C_F178_1, complete genome
+5,577 bp circular DNA 
+KX266555.1 GI:1043240853
+
+246. Enterobacteria phage ID11 clone gamma_8E_F178_6, complete genome
+5,577 bp circular DNA 
+KX266554.1 GI:1043240841
+
+247. Enterobacteria phage ID11 clone gamma_6A_F322_6, complete genome
+5,577 bp circular DNA 
+KX266553.1 GI:1043240829
+
+248. Enterobacteria phage ID11 clone gamma_4A_F178_6, complete genome
+5,577 bp circular DNA 
+KX266552.1 GI:1043240817
+
+249. Enterobacteria phage ID11 clone gamma_3D_F416_5, complete genome
+5,577 bp circular DNA 
+KX266551.1 GI:1043240805
+
+250. Enterobacteria phage ID11 clone gamma_3D_F416_4, complete genome
+5,577 bp circular DNA 
+KX266550.1 GI:1043240793
+
+251. Enterobacteria phage ID11 clone gamma_3D_F416_3, complete genome
+5,577 bp circular DNA 
+KX266549.1 GI:1043240781
+
+252. Enterobacteria phage ID11 clone gamma_1D_J20_6, complete genome
+5,577 bp circular DNA 
+KX266548.1 GI:1043240769
+
+253. Enterobacteria phage ID11 clone beta_8C_F421_6, complete genome
+5,577 bp circular DNA 
+KX266547.1 GI:1043240757
+
+254. Enterobacteria phage ID11 clone beta_7D_F182_6, complete genome
+5,577 bp circular DNA 
+KX266546.1 GI:1043240745
+
+255. Enterobacteria phage ID11 clone alpha_7D_J20_6, complete genome
+5,577 bp circular DNA 
+KX266545.1 GI:1043240733
+
+256. Enterobacteria phage ID11 clone alpha_6C_J15_6, complete genome
+5,577 bp circular DNA 
+KX266544.1 GI:1043240721
+
+257. Enterobacteria phage ID11 clone alpha_5F_F178_6, complete genome
+5,577 bp circular DNA 
+KX266543.1 GI:1043240709
+
+258. Enterobacteria phage ID11 clone alpha_5D_F322_6, complete genome
+5,577 bp circular DNA 
+KX266542.1 GI:1043240697
+
+259. Enterobacteria phage ID11 clone alpha_5B_J20_6, complete genome
+5,577 bp circular DNA 
+KX266541.1 GI:1043240685
+
+260. Enterobacteria phage ID11 clone alpha_4E_F421_6, complete genome
+5,577 bp circular DNA 
+KX266540.1 GI:1043240673
+
+261. Enterobacteria phage ID11 clone alpha_4A_J15_6, complete genome
+5,577 bp circular DNA 
+KX266539.1 GI:1043240661
+
+262. Enterobacteria phage ID11 clone alpha_2C_F421_6, complete genome
+5,577 bp circular DNA 
+KX266538.1 GI:1043240649
+
+263. Enterobacteria phage ID11 clone gamma_8E_F178_5, complete genome
+5,577 bp circular DNA 
+KX266537.1 GI:1043240637
+
+264. Enterobacteria phage ID11 clone gamma_8C_F322_5, complete genome
+5,577 bp circular DNA 
+KX266536.1 GI:1043240625
+
+265. Enterobacteria phage ID11 clone gamma_8A_J20_5, complete genome
+5,577 bp circular DNA 
+KX266535.1 GI:1043240613
+
+266. Enterobacteria phage ID11 clone gamma_7D_F5_5, complete genome
+5,577 bp circular DNA 
+KX266534.1 GI:1043240601
+
+267. Enterobacteria phage ID11 clone gamma_7B_J15_5, complete genome
+5,577 bp circular DNA 
+KX266533.1 GI:1043240589
+
+268. Enterobacteria phage ID11 clone gamma_6E_F182_5, complete genome
+5,577 bp circular DNA 
+KX266532.1 GI:1043240577
+
+269. Enterobacteria phage ID11 clone gamma_6C_F178_5, complete genome
+5,577 bp circular DNA 
+KX266531.1 GI:1043240565
+
+270. Enterobacteria phage ID11 clone gamma_6A_F322_5, complete genome
+5,577 bp circular DNA 
+KX266530.1 GI:1043240553
+
+271. Enterobacteria phage ID11 clone gamma_4A_F178_5, complete genome
+5,577 bp circular DNA 
+KX266529.1 GI:1043240541
+
+272. Enterobacteria phage ID11 clone gamma_2E_J15_5, complete genome
+5,577 bp circular DNA 
+KX266528.1 GI:1043240529
+
+273. Enterobacteria phage ID11 clone gamma_2A_F182_5, complete genome
+5,577 bp circular DNA 
+KX266527.1 GI:1043240517
+
+274. Enterobacteria phage ID11 clone gamma_1F_F322_5, complete genome
+5,577 bp circular DNA 
+KX266526.1 GI:1043240505
+
+275. Enterobacteria phage ID11 clone gamma_1D_J20_5, complete genome
+5,577 bp circular DNA 
+KX266525.1 GI:1043240493
+
+276. Enterobacteria phage ID11 clone beta_7D_F182_5, complete genome
+5,577 bp circular DNA 
+KX266524.1 GI:1043240481
+
+277. Enterobacteria phage ID11 clone beta_6E_J20_5, complete genome
+5,577 bp circular DNA 
+KX266523.1 GI:1043240469
+
+278. Enterobacteria phage ID11 clone beta_6A_F421_5, complete genome
+5,577 bp circular DNA 
+KX266522.1 GI:1043240457
+
+279. Enterobacteria phage ID11 clone beta_5F_J15_5, complete genome
+5,577 bp circular DNA 
+KX266521.1 GI:1043240445
+
+280. Enterobacteria phage ID11 clone beta_5D_F355_5, complete genome
+5,577 bp circular DNA 
+KX266520.1 GI:1043240433
+
+281. Enterobacteria phage ID11 clone beta_5B_F182_5, complete genome
+5,577 bp circular DNA 
+KX266519.1 GI:1043240421
+
+282. Enterobacteria phage ID11 clone beta_4E_F322_5, complete genome
+5,577 bp circular DNA 
+KX266518.1 GI:1043240409
+
+283. Enterobacteria phage ID11 clone beta_4C_J20_5, complete genome
+5,577 bp circular DNA 
+KX266517.1 GI:1043240397
+
+284. Enterobacteria phage ID11 clone beta_3F_F5_5, complete genome
+5,577 bp circular DNA 
+KX266516.1 GI:1043240385
+
+285. Enterobacteria phage ID11 clone beta_3D_J15_5, complete genome
+5,577 bp circular DNA 
+KX266515.1 GI:1043240373
+
+286. Enterobacteria phage ID11 clone beta_3B_F355_5, complete genome
+5,577 bp circular DNA 
+KX266514.1 GI:1043240361
+
+287. Enterobacteria phage ID11 clone beta_2E_F178_5, complete genome
+5,577 bp circular DNA 
+KX266513.1 GI:1043240349
+
+288. Enterobacteria phage ID11 clone beta_2C_F322_5, complete genome
+5,577 bp circular DNA 
+KX266512.1 GI:1043240337
+
+289. Enterobacteria phage ID11 clone beta_2A_J20_5, complete genome
+5,577 bp circular DNA 
+KX266511.1 GI:1043240325
+
+290. Enterobacteria phage ID11 clone beta_1F_F421_5, complete genome
+5,577 bp circular DNA 
+KX266510.1 GI:1043240313
+
+291. Enterobacteria phage ID11 clone beta_1D_F5_5, complete genome
+5,577 bp circular DNA 
+KX266509.1 GI:1043240301
+
+292. Enterobacteria phage ID11 clone beta_1B_J15_5, complete genome
+5,577 bp circular DNA 
+KX266508.1 GI:1043240289
+
+293. Enterobacteria phage ID11 clone alpha_8E_J15_5, complete genome
+5,577 bp circular DNA 
+KX266507.1 GI:1043240277
+
+294. Enterobacteria phage ID11 clone alpha_8C_F355_5, complete genome
+5,577 bp circular DNA 
+KX266506.1 GI:1043240265
+
+295. Enterobacteria phage ID11 clone alpha_8A_F182_5, complete genome
+5,577 bp circular DNA 
+KX266505.1 GI:1043240253
+
+296. Enterobacteria phage ID11 clone alpha_7F_F322_5, complete genome
+5,577 bp circular DNA 
+KX266504.1 GI:1043240241
+
+297. Enterobacteria phage ID11 clone alpha_3F_F182_5, complete genome
+5,577 bp circular DNA 
+KX266503.1 GI:1043240229
+
+298. Enterobacteria phage ID11 clone alpha_3D_F178_5, complete genome
+5,577 bp circular DNA 
+KX266502.1 GI:1043240217
+
+299. Enterobacteria phage ID11 clone alpha_3B_F322_5, complete genome
+5,577 bp circular DNA 
+KX266501.1 GI:1043240205
+
+300. Enterobacteria phage ID11 clone alpha_2C_F421_5, complete genome
+5,577 bp circular DNA 
+KX266500.1 GI:1043240193
+
+301. Enterobacteria phage ID11 clone alpha_2A_F5_5, complete genome
+5,577 bp circular DNA 
+KX266499.1 GI:1043240181
+
+302. Enterobacteria phage ID11 clone alpha_1F_F355_5, complete genome
+5,577 bp circular DNA 
+KX266498.1 GI:1043240169
+
+303. Enterobacteria phage ID11 clone alpha_1D_F182_5, complete genome
+5,577 bp circular DNA 
+KX266497.1 GI:1043240157
+
+304. Enterobacteria phage ID11 clone alpha_1B_F178_5, complete genome
+5,577 bp circular DNA 
+KX266496.1 GI:1043240145
+
+305. Enterobacteria phage ID11 clone gamma_8A_J20_4, complete genome
+5,577 bp circular DNA 
+KX266495.1 GI:1043240133
+
+306. Enterobacteria phage ID11 clone gamma_7D_F5_4, complete genome
+5,577 bp circular DNA 
+KX266494.1 GI:1043240121
+
+307. Enterobacteria phage ID11 clone gamma_7B_J15_4, complete genome
+5,577 bp circular DNA 
+KX266493.1 GI:1043240109
+
+308. Enterobacteria phage ID11 clone gamma_6E_F182_4, complete genome
+5,577 bp circular DNA 
+KX266492.1 GI:1043240097
+
+309. Enterobacteria phage ID11 clone gamma_6C_F178_4, complete genome
+5,577 bp circular DNA 
+KX266491.1 GI:1043240085
+
+310. Enterobacteria phage ID11 clone gamma_2E_J15_4, complete genome
+5,577 bp circular DNA 
+KX266490.1 GI:1043240073
+
+311. Enterobacteria phage ID11 clone gamma_2A_F182_4, complete genome
+5,577 bp circular DNA 
+KX266489.1 GI:1043240061
+
+312. Enterobacteria phage ID11 clone gamma_1F_F322_4, complete genome
+5,577 bp circular DNA 
+KX266488.1 GI:1043240049
+
+313. Enterobacteria phage ID11 clone beta_6E_J20_4, complete genome
+5,577 bp circular DNA 
+KX266487.1 GI:1043240037
+
+314. Enterobacteria phage ID11 clone beta_6A_F421_4, complete genome
+5,577 bp circular DNA 
+KX266486.1 GI:1043240025
+
+315. Enterobacteria phage ID11 clone beta_5F_J15_4, complete genome
+5,577 bp circular DNA 
+KX266485.1 GI:1043240013
+
+316. Enterobacteria phage ID11 clone beta_5D_F355_4, complete genome
+5,577 bp circular DNA 
+KX266484.1 GI:1043240001
+
+317. Enterobacteria phage ID11 clone beta_5B_F182_4, complete genome
+5,577 bp circular DNA 
+KX266483.1 GI:1043239989
+
+318. Enterobacteria phage ID11 clone beta_4E_F322_4, complete genome
+5,577 bp circular DNA 
+KX266482.1 GI:1043239977
+
+319. Enterobacteria phage ID11 clone beta_4C_J20_4, complete genome
+5,577 bp circular DNA 
+KX266481.1 GI:1043239965
+
+320. Enterobacteria phage ID11 clone beta_3F_F5_4, complete genome
+5,577 bp circular DNA 
+KX266480.1 GI:1043239953
+
+321. Enterobacteria phage ID11 clone beta_3D_J15_4, complete genome
+5,577 bp circular DNA 
+KX266479.1 GI:1043239941
+
+322. Enterobacteria phage ID11 clone beta_3B_F355_4, complete genome
+5,577 bp circular DNA 
+KX266478.1 GI:1043239929
+
+323. Enterobacteria phage ID11 clone beta_2E_F178_4, complete genome
+5,577 bp circular DNA 
+KX266477.1 GI:1043239917
+
+324. Enterobacteria phage ID11 clone beta_2C_F322_4, complete genome
+5,577 bp circular DNA 
+KX266476.1 GI:1043239905
+
+325. Enterobacteria phage ID11 clone beta_2A_J20_4, complete genome
+5,577 bp circular DNA 
+KX266475.1 GI:1043239893
+
+326. Enterobacteria phage ID11 clone beta_1F_F421_4, complete genome
+5,577 bp circular DNA 
+KX266474.1 GI:1043239881
+
+327. Enterobacteria phage ID11 clone beta_1D_F5_4, complete genome
+5,577 bp circular DNA 
+KX266473.1 GI:1043239869
+
+328. Enterobacteria phage ID11 clone beta_1B_J15_4, complete genome
+5,577 bp circular DNA 
+KX266472.1 GI:1043239857
+
+329. Enterobacteria phage ID11 clone alpha_8E_J15_4, complete genome
+5,577 bp circular DNA 
+KX266471.1 GI:1043239845
+
+330. Enterobacteria phage ID11 clone alpha_8C_F355_4, complete genome
+5,577 bp circular DNA 
+KX266470.1 GI:1043239833
+
+331. Enterobacteria phage ID11 clone alpha_8A_F182_4, complete genome
+5,577 bp circular DNA 
+KX266469.1 GI:1043239821
+
+332. Enterobacteria phage ID11 clone alpha_7F_F322_4, complete genome
+5,577 bp circular DNA 
+KX266468.1 GI:1043239809
+
+333. Enterobacteria phage ID11 clone alpha_7D_J20_4, complete genome
+5,577 bp circular DNA 
+KX266467.1 GI:1043239797
+
+334. Enterobacteria phage ID11 clone alpha_6C_J15_4, complete genome
+5,577 bp circular DNA 
+KX266466.1 GI:1043239785
+
+335. Enterobacteria phage ID11 clone alpha_6A_F355_4, complete genome
+5,577 bp circular DNA 
+KX266465.1 GI:1043239773
+
+336. Enterobacteria phage ID11 clone alpha_5F_F178_4, complete genome
+5,577 bp circular DNA 
+KX266464.1 GI:1043239761
+
+337. Enterobacteria phage ID11 clone alpha_5D_F322_4, complete genome
+5,577 bp circular DNA 
+KX266463.1 GI:1043239749
+
+338. Enterobacteria phage ID11 clone alpha_5B_J20_4, complete genome
+5,577 bp circular DNA 
+KX266462.1 GI:1043239737
+
+339. Enterobacteria phage ID11 clone alpha_4E_F421_4, complete genome
+5,577 bp circular DNA 
+KX266461.1 GI:1043239725
+
+340. Enterobacteria phage ID11 clone alpha_4A_J15_4, complete genome
+5,577 bp circular DNA 
+KX266460.1 GI:1043239713
+
+341. Enterobacteria phage ID11 clone alpha_3F_F182_4, complete genome
+5,577 bp circular DNA 
+KX266459.1 GI:1043239701
+
+342. Enterobacteria phage ID11 clone alpha_3D_F178_4, complete genome
+5,577 bp circular DNA 
+KX266458.1 GI:1043239689
+
+343. Enterobacteria phage ID11 clone alpha_3B_F322_4, complete genome
+5,577 bp circular DNA 
+KX266457.1 GI:1043239677
+
+344. Enterobacteria phage ID11 clone alpha_2C_F421_4, complete genome
+5,577 bp circular DNA 
+KX266456.1 GI:1043239665
+
+345. Enterobacteria phage ID11 clone alpha_2A_F5_4, complete genome
+5,577 bp circular DNA 
+KX266455.1 GI:1043239653
+
+346. Enterobacteria phage ID11 clone alpha_1F_F355_4, complete genome
+5,577 bp circular DNA 
+KX266454.1 GI:1043239641
+
+347. Enterobacteria phage ID11 clone alpha_1D_F182_4, complete genome
+5,577 bp circular DNA 
+KX266453.1 GI:1043239629
+
+348. Enterobacteria phage ID11 clone alpha_1B_F178_4, complete genome
+5,577 bp circular DNA 
+KX266452.1 GI:1043239617
+
+349. Enterobacteria phage ID11 clone gamma_8E_F178_3, complete genome
+5,577 bp circular DNA 
+KX266451.1 GI:1043239605
+
+350. Enterobacteria phage ID11 clone gamma_8C_F322_3, complete genome
+5,577 bp circular DNA 
+KX266450.1 GI:1043239593
+
+351. Enterobacteria phage ID11 clone gamma_8A_J20_3, complete genome
+5,577 bp circular DNA 
+KX266449.1 GI:1043239581
+
+352. Enterobacteria phage ID11 clone gamma_7D_F5_3, complete genome
+5,577 bp circular DNA 
+KX266448.1 GI:1043239569
+
+353. Enterobacteria phage ID11 clone gamma_7B_J15_3, complete genome
+5,577 bp circular DNA 
+KX266447.1 GI:1043239557
+
+354. Enterobacteria phage ID11 clone gamma_6E_F182_3, complete genome
+5,577 bp circular DNA 
+KX266446.1 GI:1043239545
+
+355. Enterobacteria phage ID11 clone gamma_6C_F178_3, complete genome
+5,577 bp circular DNA 
+KX266445.1 GI:1043239533
+
+356. Enterobacteria phage ID11 clone gamma_6A_F322_3, complete genome
+5,577 bp circular DNA 
+KX266444.1 GI:1043239521
+
+357. Enterobacteria phage ID11 clone gamma_4A_F178_3, complete genome
+5,577 bp circular DNA 
+KX266443.1 GI:1043239509
+
+358. Enterobacteria phage ID11 clone gamma_2E_J15_3, complete genome
+5,577 bp circular DNA 
+KX266442.1 GI:1043239497
+
+359. Enterobacteria phage ID11 clone gamma_2A_F182_3, complete genome
+5,577 bp circular DNA 
+KX266441.1 GI:1043239485
+
+360. Enterobacteria phage ID11 clone gamma_1F_F322_3, complete genome
+5,577 bp circular DNA 
+KX266440.1 GI:1043239473
+
+361. Enterobacteria phage ID11 clone gamma_1D_J20_3, complete genome
+5,577 bp circular DNA 
+KX266439.1 GI:1043239461
+
+362. Enterobacteria phage ID11 clone beta_8C_F421_3, complete genome
+5,577 bp circular DNA 
+KX266438.1 GI:1043239449
+
+363. Enterobacteria phage ID11 clone beta_7D_F182_3, complete genome
+5,577 bp circular DNA 
+KX266437.1 GI:1043239437
+
+364. Enterobacteria phage ID11 clone beta_6E_J20_3, complete genome
+5,577 bp circular DNA 
+KX266436.1 GI:1043239425
+
+365. Enterobacteria phage ID11 clone beta_6A_F421_3, complete genome
+5,577 bp circular DNA 
+KX266435.1 GI:1043239413
+
+366. Enterobacteria phage ID11 clone beta_5F_J15_3, complete genome
+5,577 bp circular DNA 
+KX266434.1 GI:1043239401
+
+367. Enterobacteria phage ID11 clone beta_5D_F355_3, complete genome
+5,577 bp circular DNA 
+KX266433.1 GI:1043239389
+
+368. Enterobacteria phage ID11 clone beta_5B_F182_3, complete genome
+5,577 bp circular DNA 
+KX266432.1 GI:1043239377
+
+369. Enterobacteria phage ID11 clone beta_4E_F322_3, complete genome
+5,577 bp circular DNA 
+KX266431.1 GI:1043239365
+
+370. Enterobacteria phage ID11 clone beta_4C_J20_3, complete genome
+5,577 bp circular DNA 
+KX266430.1 GI:1043239353
+
+371. Enterobacteria phage ID11 clone beta_3F_F5_3, complete genome
+5,577 bp circular DNA 
+KX266429.1 GI:1043239341
+
+372. Enterobacteria phage ID11 clone beta_3D_J15_3, complete genome
+5,577 bp circular DNA 
+KX266428.1 GI:1043239329
+
+373. Enterobacteria phage ID11 clone beta_3B_F355_3, complete genome
+5,577 bp circular DNA 
+KX266427.1 GI:1043239317
+
+374. Enterobacteria phage ID11 clone beta_2E_F178_3, complete genome
+5,577 bp circular DNA 
+KX266426.1 GI:1043239305
+
+375. Enterobacteria phage ID11 clone beta_2C_F322_3, complete genome
+5,577 bp circular DNA 
+KX266425.1 GI:1043239293
+
+376. Enterobacteria phage ID11 clone beta_2A_J20_3, complete genome
+5,577 bp circular DNA 
+KX266424.1 GI:1043239281
+
+377. Enterobacteria phage ID11 clone beta_1F_F421_3, complete genome
+5,577 bp circular DNA 
+KX266423.1 GI:1043239269
+
+378. Enterobacteria phage ID11 clone beta_1D_F5_3, complete genome
+5,577 bp circular DNA 
+KX266422.1 GI:1043239257
+
+379. Enterobacteria phage ID11 clone beta_1B_J15_3, complete genome
+5,577 bp circular DNA 
+KX266421.1 GI:1043239245
+
+380. Enterobacteria phage ID11 clone alpha_8E_J15_3, complete genome
+5,577 bp circular DNA 
+KX266420.1 GI:1043239233
+
+381. Enterobacteria phage ID11 clone alpha_8C_F355_3, complete genome
+5,577 bp circular DNA 
+KX266419.1 GI:1043239221
+
+382. Enterobacteria phage ID11 clone alpha_8A_F182_3, complete genome
+5,577 bp circular DNA 
+KX266418.1 GI:1043239209
+
+383. Enterobacteria phage ID11 clone alpha_7F_F322_3, complete genome
+5,577 bp circular DNA 
+KX266417.1 GI:1043239197
+
+384. Enterobacteria phage ID11 clone alpha_7D_J20_3, complete genome
+5,577 bp circular DNA 
+KX266416.1 GI:1043239185
+
+385. Enterobacteria phage ID11 clone alpha_6C_J15_3, complete genome
+5,577 bp circular DNA 
+KX266415.1 GI:1043239173
+
+386. Enterobacteria phage ID11 clone alpha_6A_F355_3, complete genome
+5,577 bp circular DNA 
+KX266414.1 GI:1043239161
+
+387. Enterobacteria phage ID11 clone alpha_5F_F178_3, complete genome
+5,577 bp circular DNA 
+KX266413.1 GI:1043239149
+
+388. Enterobacteria phage ID11 clone alpha_5D_F322_3, complete genome
+5,577 bp circular DNA 
+KX266412.1 GI:1043239137
+
+389. Enterobacteria phage ID11 clone alpha_5B_J20_3, complete genome
+5,577 bp circular DNA 
+KX266411.1 GI:1043239125
+
+390. Enterobacteria phage ID11 clone alpha_4E_F421_3, complete genome
+5,577 bp circular DNA 
+KX266410.1 GI:1043239113
+
+391. Enterobacteria phage ID11 clone alpha_4A_J15_3, complete genome
+5,577 bp circular DNA 
+KX266409.1 GI:1043239101
+
+392. Enterobacteria phage ID11 clone alpha_3F_F182_3, complete genome
+5,577 bp circular DNA 
+KX266408.1 GI:1043239089
+
+393. Enterobacteria phage ID11 clone alpha_3D_F178_3, complete genome
+5,577 bp circular DNA 
+KX266407.1 GI:1043239077
+
+394. Enterobacteria phage ID11 clone alpha_3B_F322_3, complete genome
+5,577 bp circular DNA 
+KX266406.1 GI:1043239065
+
+395. Enterobacteria phage ID11 clone alpha_2C_F421_3, complete genome
+5,577 bp circular DNA 
+KX266405.1 GI:1043239053
+
+396. Enterobacteria phage ID11 clone alpha_2A_F5_3, complete genome
+5,577 bp circular DNA 
+KX266404.1 GI:1043239041
+
+397. Enterobacteria phage ID11 clone alpha_1F_F355_3, complete genome
+5,577 bp circular DNA 
+KX266403.1 GI:1043239029
+
+398. Enterobacteria phage ID11 clone alpha_1D_F182_3, complete genome
+5,577 bp circular DNA 
+KX266402.1 GI:1043239017
+
+399. Enterobacteria phage ID11 clone alpha_1B_F178_3, complete genome
+5,577 bp circular DNA 
+KX266401.1 GI:1043239005
+
+400. Enterobacteria phage ID11 clone gamma_1F_F322_2, complete genome
+5,577 bp circular DNA 
+KX266400.1 GI:1043238993
+
+401. Enterobacteria phage ID11 clone gamma_8E_F178_2, complete genome
+5,577 bp circular DNA 
+KX266399.1 GI:1043238981
+
+402. Enterobacteria phage ID11 clone gamma_6E_F182_2, complete genome
+5,577 bp circular DNA 
+KX266398.1 GI:1043238969
+
+403. Enterobacteria phage ID11 clone gamma_2E_J15_2, complete genome
+5,577 bp circular DNA 
+KX266397.1 GI:1043238957
+
+404. Enterobacteria phage ID11 clone gamma_7D_F5_2, complete genome
+5,577 bp circular DNA 
+KX266396.1 GI:1043238945
+
+405. Enterobacteria phage ID11 clone gamma_3D_F416_2, complete genome
+5,577 bp circular DNA 
+KX266395.1 GI:1043238933
+
+406. Enterobacteria phage ID11 clone gamma_1D_J20_2, complete genome
+5,577 bp circular DNA 
+KX266394.1 GI:1043238921
+
+407. Enterobacteria phage ID11 clone gamma_8C_F322_2, complete genome
+5,577 bp circular DNA 
+KX266393.1 GI:1043238909
+
+408. Enterobacteria phage ID11 clone gamma_7B_J15_2, complete genome
+5,577 bp circular DNA 
+KX266392.1 GI:1043238897
+
+409. Enterobacteria phage ID11 clone gamma_8A_J20_2, complete genome
+5,577 bp circular DNA 
+KX266391.1 GI:1043238885
+
+410. Enterobacteria phage ID11 clone gamma_6A_F322_2, complete genome
+5,577 bp circular DNA 
+KX266390.1 GI:1043238873
+
+411. Enterobacteria phage ID11 clone gamma_4A_F178_2, complete genome
+5,577 bp circular DNA 
+KX266389.1 GI:1043238861
+
+412. Enterobacteria phage ID11 clone gamma_2A_F182_2, complete genome
+5,577 bp circular DNA 
+KX266388.1 GI:1043238849
+
+413. Enterobacteria phage ID11 clone beta_5F_J15_2, complete genome
+5,577 bp circular DNA 
+KX266387.1 GI:1043238837
+
+414. Enterobacteria phage ID11 clone beta_3F_F5_2, complete genome
+5,577 bp circular DNA 
+KX266386.1 GI:1043238825
+
+415. Enterobacteria phage ID11 clone beta_1F_F421_2, complete genome
+5,577 bp circular DNA 
+KX266385.1 GI:1043238813
+
+416. Enterobacteria phage ID11 clone beta_6E_J20_2, complete genome
+5,577 bp circular DNA 
+KX266384.1 GI:1043238801
+
+417. Enterobacteria phage ID11 clone beta_4E_F322_2, complete genome
+5,577 bp circular DNA 
+KX266383.1 GI:1043238789
+
+418. Enterobacteria phage ID11 clone beta_2E_F178_2, complete genome
+5,577 bp circular DNA 
+KX266382.1 GI:1043238777
+
+419. Enterobacteria phage ID11 clone beta_7D_F182_2, complete genome
+5,577 bp circular DNA 
+KX266381.1 GI:1043238765
+
+420. Enterobacteria phage ID11 clone beta_5D_F355_2, complete genome
+5,577 bp circular DNA 
+KX266380.1 GI:1043238753
+
+421. Enterobacteria phage ID11 clone beta_3D_J15_2, complete genome
+5,577 bp circular DNA 
+KX266379.1 GI:1043238741
+
+422. Enterobacteria phage ID11 clone beta_1D_F5_2, complete genome
+5,577 bp circular DNA 
+KX266378.1 GI:1043238729
+
+423. Enterobacteria phage ID11 clone beta_8C_F421_2, complete genome
+5,577 bp circular DNA 
+KX266377.1 GI:1043238717
+
+424. Enterobacteria phage ID11 clone beta_4C_J20_2, complete genome
+5,577 bp circular DNA 
+KX266376.1 GI:1043238705
+
+425. Enterobacteria phage ID11 clone beta_2C_F322_2, complete genome
+5,577 bp circular DNA 
+KX266375.1 GI:1043238693
+
+426. Enterobacteria phage ID11 clone beta_5B_F182_2, complete genome
+5,577 bp circular DNA 
+KX266374.1 GI:1043238681
+
+427. Enterobacteria phage ID11 clone beta_3B_F355_2, complete genome
+5,577 bp circular DNA 
+KX266373.1 GI:1043238669
+
+428. Enterobacteria phage ID11 clone beta_1B_J15_2, complete genome
+5,577 bp circular DNA 
+KX266372.1 GI:1043238657
+
+429. Enterobacteria phage ID11 clone beta_6A_F421_2, complete genome
+5,577 bp circular DNA 
+KX266371.1 GI:1043238645
+
+430. Enterobacteria phage ID11 clone beta_2A_J20_2, complete genome
+5,577 bp circular DNA 
+KX266370.1 GI:1043238633
+
+431. Enterobacteria phage ID11 clone alpha_7F_F322_2, complete genome
+5,577 bp circular DNA 
+KX266369.1 GI:1043238621
+
+432. Enterobacteria phage ID11 clone alpha_5F_F178_2, complete genome
+5,577 bp circular DNA 
+KX266368.1 GI:1043238609
+
+433. Enterobacteria phage ID11 clone alpha_3F_F182_2, complete genome
+5,577 bp circular DNA 
+KX266367.1 GI:1043238597
+
+434. Enterobacteria phage ID11 clone alpha_1F_F355_2, complete genome
+5,577 bp circular DNA 
+KX266366.1 GI:1043238585
+
+435. Enterobacteria phage ID11 clone alpha_8E_J15_2, complete genome
+5,577 bp circular DNA 
+KX266365.1 GI:1043238573
+
+436. Enterobacteria phage ID11 clone alpha_4E_F421_2, complete genome
+5,577 bp circular DNA 
+KX266364.1 GI:1043238561
+
+437. Enterobacteria phage ID11 clone alpha_7D_J20_2, complete genome
+5,577 bp circular DNA 
+KX266363.1 GI:1043238549
+
+438. Enterobacteria phage ID11 clone alpha_5D_F322_2, complete genome
+5,577 bp circular DNA 
+KX266362.1 GI:1043238537
+
+439. Enterobacteria phage ID11 clone alpha_3D_F178_2, complete genome
+5,577 bp circular DNA 
+KX266361.1 GI:1043238525
+
+440. Enterobacteria phage ID11 clone alpha_1D_F182_2, complete genome
+5,577 bp circular DNA 
+KX266360.1 GI:1043238513
+
+441. Enterobacteria phage ID11 clone alpha_8C_F355_2, complete genome
+5,577 bp circular DNA 
+KX266359.1 GI:1043238501
+
+442. Enterobacteria phage ID11 clone alpha_6C_J15_2, complete genome
+5,577 bp circular DNA 
+KX266358.1 GI:1043238489
+
+443. Enterobacteria phage ID11 clone alpha_5B_J20_2, complete genome
+5,577 bp circular DNA 
+KX266357.1 GI:1043238477
+
+444. Enterobacteria phage ID11 clone alpha_3B_F322_2, complete genome
+5,577 bp circular DNA 
+KX266356.1 GI:1043238465
+
+445. Enterobacteria phage ID11 clone alpha_1B_F178_2, complete genome
+5,577 bp circular DNA 
+KX266355.1 GI:1043238453
+
+446. Enterobacteria phage ID11 clone alpha_8A_F182_2, complete genome
+5,577 bp circular DNA 
+KX266354.1 GI:1043238441
+
+447. Enterobacteria phage ID11 clone alpha_6A_F355_2, complete genome
+5,577 bp circular DNA 
+KX266353.1 GI:1043238429
+
+448. Enterobacteria phage ID11 clone alpha_4A_J15_2, complete genome
+5,577 bp circular DNA 
+KX266352.1 GI:1043238417
+
+449. Enterobacteria phage ID11 clone alpha_2A_F5_2, complete genome
+5,577 bp circular DNA 
+KX266351.1 GI:1043238405
+
+450. Enterobacteria phage ID11 clone gamma_1F_F322_1, complete genome
+5,577 bp circular DNA 
+KX266350.1 GI:1043238393
+
+451. Enterobacteria phage ID11 clone gamma_8E_F178_1, complete genome
+5,577 bp circular DNA 
+KX266349.1 GI:1043238381
+
+452. Enterobacteria phage ID11 clone gamma_6E_F182_1, complete genome
+5,577 bp circular DNA 
+KX266348.1 GI:1043238369
+
+453. Enterobacteria phage ID11 clone gamma_2E_J15_1, complete genome
+5,577 bp circular DNA 
+KX266347.1 GI:1043238357
+
+454. Enterobacteria phage ID11 clone gamma_7D_F5_1, complete genome
+5,577 bp circular DNA 
+KX266346.1 GI:1043238345
+
+455. Enterobacteria phage ID11 clone gamma_3D_F416_1, complete genome
+5,577 bp circular DNA 
+KX266345.1 GI:1043238333
+
+456. Enterobacteria phage ID11 clone gamma_1D_J20_1, complete genome
+5,577 bp circular DNA 
+KX266344.1 GI:1043238321
+
+457. Enterobacteria phage ID11 clone gamma_8C_F322_1, complete genome
+5,577 bp circular DNA 
+KX266343.1 GI:1043238309
+
+458. Enterobacteria phage ID11 clone gamma_7B_J15_1, complete genome
+5,577 bp circular DNA 
+KX266342.1 GI:1043238297
+
+459. Enterobacteria phage ID11 clone gamma_8A_J20_1, complete genome
+5,577 bp circular DNA 
+KX266341.1 GI:1043238285
+
+460. Enterobacteria phage ID11 clone gamma_6A_F322_1, complete genome
+5,577 bp circular DNA 
+KX266340.1 GI:1043238273
+
+461. Enterobacteria phage ID11 clone gamma_4A_F178_1, complete genome
+5,577 bp circular DNA 
+KX266339.1 GI:1043238261
+
+462. Enterobacteria phage ID11 clone gamma_2A_F182_1, complete genome
+5,577 bp circular DNA 
+KX266338.1 GI:1043238249
+
+463. Enterobacteria phage ID11 clone beta_5F_J15_1, complete genome
+5,577 bp circular DNA 
+KX266337.1 GI:1043238237
+
+464. Enterobacteria phage ID11 clone beta_3F_F5_1, complete genome
+5,577 bp circular DNA 
+KX266336.1 GI:1043238225
+
+465. Enterobacteria phage ID11 clone beta_1F_F421_1, complete genome
+5,577 bp circular DNA 
+KX266335.1 GI:1043238213
+
+466. Enterobacteria phage ID11 clone beta_6E_J20_1, complete genome
+5,577 bp circular DNA 
+KX266334.1 GI:1043238201
+
+467. Enterobacteria phage ID11 clone beta_4E_F322_1, complete genome
+5,577 bp circular DNA 
+KX266333.1 GI:1043238189
+
+468. Enterobacteria phage ID11 clone beta_2E_F178_1, complete genome
+5,577 bp circular DNA 
+KX266332.1 GI:1043238177
+
+469. Enterobacteria phage ID11 clone beta_7D_F182_1, complete genome
+5,577 bp circular DNA 
+KX266331.1 GI:1043238165
+
+470. Enterobacteria phage ID11 clone beta_5D_F355_1, complete genome
+5,577 bp circular DNA 
+KX266330.1 GI:1043238153
+
+471. Enterobacteria phage ID11 clone beta_3D_J15_1, complete genome
+5,577 bp circular DNA 
+KX266329.1 GI:1043238141
+
+472. Enterobacteria phage ID11 clone beta_1D_F5_1, complete genome
+5,577 bp circular DNA 
+KX266328.1 GI:1043238129
+
+473. Enterobacteria phage ID11 clone beta_8C_F421_1, complete genome
+5,577 bp circular DNA 
+KX266327.1 GI:1043238117
+
+474. Enterobacteria phage ID11 clone beta_4C_J20_1, complete genome
+5,577 bp circular DNA 
+KX266326.1 GI:1043238105
+
+475. Enterobacteria phage ID11 clone beta_2C_F322_1, complete genome
+5,577 bp circular DNA 
+KX266325.1 GI:1043238093
+
+476. Enterobacteria phage ID11 clone beta_5B_F182_1, complete genome
+5,577 bp circular DNA 
+KX266324.1 GI:1043238081
+
+477. Enterobacteria phage ID11 clone beta_3B_F355_1, complete genome
+5,577 bp circular DNA 
+KX266323.1 GI:1043238069
+
+478. Enterobacteria phage ID11 clone beta_1B_J15_1, complete genome
+5,577 bp circular DNA 
+KX266322.1 GI:1043238057
+
+479. Enterobacteria phage ID11 clone beta_6A_F421_1, complete genome
+5,577 bp circular DNA 
+KX266321.1 GI:1043238045
+
+480. Enterobacteria phage ID11 clone beta_2A_J20_1, complete genome
+5,577 bp circular DNA 
+KX266320.1 GI:1043238033
+
+481. Enterobacteria phage ID11 clone alpha_7F_F322_1, complete genome
+5,577 bp circular DNA 
+KX266319.1 GI:1043238021
+
+482. Enterobacteria phage ID11 clone alpha_5F_F178_1, complete genome
+5,577 bp circular DNA 
+KX266318.1 GI:1043238009
+
+483. Enterobacteria phage ID11 clone alpha_3F_F182_1, complete genome
+5,577 bp circular DNA 
+KX266317.1 GI:1043237997
+
+484. Enterobacteria phage ID11 clone alpha_1F_F355_1, complete genome
+5,577 bp circular DNA 
+KX266316.1 GI:1043237985
+
+485. Enterobacteria phage ID11 clone alpha_8E_J15_1, complete genome
+5,577 bp circular DNA 
+KX266315.1 GI:1043237973
+
+486. Enterobacteria phage ID11 clone alpha_4E_F421_1, complete genome
+5,577 bp circular DNA 
+KX266314.1 GI:1043237961
+
+487. Enterobacteria phage ID11 clone alpha_7D_J20_1, complete genome
+5,577 bp circular DNA 
+KX266313.1 GI:1043237949
+
+488. Enterobacteria phage ID11 clone alpha_5D_F322_1, complete genome
+5,577 bp circular DNA 
+KX266312.1 GI:1043237937
+
+489. Enterobacteria phage ID11 clone alpha_3D_F178_1, complete genome
+5,577 bp circular DNA 
+KX266311.1 GI:1043237925
+
+490. Enterobacteria phage ID11 clone alpha_1D_F182_1, complete genome
+5,577 bp circular DNA 
+KX266310.1 GI:1043237913
+
+491. Enterobacteria phage ID11 clone alpha_8C_F355_1, complete genome
+5,577 bp circular DNA 
+KX266309.1 GI:1043237901
+
+492. Enterobacteria phage ID11 clone alpha_6C_J15_1, complete genome
+5,577 bp circular DNA 
+KX266308.1 GI:1043237889
+
+493. Enterobacteria phage ID11 clone alpha_2C_F421_1, complete genome
+5,577 bp circular DNA 
+KX266307.1 GI:1043237877
+
+494. Enterobacteria phage ID11 clone alpha_5B_J20_1, complete genome
+5,577 bp circular DNA 
+KX266306.1 GI:1043237865
+
+495. Enterobacteria phage ID11 clone alpha_3B_F322_1, complete genome
+5,577 bp circular DNA 
+KX266305.1 GI:1043237853
+
+496. Enterobacteria phage ID11 clone alpha_1B_F178_1, complete genome
+5,577 bp circular DNA 
+KX266304.1 GI:1043237841
+
+497. Enterobacteria phage ID11 clone alpha_8A_F182_1, complete genome
+5,577 bp circular DNA 
+KX266303.1 GI:1043237829
+
+498. Enterobacteria phage ID11 clone alpha_6A_F355_1, complete genome
+5,577 bp circular DNA 
+KX266302.1 GI:1043237817
+
+499. Enterobacteria phage ID11 clone alpha_4A_J15_1, complete genome
+5,577 bp circular DNA 
+KX266301.1 GI:1043237805
+
+500. Enterobacteria phage ID11 clone alpha_2A_F5_1, complete genome
+5,577 bp circular DNA 
+KX266300.1 GI:1043237793
+
+501. Vibrio phage pre-CTX, partial genome
+4,919 bp linear DNA 
+KT779274.1 GI:1008987787
+
+502. Vibrio phage pre-CTX, partial genome
+4,901 bp linear DNA 
+KT779273.1 GI:1008987780
+
+503. Vibrio phage pre-CTX, partial genome
+4,594 bp linear DNA 
+KT779272.1 GI:1008987773
+
+504. Vibrio phage pre-CTX, partial genome
+4,583 bp linear DNA 
+KT779271.1 GI:1008987766
+
+505. Vibrio phage pre-CTX, partial genome
+4,583 bp linear DNA 
+KT779270.1 GI:1008987759
+
+506. Vibrio phage VFJ, complete genome
+8,555 bp circular DNA 
+KC357596.1 GI:509393484
+
+507. Cellulophaga phage phi48:1, complete genome
+6,478 bp circular DNA 
+KC821631.1 GI:514343164
+
+508. Cellulophaga phage phi18:4, complete genome
+6,478 bp circular DNA 
+KC821628.1 GI:514342987
+
+509. Cellulophaga phage phi12a:1, complete genome
+6,478 bp circular DNA 
+KC821623.1 GI:514342620
+
+510. Cellulophaga phage phi12:2, complete genome
+6,453 bp circular DNA 
+KC821606.1 GI:514341013
+
+511. Vibrio phage pre-CTX, complete genome
+5,712 bp linear DNA 
+KT728931.1 GI:946725803
+
+512. Vibrio phage pre-CTX, complete genome
+5,215 bp linear DNA 
+KT728930.1 GI:946725795
+
+513. Vibrio phage pre-CTX, complete genome
+5,087 bp linear DNA 
+KR063268.1 GI:930624321
+
+514. Vibrio phage pre-CTX, complete genome
+5,714 bp linear DNA 
+KR063267.1 GI:930624313
+
+515. Ralstonia phage RSS-TH1 DNA, complete genome
+7,273 bp circular DNA 
+LC066596.1 GI:902760908
+
+516. Parabacteroides phage YZ-2015b, complete genome
+5,001 bp circular DNA 
+KM589516.1 GI:823079561
+
+517. Parabacteroides phage YZ-2015a, complete genome
+4,623 bp circular DNA 
+KM589515.1 GI:823079554
+
+518. Vibrio phage pre-CTX, complete genome
+6,722 bp linear DNA 
+KP972569.1 GI:817033957
+
+519. Vibrio phage pre-CTX, complete genome
+6,722 bp linear DNA 
+KP972568.1 GI:817033949
+
+520. Enterobacteria phage phiX174, complete genome
+5,386 bp circular DNA 
+CP004084.1 GI:764044028
+
+521. Ralstonia phage RS603 DNA, complete genome
+7,679 bp circular DNA 
+AB937974.1 GI:697287956
+
+522. Vibrio phage CTX strain 81, partial genome
+8,000 bp linear DNA 
+KM352500.1 GI:729057596
+
+523. Ralstonia phage RS611 DNA, complete genome
+6,386 bp circular DNA 
+AB931172.1 GI:701456396
+
+524. Enterobacteria phage MED1, complete genome
+5,386 bp circular DNA 
+KJ997912.1 GI:670141884
+
+525. Vibrio phage CTX RstR (rstR), RstA (rstA), RstB (rstB), Cep (cep), OrfU (orfU), Ace (ace), Zot (zot), CtxA (ctxA), and CtxB (ctxB) genes, complete cds
+7,756 bp linear DNA 
+KF664572.1 GI:554621696
+
+526. Vibrio phage CTX isolate recombinant CTX-RS1 plasmid pCTX-1 RstR (rstR), RstA (rstA), RstB (rstB), Cep (cep), OrfU (orfu), Ace (ace), Zot (zot), CtxA (ctxA), CtxB (ctxB), RstR (rstR), RstA (rstA), RstB (rstB), and RstC (rstC) genes, complete cds
+10,621 bp linear DNA 
+KF664568.1 GI:554621671
+
+527. Vibrio phage CTX RstR (rstR), RstA (rstA), RstB (rstB), RstC (rstC), RstR (rstR), RstA (rstA), RstB (rstB), Cep (cep), OrfU (orfu), Ace (ace), Zot (zot), CtxA (ctxA), CtxB (ctxB), RstR (rstR), RstA (rstA), RstB (rstB), and RstC (rstC) genes, complete cds
+13,322 bp linear DNA 
+KF664566.1 GI:554621632
+
+528. Ralstonia phage RSMSuper DNA, complete genome
+8,956 bp circular DNA 
+AB981170.1 GI:672228712
+
+529. Xanthomonas phage XacF1 DNA, complete genome
+7,325 bp circular DNA 
+AB910602.1 GI:666669499
+
+530. Stenotrophomonas phage phiSMA6 proviral complete genome
+7,648 bp circular mRNA 
+HG315669.1 GI:515795044
+
+531. Stenotrophomonas phage phiSMA7 proviral complete genome
+7,069 bp circular DNA 
+HG007973.1 GI:512388774
+
+532. Vibrio phage CTX, complete genome
+6,446 bp linear DNA 
+KJ619459.1 GI:625369941
+
+533. Ralstonia phage 1 NP-2014, complete sequence
+8,460 bp circular DNA 
+KF887906.1 GI:584297588
+
+534. Chlamydia phage phiCPAR39, complete sequence
+4,532 bp circular DNA 
+AE002163.1 GI:7190959
+
+535. Uncultured phage WW-nAnB strain 3, complete genome
+5,210 bp circular DNA 
+KJ003982.1 GI:576017119
+
+536. Uncultured phage WW-nAnB strain 2, complete genome
+5,077 bp circular DNA 
+KJ003981.1 GI:576017109
+
+537. Enterobacteria phage FL76 Tallahassee/FL/2012, complete genome
+5,486 bp circular DNA 
+KF044310.1 GI:529282516
+
+538. Enterobacteria phage FL68 Tallahassee/FL/2012, complete genome
+5,486 bp circular DNA 
+KF044309.1 GI:529282504
+
+539. Ralstonia phage RSS20 DNA
+7,219 bp circular DNA 
+AB830321.1 GI:523567514
+
+540. Ralstonia phage RSS30 DNA, complete genome
+8,576 bp circular DNA 
+AB828698.1 GI:521258546
+
+541. Ralstonia phage RSM1 DNA, complete genome
+9,004 bp circular DNA 
+AB259123.2 GI:514382623
+
+542. Ralstonia phage RSM3 DNA, complete genome
+8,929 bp circular DNA 
+AB434711.1 GI:209730235
+
+543. Enterobacteria phage ID204 Moscow/ID, complete genome
+5,475 bp circular DNA 
+KC237308.1 GI:441462308
+
+544. Mutant Enterobacteria phage phiX174 isolate PhiX_10_3, complete genome
+5,386 bp circular DNA 
+JQ764988.2 GI:397909638
+
+545. Mutant Enterobacteria phage phiX174 isolate PhiX_10_5, complete genome
+5,386 bp circular DNA 
+JQ764990.1 GI:395653063
+
+546. Mutant Enterobacteria phage phiX174 isolate PhiX_10_4, complete genome
+5,386 bp circular DNA 
+JQ764989.1 GI:395653051
+
+547. Mutant Enterobacteria phage phiX174 isolate PhiX_10_2, complete genome
+5,386 bp circular DNA 
+JQ764987.1 GI:395653027
+
+548. Mutant Enterobacteria phage phiX174 isolate PhiX_10_1, complete genome
+5,386 bp circular DNA 
+JQ764986.1 GI:395653015
+
+549. Vibrio phage ND1-fs1 DNA, complete genome
+6,856 bp circular DNA 
+AB572858.1 GI:301335109
+
+550. Ralstonia phage RSS0, complete genome
+7,288 bp circular DNA 
+JQ408219.1 GI:378835341
+
+551. Mutant Enterobacteria phage G4 isolate G4_3, complete genome
+5,577 bp circular DNA 
+GQ153922.1 GI:262064207
+
+552. Vibrio phage CTX strain 03/09-TRG RstR (rstR), RstA (rstA), RstB (rstB), RstC (rstC), RstR (rstR), RstA (rstA), RstB (rstB), RstC (rstC), RstR (rstR), RstA (rstA), and RstB (rstB) genes, complete cds; and Cep (cep) gene, partial cds
+8,562 bp linear DNA 
+JN545746.1 GI:361051299
+
+553. Vibrio phage CTX strain 27/09-KB RstR (rstR), RstA (rstA), RstB (rstB), RstC (rstC), RstR (rstR), RstA (rstA), RstB (rstB), RstC (rstC), RstR (rstR), RstA (rstA), and RstB (rstB) genes, complete cds; and Cep (cep) gene, partial cds
+8,562 bp linear DNA 
+JN545745.1 GI:361051286
+
+554. Vibrio phage CTX strain 03/09-KB RstR (rstR), RstA (rstA), RstB (rstB), RstC (rstC), RstR (rstR), RstA (rstA), RstB (rstB), RstC (rstC), RstR (rstR), RstA (rstA), and RstB (rstB) genes, complete cds; and Cep (cep) gene, partial cds
+8,561 bp linear DNA 
+JN545744.1 GI:361051273
+
+555. Vibrio phage VCY-phi, complete genome
+7,103 bp linear DNA 
+JN848801.1 GI:354804972
+
+556. Uncultured phage WW-nAnB, complete genome
+4,817 bp linear DNA 
+JN402401.1 GI:348651832
+
+557. Enterobacteria phage f1 isolate f1_3_FR, complete genome
+6,407 bp circular DNA 
+JF719734.1 GI:350280606
+
+558. Enterobacteria phage f1 isolate f1_2_FR, complete genome
+6,407 bp circular DNA 
+JF719733.1 GI:350280595
+
+559. Enterobacteria phage f1 isolate f1_1_FR, complete genome
+6,407 bp circular DNA 
+JF719732.1 GI:350280584
+
+560. Enterobacteria phage phiX174 isolate phiX_3_FR, complete genome
+5,386 bp circular DNA 
+JF719728.1 GI:350280536
+
+561. Enterobacteria phage phiX174 isolate phiX_2_FR, complete genome
+5,386 bp circular DNA 
+JF719727.1 GI:350280524
+
+562. Enterobacteria phage phiX174 isolate phiX_1_FR, complete genome
+5,386 bp circular DNA 
+JF719726.1 GI:350280512
+
+563. Enterobacteria phage phiX174 isolate XC+MbD22im2, complete genome
+5,388 bp circular DNA 
+HM753718.1 GI:304442650
+
+564. Enterobacteria phage phiX174 isolate XC+MbD22im7, complete genome
+5,386 bp circular DNA 
+HM753717.1 GI:304442638
+
+565. Enterobacteria phage phiX174 isolate XC+MbD22im6, complete genome
+5,388 bp circular DNA 
+HM753716.1 GI:304442626
+
+566. Enterobacteria phage phiX174 isolate XC+MbD22im5, complete genome
+5,388 bp circular DNA 
+HM753715.1 GI:304442614
+
+567. Enterobacteria phage phiX174 isolate XC+MbD22im4, complete genome
+5,388 bp circular DNA 
+HM753714.1 GI:304442602
+
+568. Enterobacteria phage phiX174 isolate XC+MbD22im3, complete genome
+5,388 bp circular DNA 
+HM753713.1 GI:304442590
+
+569. Enterobacteria phage phiX174 isolate XC+MbD22ic7, complete genome
+5,386 bp circular DNA 
+HM753712.1 GI:304442578
+
+570. Enterobacteria phage phiX174 isolate XC+MbD22ic6, complete genome
+5,388 bp circular DNA 
+HM753711.1 GI:304442566
+
+571. Enterobacteria phage phiX174 isolate XC+MbD22ic5, complete genome
+5,388 bp circular DNA 
+HM753710.1 GI:304442554
+
+572. Enterobacteria phage phiX174 isolate XC+MbD22ic4, complete genome
+5,388 bp circular DNA 
+HM753709.1 GI:304442542
+
+573. Enterobacteria phage phiX174 isolate XC+MbD22ic3, complete genome
+5,388 bp circular DNA 
+HM753708.1 GI:304442530
+
+574. Enterobacteria phage phiX174 isolate XC+MbD22ic2, complete genome
+5,388 bp circular DNA 
+HM753707.1 GI:304442518
+
+575. Enterobacteria phage phiX174 isolate XC+mbD10im2, complete genome
+5,386 bp circular DNA 
+HM753706.1 GI:304442506
+
+576. Enterobacteria phage phiX174 isolate XC+Mbd10im1, complete genome
+5,386 bp circular DNA 
+HM753705.1 GI:304442494
+
+577. Enterobacteria phage phiX174 isolate XC+Mbd10ic2, complete genome
+5,386 bp circular DNA 
+HM753704.1 GI:304442482
+
+578. Enterobacteria phage phiX174 isolate XC+Mbd10ic1, complete genome
+5,386 bp circular DNA 
+HM753703.1 GI:304442470
+
+579. Enterobacteria phage phiX174 isolate XC+Mad22im8, complete genome
+5,387 bp circular DNA 
+HM753702.1 GI:304442458
+
+580. Enterobacteria phage phiX174 isolate XC+Mad22im7, complete genome
+5,386 bp circular DNA 
+HM753701.1 GI:304442446
+
+581. Enterobacteria phage phiX174 isolate XC+Mad22im5, complete genome
+5,386 bp circular DNA 
+HM753700.1 GI:304442434
+
+582. Enterobacteria phage phiX174 isolate XC+Mad22im4, complete genome
+5,386 bp circular DNA 
+HM753699.1 GI:304442422
+
+583. Enterobacteria phage phiX174 isolate XC+Mad22im3, complete genome
+5,387 bp circular DNA 
+HM753698.1 GI:304442410
+
+584. Enterobacteria phage phiX174 isolate XC+Mad22im2, complete genome
+5,386 bp circular DNA 
+HM753697.1 GI:304442398
+
+585. Enterobacteria phage phiX174 isolate XC+Mad22im1, complete genome
+5,387 bp circular DNA 
+HM753696.1 GI:304442386
+
+586. Enterobacteria phage phiX174 isolate XC+Mad22ic8, complete genome
+5,387 bp circular DNA 
+HM753695.1 GI:304442374
+
+587. Enterobacteria phage phiX174 isolate XC+Mad22ic7, complete genome
+5,387 bp circular DNA 
+HM753694.1 GI:304442362
+
+588. Enterobacteria phage phiX174 isolate XC+Mad22ic6, complete genome
+5,387 bp circular DNA 
+HM753693.1 GI:304442350
+
+589. Enterobacteria phage phiX174 isolate XC+Mad22ic5, complete genome
+5,387 bp circular DNA 
+HM753692.1 GI:304442338
+
+590. Enterobacteria phage phiX174 isolate XC+Mad22ic2, complete genome
+5,387 bp circular DNA 
+HM753691.1 GI:304442326
+
+591. Enterobacteria phage phiX174 isolate XC+Mad22ic1, complete genome
+5,387 bp circular DNA 
+HM753690.1 GI:304442314
+
+592. Enterobacteria phage phiX174 isolate XC+Mad20im8, complete genome
+5,386 bp circular DNA 
+HM753689.1 GI:304442302
+
+593. Enterobacteria phage phiX174 isolate XC+Mad20im6, complete genome
+5,386 bp circular DNA 
+HM753688.1 GI:304442290
+
+594. Enterobacteria phage phiX174 isolate XC+Mad20im2, complete genome
+5,387 bp circular DNA 
+HM753687.1 GI:304442278
+
+595. Enterobacteria phage phiX174 isolate XC+Mad20im1, complete genome
+5,386 bp circular DNA 
+HM753686.1 GI:304442266
+
+596. Enterobacteria phage phiX174 isolate XC+Mad20ic7, complete genome
+5,387 bp circular DNA 
+HM753685.1 GI:304442254
+
+597. Enterobacteria phage phiX174 isolate XC+Mad20ic6, complete genome
+5,387 bp circular DNA 
+HM753684.1 GI:304442242
+
+598. Enterobacteria phage phiX174 isolate XC+Mad20ic5, complete genome
+5,387 bp circular DNA 
+HM753683.1 GI:304442230
+
+599. Enterobacteria phage phiX174 isolate XC+Mad20ic3, complete genome
+5,387 bp circular DNA 
+HM753682.1 GI:304442218
+
+600. Enterobacteria phage phiX174 isolate XC+Mad20ic2, complete genome
+5,387 bp circular DNA 
+HM753681.1 GI:304442206
+
+601. Enterobacteria phage phiX174 isolate XC+Mad20ic1, complete genome
+5,387 bp circular DNA 
+HM753680.1 GI:304442194
+
+602. Enterobacteria phage phiX174 isolate XC+Mad14im2, complete genome
+5,386 bp circular DNA 
+HM753679.1 GI:304442182
+
+603. Enterobacteria phage phiX174 isolate XC+Mad14im1, complete genome
+5,386 bp circular DNA 
+HM753678.1 GI:304442170
+
+604. Enterobacteria phage phiX174 isolate XC+Mad14ic2, complete genome
+5,386 bp circular DNA 
+HM753677.1 GI:304442158
+
+605. Enterobacteria phage phiX174 isolate XC+Mad14ic1, complete genome
+5,386 bp circular DNA 
+HM753676.1 GI:304442146
+
+606. Enterobacteria phage phiX174 isolate XC+Mad10im8, complete genome
+5,386 bp circular DNA 
+HM753675.1 GI:304442134
+
+607. Enterobacteria phage phiX174 isolate XC+Mad10im7, complete genome
+5,386 bp circular DNA 
+HM753674.1 GI:304442122
+
+608. Enterobacteria phage phiX174 isolate XC+Mad10im6, complete genome
+5,386 bp circular DNA 
+HM753673.1 GI:304442110
+
+609. Enterobacteria phage phiX174 isolate XC+Mad10im4, complete genome
+5,386 bp circular DNA 
+HM753672.1 GI:304442098
+
+610. Enterobacteria phage phiX174 isolate XC+Mad10im3, complete genome
+5,386 bp circular DNA 
+HM753671.1 GI:304442086
+
+611. Enterobacteria phage phiX174 isolate XC+Mad10im2, complete genome
+5,386 bp circular DNA 
+HM753670.1 GI:304442074
+
+612. Enterobacteria phage phiX174 isolate XC+Mad10im1, complete genome
+5,386 bp circular DNA 
+HM753669.1 GI:304442062
+
+613. Enterobacteria phage phiX174 isolate XC+Mad10ic8, complete genome
+5,386 bp circular DNA 
+HM753668.1 GI:304442050
+
+614. Enterobacteria phage phiX174 isolate XC+Mad10ic7, complete genome
+5,386 bp circular DNA 
+HM753667.1 GI:304442038
+
+615. Enterobacteria phage phiX174 isolate XC+Mad10ic6, complete genome
+5,386 bp circular DNA 
+HM753666.1 GI:304442026
+
+616. Enterobacteria phage phiX174 isolate XC+Mad10ic4, complete genome
+5,386 bp circular DNA 
+HM753665.1 GI:304442014
+
+617. Enterobacteria phage phiX174 isolate XC+Mad10ic2, complete genome
+5,386 bp circular DNA 
+HM753664.1 GI:304442002
+
+618. Enterobacteria phage phiX174 isolate XC+Mad06im7, complete genome
+5,386 bp circular DNA 
+HM753663.1 GI:304441990
+
+619. Enterobacteria phage phiX174 isolate XC+Mad06im6, complete genome
+5,386 bp circular DNA 
+HM753662.1 GI:304441978
+
+620. Enterobacteria phage phiX174 isolate XC+Mad06im3, complete genome
+5,386 bp circular DNA 
+HM753661.1 GI:304441966
+
+621. Enterobacteria phage phiX174 isolate XC+Mad06im1, complete genome
+5,386 bp circular DNA 
+HM753660.1 GI:304441954
+
+622. Enterobacteria phage phiX174 isolate XC+Mad06ic5, complete genome
+5,386 bp circular DNA 
+HM753659.1 GI:304441942
+
+623. Enterobacteria phage phiX174 isolate XC+Mad06ic3, complete genome
+5,386 bp circular DNA 
+HM753658.1 GI:304441930
+
+624. Chlamydia phage 4, complete genome
+4,530 bp circular DNA 
+AY769964.1 GI:59940013
+
+625. Stenotrophomonas phage phiSHP2, complete genome
+5,819 bp circular DNA 
+HM150760.1 GI:331267965
+
+626. Phage M13 genome
+6,407 bp circular DNA 
+V00604.2 GI:56713234
+
+627. Spiroplasma phage 1-R8A2B complete genome
+8,273 bp circular DNA 
+X51344.1 GI:61993
+
+628. Ralstonia phage PE226, complete genome
+5,475 bp circular DNA 
+HM064452.1 GI:312099456
+
+629. Vibrio phage CTX strain MG116926 RstR (rstR), RstA (rstA), RstB (rstB), RstC (rstC), RstR (rstR), RstA (rstA), RstB (rstB), and RstC (rstC) genes, complete cds
+6,448 bp linear DNA 
+GQ485654.1 GI:259046177
+
+630. Vibrio phage CTX strain E1781 RstR (rstR), RstA (rstA), RstB (rstB), RstC (rstC), RstR (rstR), RstA (rstA), RstB (rstB), and RstC (rstC) genes, complete cds
+6,300 bp linear DNA 
+GQ485653.1 GI:259046168
+
+631. Vibrio phage CTX strain 01.07vp RstR (rstR), RstA (rstA), RstB (rstB), RstC (rstC), RstR (rstR), RstA (rstA), RstB (rstB), Cep (cep), hypothetical protein, Ace (ace), Zot (zot), CtxA (ctxA), and CtxB (ctxB) genes, complete cds
+10,628 bp linear DNA 
+GQ485652.1 GI:259046154
+
+632. Vibrio phage CTX strain IB4642 RstR (rstR), RstA (rstA), RstB (rstB), RstC (rstC), RstR (rstR), RstA (rstA), RstB (rstB), Cep (cep), hypothetical protein, Ace (ace), Zot (zot), CtxA (ctxA), and CtxB (ctxB) genes, complete cds
+10,628 bp linear DNA 
+GQ485651.1 GI:259046140
+
+633. Vibrio phage CTX strain IB4322 RstR (rstR), RstA (rstA), RstB (rstB), RstC (rstC), RstR (rstR), RstA (rstA), RstB (rstB), Cep (cep), hypothetical protein, Ace (ace), CtxA (ctxA), and CtxB (ctxB) genes, complete cds
+10,628 bp linear DNA 
+GQ485650.1 GI:259046127
+
+634. Vibrio phage CTX strain E1781 RstR (rstR), RstA (rstA), RstB (rstB), Cep (cep), hypothetical protein, Ace (ace), Zot (zot), CtxA (ctxA), CtxB (ctxB), RstR (rstR), RstA (rstA), RstB (rstB), Cep (cep), hypothetical protein, Ace (ace), Zot (zot), CtxA (ctxA), and CtxB (ctxB) genes, complete cds
+14,860 bp linear DNA 
+GQ485649.1 GI:259046108
+
+635. Vibrio phage CTX strain 07.95vp RstR (rstR), RstA (rstA), RstB (rstB), Cep (cep), hypothetical protein, Ace (ace), Zot (zot), CtxA (ctxA), CtxB (ctxB), RstR (rstR), RstA (rstA), RstB (rstB), Cep (cep), hypothetical protein, Ace (ace), Zot (zot), CtxA (ctxA), and CtxB (ctxB) genes, complete cds
+14,874 bp linear DNA 
+GQ485648.1 GI:259046089
+
+636. Vibrio phage CTX strain 12.02vp RstR (rstR), RstA (rstA), RstB (rstB), Cep (cep), hypothetical protein, Ace (ace), Zot (zot), CtxA (ctxA), CtxB (ctxB), RstR (rstR), RstA (rstA), RstB (rstB), Cep (cep), hypothetical protein, Ace (ace), Zot (zot), CtxA (ctxA), and CtxB (ctxB) genes, complete cds
+14,874 bp linear DNA 
+GQ485647.1 GI:259046070
+
+637. Vibrio phage CTX strain MG116926 RstR (rstR), RstA (rstA), RstB (rstB), Cep (cep), hypothetical protein, Ace (ace), Zot (zot), CtxA (ctxA), CtxB (ctxB), RstR (rstR), RstA (rstA), RstB (rstB), Cep (cep), hypothetical protein, Ace (ace), Zot (zot), CtxA (ctxA), and CtxB (ctxB) genes, complete cds
+14,874 bp linear DNA 
+GQ485646.1 GI:259046051
+
+638. Vibrio phage CTX strain MJ1236 RstR (rstR), RstA (rstA), RstB (rstB), Cep (cep), hypothetical protein, Ace (ace), Zot (zot), CtxA (ctxA), CtxB (ctxB), RstR (rstR), RstA (rstA), RstB (rstB), Cep (cep), hypothetical protein, Ace (ace), Zot (zot), CtxA (ctxA), and CtxB (ctxB) genes, complete cds
+15,285 bp linear DNA 
+GQ485645.1 GI:259046032
+
+639. Vibrio phage CTX strain B33 RstR (rstR), RstA (rstA), RstB (rstB), Cep (cep), hypothetical protein, Ace (ace), Zot (zot), CtxA (ctxA), CtxB (ctxB), RstR (rstR), RstA (rstA), RstB (rstB), Cep (cep), hypothetical protein, Ace (ace), Zot (zot), CtxA (ctxA), and CtxB (ctxB) genes, complete cds
+15,285 bp linear DNA 
+GQ485644.1 GI:259046013
+
+640. Vibrio phage CTX RstR (rstR), RstA (rstA), RstB (rstB), Cep (cep), Ace (ace), ZOT (zot), CtxA (ctxA), and CtxB (ctxB) genes, complete cds; and unknown gene
+7,830 bp linear DNA 
+GQ499847.1 GI:258523311
+
+641. Enterobacteria phage phiX174 strain beta4, complete genome
+5,359 bp circular DNA 
+HM775311.1 GI:304269291
+
+642. Enterobacteria phage phiX174 strain beta3, complete genome
+5,359 bp circular DNA 
+HM775310.1 GI:304269279
+
+643. Enterobacteria phage phiX174 strain beta2, complete genome
+5,359 bp circular DNA 
+HM775309.1 GI:304269267
+
+644. Enterobacteria phage phiX174 strain beta1, complete genome
+5,386 bp circular DNA 
+HM775308.1 GI:304269255
+
+645. Enterobacteria phage phiX174 strain alpha, complete genome
+5,386 bp circular DNA 
+HM775307.1 GI:304269243
+
+646. Enterobacteria phage phiX174 strain gamma, complete genome
+5,386 bp circular DNA 
+HM775306.1 GI:304269231
+
+647. Pseudomonas phage Pf1, complete prophage
+10,675 bp linear DNA 
+AY324828.1 GI:44889503
+
+648. Enterobacteria phage phiX174 isolate JACSK, complete genome
+5,386 bp circular DNA 
+GU385905.1 GI:288872851
+
+649. Enterobacteria phage phiX174 isolate JACS, complete genome
+5,386 bp circular DNA 
+FJ849058.1 GI:226973390
+
+650. Vibrio phage CTX strain IB1482 RstR (rstR), RstA (rstA), RstB (rstB), Cep (cep), hypothetical protein, Ace (ace), Zot (zot), CtxA (ctxA), CtxB (ctxB), RstR (rstR), RstA (rstA), RstB (rstB), Cep (cep), hypothetical protein, Ace (ace), Zot (zot), CtxA (ctxA), and CtxB (ctxB) genes, complete cds
+14,905 bp linear DNA 
+GQ466612.1 GI:259130245
+
+651. Vibrio phage CTX strain IB1617 RstR (rstR), RstA (rstA), RstB (rstB), Cep (cep), hypothetical protein, Ace (ace), Zot (zot), CtxA (ctxA), CtxB (ctxB), and RstR (rstR) genes, complete cds
+8,135 bp linear DNA 
+GQ466611.1 GI:259130234
+
+652. Vibrio phage CTX strain IB1627 RstR (rstR), RstA (rstA), RstB (rstB), Cep (cep), hypothetical protein, Ace (ace), Zot (zot), CtxA (ctxA), CtxB (ctxB), RstR (rstR), RstA (rstA), RstB (rstB), and RstC (rstC) genes, complete cds
+10,766 bp linear DNA 
+GQ466610.1 GI:259130220
+
+653. Vibrio phage CTX strain IB1346 RstR (rstR), RstA (rstA), RstB (rstB), Cep (cep), hypothetical protein, Ace (ace), Zot (zot), CtxA (ctxA), CtxB (ctxB), RstR (rstR), RstA (rstA), RstB (rstB), Cep (cep), hypothetical protein, Ace (ace), Zot (zot), CtxA (ctxA), and CtxB (ctxB) genes, complete cds
+14,898 bp linear DNA 
+GQ466609.1 GI:259130201
+
+654. Vibrio phage CTX strain IB1346 RstR (rstR), RstA (rstA), RstB (rstB), Cep (cep), hypothetical protein, Ace (ace), Zot (zot), CtxA (ctxA), CtxB (ctxB), RstR (rstR), RstA (rstA), RstB (rstB), RstC (rstC), RstR (rstR), RstA (rstA), RstB (rstB), and RstC (rstC) genes, complete cds
+13,607 bp linear DNA 
+GQ466608.1 GI:259130183
+
+655. Spiroplasma phage SVGII3, complete genome
+7,878 bp circular DNA 
+AJ969242.1 GI:74095489
+
+656. Vibrio cholerae phage VGJphi, complete genome
+7,542 bp circular DNA 
+AY242528.1 GI:29888080
+
+657. Vibrio phage VSK, complete genome
+6,882 bp circular DNA 
+AF453500.3 GI:18644955
+
+658. Enterobacteria phage G4 isolate Anc, complete genome
+5,577 bp circular DNA 
+AF454431.1 GI:17981444
+
+659. Vibrio phage CTX core region Cep (cep), OrfU (orfU), Ace (ace), and Zot (zot) genes, complete cds and Vibrio cholerae serogroup 0139, partial sequence
+5,728 bp linear DNA 
+AF416590.1 GI:15825405
+
+660. Phage phiMH2K, complete genome
+4,594 bp circular DNA 
+AF306496.1 GI:12017983
+
+661. Ralstonia phage p12J, complete genome
+7,118 bp linear DNA 
+AY374414.2 GI:156519262
+
+662. Vibrio phage VEJphi, complete genome
+6,842 bp circular DNA 
+FJ904927.1 GI:228547128
+
+663. Enterobacteria phage G4 isolate G4_ancestral, complete genome
+5,577 bp circular DNA 
+GQ153923.1 GI:262064218
+
+664. Mutant Enterobacteria phage G4 isolate G4_2, complete genome
+5,577 bp circular DNA 
+GQ153921.1 GI:262064196
+
+665. Mutant Enterobacteria phage G4 isolate G4_1, complete genome
+5,577 bp circular DNA 
+GQ153920.1 GI:262064185
+
+666. Enterobacteria phage f1 isolate F1_ancestral, complete genome
+6,407 bp circular DNA 
+GQ153919.1 GI:262064174
+
+667. Mutant Enterobacteria phage f1 isolate F1_3, complete genome
+6,407 bp circular DNA 
+GQ153918.1 GI:262064163
+
+668. Mutant Enterobacteria phage f1 isolate F1_2, complete genome
+6,407 bp circular DNA 
+GQ153917.1 GI:262064152
+
+669. Enterobacteria phage phiX174 isolate PhiX_ancestral, complete genome
+5,386 bp circular DNA 
+GQ153915.1 GI:262064129
+
+670. Mutant Enterobacteria phage phiX174 isolate PhiX_3, complete genome
+5,386 bp circular DNA 
+GQ153914.1 GI:262064117
+
+671. Mutant Enterobacteria phage phiX174 isolate PhiX_2, complete genome
+5,386 bp circular DNA 
+GQ153913.1 GI:262064105
+
+672. Mutant Enterobacteria phage phiX174 isolate PhiX_1, complete genome
+5,386 bp circular DNA 
+GQ153912.1 GI:262064093
+
+673. Enterobacteria phage St-1, complete genome
+6,094 bp circular DNA 
+GQ149088.1 GI:240129552
+
+674. Vibrio cholerae phage KSF-1phi, complete genome
+7,107 bp circular DNA 
+AY714348.1 GI:51949755
+
+675. Chlamydia phage PhiCPG1 complete genome
+4,529 bp circular DNA 
+U41758.1 GI:4096825
+
+676. Propionibacterium phage phiB5, complete genome
+5,804 bp circular DNA 
+AF428260.1 GI:19568200
+
+677. Spiroplasma phage 4 replicative form, complete genome
+4,421 bp circular DNA 
+M17988.1 GI:334998
+
+678. Enterobacteria phage fd strain 478, complete genome
+6,408 bp circular DNA 
+J02451.1 GI:215394
+
+679. Vibrio phage VfO4K68 DNA, complete genome
+6,891 bp circular DNA 
+AB043679.1 GI:8272363
+
+680. Vibrio phage VfO3K6 DNA, complete genome
+8,784 bp circular DNA 
+AB043678.1 GI:8272352
+
+681. Vibrio phage fs2 DNA, complete genome
+8,651 bp linear DNA 
+AB002632.1 GI:3702207
+
+682. Vibrio phage Vf12 DNA, complete genome
+7,965 bp circular DNA 
+AB012574.1 GI:3702707
+
+683. Vibrio phage Vf33 DNA, complete genome
+7,965 bp circular DNA 
+AB012573.1 GI:3702698
+
+684. Spiroplasma phage SVTS2, complete genome
+6,825 bp circular DNA 
+AF133242.2 GI:45594390
+
+685. Enterobacteria phage alpha3, complete genome
+6,089 bp circular DNA 
+DQ085810.2 GI:194304496
+
+686. Enterobacteria phage ID2 Moscow/ID/2001, complete genome
+5,486 bp circular DNA 
+DQ079869.1 GI:71842740
+
+687. Spiroplasma phage 1-C74, complete genome
+7,768 bp circular DNA 
+U28974.1 GI:1143019
+
+688. Chlamydia phage Chp1 DNA, complete genome
+4,877 bp circular DNA 
+D00624.1 GI:217761
+
+689. Ralstonia phage RSS1 DNA, complete genome
+6,662 bp circular DNA 
+AB259124.1 GI:117414103
+
+690. Enterobacteria phage f1 DNA, complete genome, isolate: NBRC 20015
+6,407 bp circular DNA 
+AB334721.1 GI:153902271
+
+691. Enterobacteria phage f1 DNA, complete genome, isolate: NBRC 20010
+6,407 bp circular DNA 
+AB334720.1 GI:153902260
+
+692. Enterobacteria phage phiX174 isolate DEL4, complete genome
+5,386 bp circular DNA 
+EF380032.1 GI:125661633
+
+693. Enterobacteria phage phiX174 isolate DEL1, complete genome
+5,386 bp circular DNA 
+EF380031.1 GI:125661621
+
+694. Enterobacteria phage phiX174 isolate 250C55, complete genome
+5,386 bp circular DNA 
+EF380030.1 GI:125661609
+
+695. Enterobacteria phage phiX174 isolate 250B55, complete genome
+5,386 bp circular DNA 
+EF380029.1 GI:125661597
+
+696. Enterobacteria phage phiX174 isolate 250A55, complete genome
+5,386 bp circular DNA 
+EF380028.1 GI:125661585
+
+697. Enterobacteria phage phiX174 isolate 10F90, complete genome
+5,386 bp circular DNA 
+EF380027.1 GI:125661573
+
+698. Enterobacteria phage phiX174 isolate 10E90, complete genome
+5,386 bp circular DNA 
+EF380026.1 GI:125661561
+
+699. Enterobacteria phage phiX174 isolate 10D90, complete genome
+5,386 bp circular DNA 
+EF380025.1 GI:125661549
+
+700. Enterobacteria phage phiX174 isolate 3F90, complete genome
+5,386 bp circular DNA 
+EF380024.1 GI:125661537
+
+701. Enterobacteria phage phiX174 isolate 3E90, complete genome
+5,386 bp circular DNA 
+EF380023.1 GI:125661525
+
+702. Enterobacteria phage phiX174 isolate 3D90, complete genome
+5,386 bp circular DNA 
+EF380022.1 GI:125661513
+
+703. Enterobacteria phage phiX174 isolate 100C90, complete genome
+5,386 bp circular DNA 
+EF380021.1 GI:125661501
+
+704. Enterobacteria phage phiX174 isolate 100B90, complete genome
+5,386 bp circular DNA 
+EF380020.1 GI:125661489
+
+705. Enterobacteria phage phiX174 isolate 100A90, complete genome
+5,386 bp circular DNA 
+EF380019.1 GI:125661477
+
+706. Enterobacteria phage phiX174 isolate 30C90, complete genome
+5,386 bp circular DNA 
+EF380018.1 GI:125661465
+
+707. Enterobacteria phage phiX174 isolate 30B90, complete genome
+5,386 bp circular DNA 
+EF380017.1 GI:125661453
+
+708. Enterobacteria phage phiX174 isolate 30A90, complete genome
+5,386 bp circular DNA 
+EF380016.1 GI:125661441
+
+709. Enterobacteria phage phiX174 isolate 10C90, complete genome
+5,386 bp circular DNA 
+EF380015.1 GI:125661429
+
+710. Enterobacteria phage phiX174 isolate 10B90, complete genome
+5,386 bp circular DNA 
+EF380014.1 GI:125661417
+
+711. Enterobacteria phage phiX174 isolate 10A90, complete genome
+5,386 bp circular DNA 
+EF380013.1 GI:125661405
+
+712. Enterobacteria phage phiX174 isolate 3C90, complete genome
+5,386 bp circular DNA 
+EF380012.1 GI:125661393
+
+713. Enterobacteria phage phiX174 isolate 3B90, complete genome
+5,386 bp circular DNA 
+EF380011.1 GI:125661381
+
+714. Enterobacteria phage phiX174 isolate 3A90, complete genome
+5,386 bp circular DNA 
+EF380010.1 GI:125661369
+
+715. Enterobacteria phage phiX174 isolate AP100, complete genome
+5,386 bp circular DNA 
+EF380009.1 GI:125661357
+
+716. Vibrio phage fs1 DNA, complete genome
+6,340 bp circular DNA 
+D89074.1 GI:2760297
+
+717. Phage phiSMA9 viral zot gene, rstA gene (partial), and ORF1-5
+6,907 bp circular DNA 
+AM040673.1 GI:68687875
+
+718. Genome of phage G4 (coliphage)
+5,577 bp circular DNA 
+V00657.1 GI:15831
+
+719. Chlamydia phage 3, complete genome
+4,554 bp circular DNA 
+AJ550635.1 GI:47522475
+
+720. Chlamydia phage 2 DNA, complete genome
+4,563 bp circular DNA 
+AJ270057.1 GI:7406588
+
+721. KR 1020200098624-A/1258: SINGLE MOLECULE DETECTION OR QUANTIFICATION BY DNA NANOTECHNOLOGY IN MICROWELLS
+7,308 bp linear DNA 
+OF064847.1 GI:2077270786
+
+722. KR 1020200098624-A/1257: SINGLE MOLECULE DETECTION OR QUANTIFICATION BY DNA NANOTECHNOLOGY IN MICROWELLS
+7,249 bp linear DNA 
+OF064846.1 GI:2077270785
+
+723. TPA_asm: Inoviridae sp. isolate ctbkI2, partial genome
+11,130 bp linear DNA 
+BK041494.1 GI:2059911699
+
+724. TPA_asm: Inoviridae sp. isolate ctpMR13, partial genome
+16,109 bp linear DNA 
+BK041454.1 GI:2059909220
+
+725. TPA_asm: Inoviridae sp. isolate ctnNq1, partial genome
+8,394 bp linear DNA 
+BK041182.1 GI:2059892006
+
+726. TPA_asm: Inoviridae sp. isolate ctbaU8, partial genome
+7,853 bp linear DNA 
+BK041128.1 GI:2059888367
+
+727. TPA_asm: Inoviridae sp. isolate ct8AQ6, partial genome
+4,846 bp linear DNA 
+BK040930.1 GI:2059875548
+
+728. TPA_asm: Inoviridae sp. isolate ctOWY8, partial genome
+8,758 bp linear DNA 
+BK040891.1 GI:2059873144
+
+729. TPA_asm: Inoviridae sp. isolate ct1v65, partial genome
+9,819 bp linear DNA 
+BK040397.1 GI:2059844604
+
+730. TPA_asm: Inoviridae sp. isolate ctEC31, partial genome
+7,961 bp linear DNA 
+BK040381.1 GI:2059843837
+
+731. TPA_asm: Inoviridae sp. isolate cttMf1, partial genome
+10,172 bp linear DNA 
+BK040358.1 GI:2059842308
+
+732. TPA_asm: Inoviridae sp. isolate ctOl711, partial genome
+9,291 bp linear DNA 
+BK040345.1 GI:2059841667
+
+733. TPA_asm: Inoviridae sp. isolate ctnuS4, partial genome
+9,669 bp linear DNA 
+BK040141.1 GI:2059829814
+
+734. TPA_asm: Inoviridae sp. isolate ctgba13, partial genome
+16,200 bp linear DNA 
+BK040062.1 GI:2059825276
+
+735. TPA_asm: Inoviridae sp. isolate ctJqL3, partial genome
+8,069 bp linear DNA 
+BK039727.1 GI:2059802564
+
+736. TPA_asm: Inoviridae sp. isolate ctDT74, partial genome
+9,906 bp linear DNA 
+BK039581.1 GI:2059793443
+
+737. TPA_asm: Inoviridae sp. isolate ctvp64, partial genome
+9,867 bp linear DNA 
+BK039307.1 GI:2059779553
+
+738. TPA_asm: Inoviridae sp. isolate ctaGf1, partial genome
+9,384 bp linear DNA 
+BK039263.1 GI:2059777179
+
+739. TPA_asm: Inoviridae sp. isolate ctLxA16, partial genome
+7,571 bp linear DNA 
+BK038996.1 GI:2059763450
+
+740. TPA_asm: Inoviridae sp. isolate ctTCV22, partial genome
+9,286 bp linear DNA 
+BK028040.1 GI:2059756782
+
+741. TPA_asm: Inoviridae sp. isolate ctdvW16, partial genome
+9,300 bp linear DNA 
+BK027980.1 GI:2059756171
+
+742. TPA_asm: Inoviridae sp. isolate ctBcC17, partial genome
+21,650 bp linear DNA 
+BK027663.1 GI:2059753186
+
+743. TPA_asm: Inoviridae sp. isolate ctUac1, partial genome
+8,400 bp linear DNA 
+BK027483.1 GI:2059751007
+
+744. TPA_asm: Inoviridae sp. isolate ctDS922, partial genome
+12,450 bp linear DNA 
+BK027377.1 GI:2059749548
+
+745. TPA_asm: Inoviridae sp. isolate ctzCa2, partial genome
+6,320 bp linear DNA 
+BK027321.1 GI:2059749108
+
+746. TPA_asm: Inoviridae sp. isolate ctFvi7, partial genome
+9,707 bp linear DNA 
+BK027000.1 GI:2059745898
+
+747. TPA_asm: Inoviridae sp. isolate ct9O71, partial genome
+9,333 bp linear DNA 
+BK026945.1 GI:2059745192
+
+748. TPA_asm: Inoviridae sp. isolate ctnlV15, partial genome
+10,200 bp linear DNA 
+BK026932.1 GI:2059744995
+
+749. TPA_asm: Inoviridae sp. isolate ct2iP7, partial genome
+10,950 bp linear DNA 
+BK026775.1 GI:2059743752
+
+750. TPA_asm: Inoviridae sp. isolate ctTsM18, partial genome
+16,050 bp linear DNA 
+BK026610.1 GI:2059741787
+
+751. TPA_asm: Inoviridae sp. isolate ctx6u14, partial genome
+26,000 bp linear DNA 
+BK026520.1 GI:2059740745
+
+752. TPA_asm: Inoviridae sp. isolate ctBtZ2, partial genome
+8,262 bp linear DNA 
+BK026458.1 GI:2059740428
+
+753. TPA_asm: Inoviridae sp. isolate ctWJB2, partial genome
+9,150 bp linear DNA 
+BK026415.1 GI:2059739988
+
+754. TPA_asm: Inoviridae sp. isolate cteJo1, partial genome
+16,481 bp linear DNA 
+BK026323.1 GI:2059739563
+
+755. TPA_asm: Inoviridae sp. isolate ctuGm20, partial genome
+10,400 bp linear DNA 
+BK025893.1 GI:2059736497
+
+756. TPA_asm: Inoviridae sp. isolate ctkgu37, partial genome
+20,950 bp linear DNA 
+BK025108.1 GI:2059729973
+
+757. TPA_asm: Inoviridae sp. isolate ctJql5, partial genome
+13,860 bp linear DNA 
+BK024948.1 GI:2059728525
+
+758. TPA_asm: Inoviridae sp. isolate ct6jA3, partial genome
+7,057 bp linear DNA 
+BK029613.1 GI:2059702523
+
+759. TPA_asm: Inoviridae sp. isolate ctp6W6, partial genome
+21,000 bp linear DNA 
+BK029600.1 GI:2059701222
+
+760. TPA_asm: Inoviridae sp. isolate ct5qk3, partial genome
+11,600 bp linear DNA 
+BK029458.1 GI:2059691432
+
+761. TPA_asm: CRESS virus sp. isolate ctcYd7, partial genome
+13,900 bp linear DNA 
+BK029432.1 GI:2059689808
+
+762. TPA_asm: Inoviridae sp. isolate ctZ913, partial genome
+5,587 bp linear DNA 
+BK029419.1 GI:2059689110
+
+763. TPA_asm: Inoviridae sp. isolate ctGcv4, partial genome
+21,950 bp linear DNA 
+BK028848.1 GI:2059655425
+
+764. TPA_asm: Microviridae sp. isolate ct1825, partial genome
+5,897 bp linear DNA 
+BK028380.1 GI:2059629545
+
+765. TPA_asm: Inoviridae sp. isolate cta6A2, partial genome
+31,349 bp linear DNA 
+BK037425.1 GI:2059617279
+
+766. TPA_asm: Inoviridae sp. isolate ct4SZ4, partial genome
+10,564 bp linear DNA 
+BK037346.1 GI:2059613483
+
+767. TPA_asm: Inoviridae sp. isolate cteXp24, partial genome
+7,109 bp linear DNA 
+BK037300.1 GI:2059610912
+
+768. TPA_asm: Inoviridae sp. isolate ctFmG9, partial genome
+11,482 bp linear DNA 
+BK037271.1 GI:2059609279
+
+769. TPA_asm: Inoviridae sp. isolate ctPvE6, partial genome
+26,981 bp linear DNA 
+BK037164.1 GI:2059604206
+
+770. TPA_asm: Inoviridae sp. isolate ctCVc5, partial genome
+13,939 bp linear DNA 
+BK036636.1 GI:2059577653
+
+771. TPA_asm: Inoviridae sp. isolate ctXGq1, partial genome
+15,800 bp linear DNA 
+BK036535.1 GI:2059571885
+
+772. TPA_asm: Inoviridae sp. isolate cte4m10, partial genome
+8,927 bp linear DNA 
+BK036490.1 GI:2059569337
+
+773. TPA_asm: Inoviridae sp. isolate ctBX510, partial genome
+8,992 bp linear DNA 
+BK036472.1 GI:2059568646
+
+774. TPA_asm: Inoviridae sp. isolate cthBU12, partial genome
+8,062 bp linear DNA 
+BK036386.1 GI:2059564476
+
+775. TPA_asm: Microviridae sp. isolate ctsfP3, partial genome
+6,107 bp linear DNA 
+BK036371.1 GI:2059563877
+
+776. TPA_asm: Inoviridae sp. isolate ctdOu2, partial genome
+17,464 bp linear DNA 
+BK036347.1 GI:2059562607
+
+777. TPA_asm: Inoviridae sp. isolate ctrqw6, partial genome
+15,548 bp linear DNA 
+BK034684.1 GI:2058160393
+
+778. TPA_asm: Inoviridae sp. isolate ct7xe1, partial genome
+8,399 bp linear DNA 
+BK034606.1 GI:2058156245
+
+779. TPA_asm: Inoviridae sp. isolate ctuO07, partial genome
+8,275 bp linear DNA 
+BK034467.1 GI:2058148703
+
+780. TPA_asm: Inoviridae sp. isolate ctsKr1, partial genome
+17,124 bp linear DNA 
+BK034437.1 GI:2058147352
+
+781. TPA_asm: Inoviridae sp. isolate ctaeJ5, partial genome
+9,291 bp linear DNA 
+BK033558.1 GI:2058100811
+
+782. TPA_asm: Inoviridae sp. isolate ct7Qh16, partial genome
+13,750 bp linear DNA 
+BK033507.1 GI:2058097480
+
+783. TPA_asm: Inoviridae sp. isolate ctDVc9, partial genome
+7,344 bp linear DNA 
+BK033500.1 GI:2058097294
+
+784. TPA_asm: Inoviridae sp. isolate ctMCl7, partial genome
+8,920 bp linear DNA 
+BK043026.1 GI:2058075237
+
+785. TPA_asm: Inoviridae sp. isolate ctlXs1, partial genome
+7,716 bp linear DNA 
+BK042848.1 GI:2058066295
+
+786. TPA_asm: Inoviridae sp. isolate cts5p2, partial genome
+11,050 bp linear DNA 
+BK042808.1 GI:2058064255
+
+787. TPA_asm: Inoviridae sp. isolate ct2ST13, partial genome
+7,985 bp linear DNA 
+BK042574.1 GI:2058052708
+
+788. TPA_asm: Inoviridae sp. isolate ct0985, partial genome
+7,930 bp linear DNA 
+BK042425.1 GI:2058045438
+
+789. TPA_asm: Inoviridae sp. isolate ctW9k18, partial genome
+11,380 bp linear DNA 
+BK042377.1 GI:2058042757
+
+790. TPA_asm: Inoviridae sp. isolate ctqHj10, partial genome
+7,486 bp linear DNA 
+BK042358.1 GI:2058041960
+
+791. TPA_asm: Inoviridae sp. isolate ctJQC2, partial genome
+12,440 bp linear DNA 
+BK042284.1 GI:2058037926
+
+792. TPA_asm: Inoviridae sp. isolate ct9S018, partial genome
+11,200 bp linear DNA 
+BK041834.1 GI:2058015696
+
+793. TPA_asm: Inoviridae sp. isolate ctCyW4, partial genome
+7,257 bp linear DNA 
+BK046779.1 GI:2057982265
+
+794. TPA_asm: Inoviridae sp. isolate ct4pk2, partial genome
+5,367 bp linear DNA 
+BK046290.1 GI:2057956386
+
+795. TPA_asm: Microviridae sp. isolate ctZ9e15, partial genome
+15,691 bp linear DNA 
+BK046278.1 GI:2057955467
+
+796. TPA_asm: Inoviridae sp. isolate ct9nG11, partial genome
+5,523 bp linear DNA 
+BK046178.1 GI:2057950303
+
+797. TPA_asm: Inoviridae sp. isolate cthsW4, partial genome
+27,386 bp linear DNA 
+BK045885.1 GI:2057936157
+
+798. TPA_asm: Inoviridae sp. isolate ctA1W23, partial genome
+5,266 bp linear DNA 
+BK045851.1 GI:2057934607
+
+799. TPA_asm: Inoviridae sp. isolate ctf7H26, partial genome
+8,111 bp linear DNA 
+BK045798.1 GI:2057930636
+
+800. TPA_asm: Inoviridae sp. isolate cta5e9, partial genome
+10,550 bp linear DNA 
+BK051603.1 GI:2057927153
+
+801. TPA_asm: Inoviridae sp. isolate ctv8A1, partial genome
+5,858 bp linear DNA 
+BK051451.1 GI:2057919097
+
+802. TPA_asm: Microviridae sp. isolate ctLUG2, partial genome
+5,991 bp linear DNA 
+BK051344.1 GI:2057912959
+
+803. TPA_asm: Inoviridae sp. isolate ctGYH2, partial genome
+12,486 bp linear DNA 
+BK051145.1 GI:2057900015
+
+804. TPA_asm: Inoviridae sp. isolate ctqXa16, partial genome
+8,713 bp linear DNA 
+BK051078.1 GI:2057895905
+
+805. TPA_asm: Inoviridae sp. isolate ctmTd13, partial genome
+5,913 bp linear DNA 
+BK050939.1 GI:2057886621
+
+806. TPA_asm: Inoviridae sp. isolate ctYis4, partial genome
+28,270 bp linear DNA 
+BK050833.1 GI:2057880594
+
+807. TPA_asm: Inoviridae sp. isolate ctjHP20, partial genome
+118,386 bp linear DNA 
+BK050429.1 GI:2057854854
+
+808. TPA_asm: Inoviridae sp. isolate ct9aU2, partial genome
+5,898 bp linear DNA 
+BK055792.1 GI:2057845701
+
+809. TPA_asm: Inoviridae sp. isolate ctphY2, partial genome
+7,347 bp linear DNA 
+BK055650.1 GI:2057837122
+
+810. TPA_asm: Inoviridae sp. isolate ctTZp11, partial genome
+12,979 bp linear DNA 
+BK055554.1 GI:2057831706
+
+811. TPA_asm: Inoviridae sp. isolate ctvyK2, partial genome
+5,051 bp linear DNA 
+BK055107.1 GI:2057806565
+
+812. TPA_asm: Inoviridae sp. isolate ctrx76, partial genome
+31,965 bp linear DNA 
+BK054926.1 GI:2057795283
+
+813. TPA_asm: Inoviridae sp. isolate ctMBG9, partial genome
+18,250 bp linear DNA 
+BK054891.1 GI:2057793046
+
+814. TPA_asm: Inoviridae sp. isolate ct9tj3, partial genome
+15,950 bp linear DNA 
+BK054807.1 GI:2057787093
+
+815. TPA_asm: Inoviridae sp. isolate ctHPa14, partial genome
+6,331 bp linear DNA 
+BK054793.1 GI:2057786240
+
+816. TPA_asm: Inoviridae sp. isolate ctWC68, partial genome
+12,387 bp linear DNA 
+BK058966.1 GI:2057178442
+
+817. TPA_asm: Inoviridae sp. isolate ct5N49, partial genome
+8,884 bp linear DNA 
+BK058900.1 GI:2057175348
+
+818. TPA_asm: Inoviridae sp. isolate ct9wA4, partial genome
+55,954 bp linear DNA 
+BK058493.1 GI:2057149770
+
+819. TPA_asm: Inoviridae sp. isolate cttGx4, partial genome
+9,740 bp linear DNA 
+BK058268.1 GI:2057138384
+
+820. TPA_asm: Inoviridae sp. isolate ctjDR3, partial genome
+8,828 bp linear DNA 
+BK057876.1 GI:2057116576
+
+821. TPA_asm: Inoviridae sp. isolate cts6n6, partial genome
+20,700 bp linear DNA 
+BK038475.1 GI:2057108830
+
+822. TPA_asm: Inoviridae sp. isolate ct2qB16, partial genome
+7,157 bp linear DNA 
+BK038453.1 GI:2057107553
+
+823. TPA_asm: Inoviridae sp. isolate ctsTY7, partial genome
+16,147 bp linear DNA 
+BK038368.1 GI:2057103586
+
+824. TPA_asm: Inoviridae sp. isolate ctWQh7, partial genome
+8,958 bp linear DNA 
+BK038363.1 GI:2057103308
+
+825. TPA_asm: Inoviridae sp. isolate ctcg62, partial genome
+6,459 bp linear DNA 
+BK038216.1 GI:2057095780
+
+826. TPA_asm: Inoviridae sp. isolate ctcA711, partial genome
+9,226 bp linear DNA 
+BK038104.1 GI:2057090415
+
+827. TPA_asm: Inoviridae sp. isolate ctlQH11, partial genome
+24,618 bp linear DNA 
+BK038098.1 GI:2057090093
+
+828. TPA_asm: Microviridae sp. isolate ct2DQ19, partial genome
+36,995 bp linear DNA 
+BK038085.1 GI:2057089470
+
+829. TPA_asm: Inoviridae sp. isolate ctsY314, partial genome
+6,110 bp linear DNA 
+BK037926.1 GI:2057081351
+
+830. TPA_asm: Microviridae sp. isolate ct36t13, partial genome
+5,534 bp linear DNA 
+BK037870.1 GI:2057078538
+
+831. TPA_asm: Microviridae sp. isolate cto0l3, partial genome
+5,704 bp linear DNA 
+BK037858.1 GI:2057078047
+
+832. TPA_asm: Microviridae sp. isolate ct3jU11, partial genome
+5,846 bp linear DNA 
+BK037598.1 GI:2057065615
+
+833. TPA_asm: CRESS virus sp. isolate ctt4z3, partial genome
+14,168 bp linear DNA 
+BK049498.1 GI:2057052453
+
+834. TPA_asm: Inoviridae sp. isolate ctFoF13, partial genome
+10,800 bp linear DNA 
+BK049450.1 GI:2057050093
+
+835. TPA_asm: Inoviridae sp. isolate ctFES7, partial genome
+24,600 bp linear DNA 
+BK049390.1 GI:2057046767
+
+836. TPA_asm: CRESS virus sp. isolate ctr9q11, partial genome
+7,150 bp linear DNA 
+BK048789.1 GI:2057017133
+
+837. TPA_asm: Inoviridae sp. isolate ctTXy3, partial genome
+5,865 bp linear DNA 
+BK048497.1 GI:2057000787
+
+838. TPA_asm: Inoviridae sp. isolate ctS9S2, partial genome
+6,277 bp linear DNA 
+BK023509.1 GI:2056989875
+
+839. TPA_asm: Inoviridae sp. isolate ctVkQ11, partial genome
+7,601 bp linear DNA 
+BK023494.1 GI:2056989093
+
+840. TPA_asm: Inoviridae sp. isolate ctzVT1, partial genome
+5,755 bp linear DNA 
+BK022860.1 GI:2056958543
+
+841. TPA_asm: CRESS virus sp. isolate ctfvz7, partial genome
+9,212 bp linear DNA 
+BK022846.1 GI:2056958071
+
+842. TPA_asm: Inoviridae sp. isolate ctCZh2, partial genome
+9,893 bp linear DNA 
+BK054306.1 GI:2056920779
+
+843. TPA_asm: Inoviridae sp. isolate ctSwM8, partial genome
+8,827 bp linear DNA 
+BK054279.1 GI:2056919393
+
+844. TPA_asm: Inoviridae sp. isolate ctU8W9, partial genome
+98,996 bp linear DNA 
+BK054229.1 GI:2056916965
+
+845. TPA_asm: Inoviridae sp. isolate ctBqO24, partial genome
+7,431 bp linear DNA 
+BK054214.1 GI:2056916403
+
+846. TPA_asm: Inoviridae sp. isolate ctOD110, partial genome
+17,650 bp linear DNA 
+BK053878.1 GI:2056899215
+
+847. TPA_asm: Inoviridae sp. isolate ctKTw4, partial genome
+5,083 bp linear DNA 
+BK053727.1 GI:2056892461
+
+848. TPA_asm: Inoviridae sp. isolate ctMlF9, partial genome
+8,597 bp linear DNA 
+BK053677.1 GI:2056890097
+
+849. TPA_asm: Inoviridae sp. isolate ct2Vp13, partial genome
+18,602 bp linear DNA 
+BK053541.1 GI:2056883710
+
+850. TPA_asm: Inoviridae sp. isolate ctBrI6, partial genome
+5,379 bp linear DNA 
+BK053536.1 GI:2056883455
+
+851. TPA_asm: Inoviridae sp. isolate ctWfi4, partial genome
+15,700 bp linear DNA 
+BK053528.1 GI:2056883065
+
+852. TPA_asm: Inoviridae sp. isolate ctfeg1, partial genome
+5,620 bp linear DNA 
+BK044703.1 GI:2056872136
+
+853. TPA_asm: Inoviridae sp. isolate ctisO2, partial genome
+6,690 bp linear DNA 
+BK044681.1 GI:2056870887
+
+854. TPA_asm: Inoviridae sp. isolate ctOUb3, partial genome
+10,989 bp linear DNA 
+BK044621.1 GI:2056867760
+
+855. TPA_asm: Inoviridae sp. isolate ctumj8, partial genome
+10,071 bp linear DNA 
+BK044504.1 GI:2056861576
+
+856. TPA_asm: Inoviridae sp. isolate ctI0821, partial genome
+26,950 bp linear DNA 
+BK044307.1 GI:2056850090
+
+857. TPA_asm: Inoviridae sp. isolate ctIw26, partial genome
+24,550 bp linear DNA 
+BK044237.1 GI:2056846704
+
+858. TPA_asm: Inoviridae sp. isolate ctx2K3, partial genome
+8,606 bp linear DNA 
+BK044096.1 GI:2056839431
+
+859. TPA_asm: Inoviridae sp. isolate ctXjl4, partial genome
+12,743 bp linear DNA 
+BK044060.1 GI:2056837707
+
+860. TPA_asm: Inoviridae sp. isolate cti9L17, partial genome
+5,399 bp linear DNA 
+BK044033.1 GI:2056836410
+
+861. TPA_asm: Inoviridae sp. isolate ctLzZ1, partial genome
+10,282 bp linear DNA 
+BK057593.1 GI:2056815095
+
+862. TPA_asm: Inoviridae sp. isolate ct8rw10, partial genome
+7,590 bp linear DNA 
+BK057566.1 GI:2056813795
+
+863. TPA_asm: Inoviridae sp. isolate ctvvg3, partial genome
+19,450 bp linear DNA 
+BK057524.1 GI:2056811783
+
+864. TPA_asm: Inoviridae sp. isolate ctMGq3, partial genome
+17,040 bp linear DNA 
+BK045722.1 GI:2056770937
+
+865. TPA_asm: Inoviridae sp. isolate ct0IR21, partial genome
+28,462 bp linear DNA 
+BK045651.1 GI:2056767787
+
+866. TPA_asm: Inoviridae sp. isolate cto3X1, partial genome
+31,450 bp linear DNA 
+BK045642.1 GI:2056767256
+
+867. TPA_asm: Inoviridae sp. isolate ct21t5, partial genome
+7,981 bp linear DNA 
+BK045590.1 GI:2056764717
+
+868. TPA_asm: Inoviridae sp. isolate ctoJk8, partial genome
+8,215 bp linear DNA 
+BK045552.1 GI:2056762762
+
+869. TPA_asm: Inoviridae sp. isolate ctpv15, partial genome
+8,979 bp linear DNA 
+BK045429.1 GI:2056756337
+
+870. TPA_asm: Inoviridae sp. isolate ct0Rg2, partial genome
+9,701 bp linear DNA 
+BK045394.1 GI:2056754662
+
+871. TPA_asm: Inoviridae sp. isolate ct94w8, partial genome
+5,089 bp linear DNA 
+BK045192.1 GI:2056745239
+
+872. TPA_asm: Inoviridae sp. isolate ct5Ei2, partial genome
+5,401 bp linear DNA 
+BK050094.1 GI:2054800215
+
+873. TPA_asm: Inoviridae sp. isolate ctoyC15, partial genome
+16,507 bp linear DNA 
+BK050093.1 GI:2054800178
+
+874. TPA_asm: Inoviridae sp. isolate ct4HV5, partial genome
+12,400 bp linear DNA 
+BK049715.1 GI:2054779835
+
+875. TPA_asm: Inoviridae sp. isolate ct28P3, partial genome
+7,457 bp linear DNA 
+BK049625.1 GI:2054774183
+
+876. TPA_asm: Inoviridae sp. isolate ct7h71, partial genome
+10,226 bp linear DNA 
+BK049614.1 GI:2054773558
+
+877. TPA_asm: Inoviridae sp. isolate ctPtv9, partial genome
+8,127 bp linear DNA 
+BK043623.1 GI:2054761288
+
+878. TPA_asm: Inoviridae sp. isolate ctqQ43, partial genome
+6,642 bp linear DNA 
+BK043403.1 GI:2054750353
+
+879. TPA_asm: Inoviridae sp. isolate ctfYl11, partial genome
+59,942 bp linear DNA 
+BK038855.1 GI:2054737053
+
+880. TPA_asm: Inoviridae sp. isolate cti2d12, partial genome
+7,750 bp linear DNA 
+BK038740.1 GI:2054731817
+
+881. TPA_asm: Inoviridae sp. isolate ctFbs6, partial genome
+8,252 bp linear DNA 
+BK053366.1 GI:2054718212
+
+882. TPA_asm: Inoviridae sp. isolate ctFQ711, partial genome
+6,200 bp linear DNA 
+BK052839.1 GI:2054692856
+
+883. TPA_asm: Inoviridae sp. isolate ct2zk12, partial genome
+7,345 bp linear DNA 
+BK052642.1 GI:2054682801
+
+884. TPA_asm: Inoviridae sp. isolate ctjGh8, partial genome
+14,150 bp linear DNA 
+BK052325.1 GI:2054666916
+
+885. TPA_asm: Inoviridae sp. isolate ctI5f3, partial genome
+5,517 bp linear DNA 
+BK052218.1 GI:2054661180
+
+886. TPA_asm: Inoviridae sp. isolate ctXC58, partial genome
+12,306 bp linear DNA 
+BK052110.1 GI:2054655574
+
+887. TPA_asm: Inoviridae sp. isolate ctJG56, partial genome
+18,650 bp linear DNA 
+BK051800.1 GI:2054640328
+
+888. TPA_asm: Inoviridae sp. isolate ctcuq11, partial genome
+9,189 bp linear DNA 
+BK051796.1 GI:2054640097
+
+889. TPA_asm: Inoviridae sp. isolate cteP810, partial genome
+8,753 bp linear DNA 
+BK051712.1 GI:2054635527
+
+890. TPA_asm: Microviridae sp. isolate ctFI11, partial genome
+5,137 bp linear DNA 
+BK021885.1 GI:2054608078
+
+891. TPA_asm: Inoviridae sp. isolate ctdss16, partial genome
+9,959 bp linear DNA 
+BK021841.1 GI:2054605923
+
+892. TPA_asm: Inoviridae sp. isolate ctZ6V1, partial genome
+13,100 bp linear DNA 
+BK021722.1 GI:2054600116
+
+893. TPA_asm: Inoviridae sp. isolate ct7Hy2, partial genome
+12,976 bp linear DNA 
+BK021397.1 GI:2054584566
+
+894. TPA_asm: Inoviridae sp. isolate ctW9y4, partial genome
+7,237 bp linear DNA 
+BK048328.1 GI:2054565232
+
+895. TPA_asm: Inoviridae sp. isolate ctlbF4, partial genome
+9,684 bp linear DNA 
+BK048093.1 GI:2054553340
+
+896. TPA_asm: Microviridae sp. isolate ctm4M3, partial genome
+5,054 bp linear DNA 
+BK048035.1 GI:2054550486
+
+897. TPA_asm: Inoviridae sp. isolate ct4DJ1, partial genome
+14,150 bp linear DNA 
+BK032400.1 GI:2054503448
+
+898. TPA_asm: Inoviridae sp. isolate ctzp04, partial genome
+17,550 bp linear DNA 
+BK031967.1 GI:2054481614
+
+899. TPA_asm: Inoviridae sp. isolate ct4Eh10, partial genome
+6,335 bp linear DNA 
+BK031898.1 GI:2054478532
+
+900. TPA_asm: Inoviridae sp. isolate ctNpO5, partial genome
+11,485 bp linear DNA 
+BK031739.1 GI:2054471149
+
+901. TPA_asm: Inoviridae sp. isolate ctSjg4, partial genome
+49,000 bp linear DNA 
+BK036222.1 GI:2054444724
+
+902. TPA_asm: Inoviridae sp. isolate ctppP11, partial genome
+19,050 bp linear DNA 
+BK035896.1 GI:2054428949
+
+903. TPA_asm: Inoviridae sp. isolate ctBpV9, partial genome
+5,467 bp linear DNA 
+BK035498.1 GI:2054409695
+
+904. TPA_asm: Inoviridae sp. ctiYN10, partial genome
+10,700 bp linear DNA 
+BK031239.1 GI:2054402287
+
+905. TPA_asm: Inoviridae sp. isolate ctNOU3, partial genome
+7,497 bp linear DNA 
+BK017302.1 GI:2053218847
+
+906. TPA_asm: Microviridae sp. isolate ctgso20, partial genome
+6,200 bp linear DNA 
+BK017209.1 GI:2053213804
+
+907. TPA_asm: Inoviridae sp. isolate ctIqu11, partial genome
+8,357 bp linear DNA 
+BK017199.1 GI:2053213238
+
+908. TPA_asm: Inoviridae sp. isolate ctvc71, partial genome
+7,903 bp linear DNA 
+BK017128.1 GI:2053209525
+
+909. TPA_asm: Inoviridae sp. isolate ctIy22, partial genome
+9,502 bp linear DNA 
+BK017045.1 GI:2053205131
+
+910. TPA_asm: Inoviridae sp. isolate ctrOl2, partial genome
+10,745 bp linear DNA 
+BK016992.1 GI:2053202091
+
+911. TPA_asm: Inoviridae sp. isolate ct5Vx2, partial genome
+4,417 bp linear DNA 
+BK016584.1 GI:2053195862
+
+912. TPA_asm: Inoviridae sp. ct0MH15, partial genome
+7,446 bp linear DNA 
+BK016260.1 GI:2053180869
+
+913. TPA_asm: Inoviridae sp. ctTUL13, partial genome
+8,946 bp linear DNA 
+BK016119.1 GI:2053171815
+
+914. TPA_asm: Inoviridae sp. isolate ctHQq4, partial genome
+10,623 bp linear DNA 
+BK018673.1 GI:2053134619
+
+915. TPA_asm: Inoviridae sp. isolate ctjOs5, partial genome
+10,955 bp linear DNA 
+BK020839.1 GI:2053117194
+
+916. TPA_asm: Inoviridae sp. isolate ct50P9, partial genome
+10,176 bp linear DNA 
+BK020653.1 GI:2053108523
+
+917. TPA_asm: Inoviridae sp. isolate ctuB34, partial genome
+8,986 bp linear DNA 
+BK020029.1 GI:2053078019
+
+918. TPA_asm: Inoviridae sp. ctTrc50, partial genome
+9,000 bp linear DNA 
+BK016085.1 GI:2053072744
+
+919. TPA_asm: Inoviridae sp. ctJfE44, partial genome
+9,300 bp linear DNA 
+BK016060.1 GI:2053071083
+
+920. TPA_asm: Inoviridae sp. isolate ctISv12, partial genome
+58,350 bp linear DNA 
+BK024631.1 GI:2053060158
+
+921. TPA_asm: Inoviridae sp. isolate ct9zJ6, partial genome
+32,900 bp linear DNA 
+BK024560.1 GI:2053056796
+
+922. TPA_asm: Inoviridae sp. isolate ct98p36, partial genome
+15,150 bp linear DNA 
+BK024455.1 GI:2053050784
+
+923. TPA_asm: Inoviridae sp. isolate ctCZL1, partial genome
+4,750 bp linear DNA 
+BK024396.1 GI:2053048226
+
+924. TPA_asm: Inoviridae sp. isolate ctCYD1, partial genome
+9,590 bp linear DNA 
+BK024144.1 GI:2053035353
+
+925. TPA_asm: Inoviridae sp. isolate ctVEl18, partial genome
+5,591 bp linear DNA 
+BK023989.1 GI:2053026698
+
+926. TPA_asm: Inoviridae sp. isolate ctVOc5, partial genome
+7,960 bp linear DNA 
+BK023980.1 GI:2053026298
+
+927. TPA_asm: Inoviridae sp. isolate ctGrF1, partial genome
+8,142 bp linear DNA 
+BK023949.1 GI:2053024818
+
+928. TPA_asm: Inoviridae sp. isolate ct3sN9, partial genome
+5,555 bp linear DNA 
+BK023819.1 GI:2053018182
+
+929. TPA_asm: Inoviridae sp. isolate ctNd46, partial genome
+6,573 bp linear DNA 
+BK023781.1 GI:2053016261
+
+930. TPA_asm: Inoviridae sp. isolate ctavI2, partial genome
+5,520 bp linear DNA 
+BK023729.1 GI:2053013214
+
+931. TPA_asm: Inoviridae sp. isolate ctb2g21, partial genome
+18,100 bp linear DNA 
+BK030952.1 GI:2052997309
+
+932. TPA_asm: Inoviridae sp. isolate ctaDF4, partial genome
+4,814 bp linear DNA 
+BK030744.1 GI:2052986352
+
+933. TPA_asm: Inoviridae sp. isolate ctCBR15, partial genome
+35,784 bp linear DNA 
+BK030493.1 GI:2052974669
+
+934. TPA_asm: Inoviridae sp. isolate ctwRX5, partial genome
+19,329 bp linear DNA 
+BK030472.1 GI:2052973664
+
+935. TPA_asm: Microviridae sp. isolate ctapL8, partial genome
+5,714 bp linear DNA 
+BK030460.1 GI:2052973139
+
+936. TPA_asm: Inoviridae sp. isolate ctMbE2, partial genome
+5,726 bp linear DNA 
+BK030431.1 GI:2052971734
+
+937. TPA_asm: Inoviridae sp. isolate ctfmb6, partial genome
+9,307 bp linear DNA 
+BK030234.1 GI:2052961982
+
+938. TPA_asm: Microviridae sp. isolate ctKRE3, partial genome
+5,436 bp linear DNA 
+BK018216.1 GI:2052931255
+
+939. TPA_asm: Inoviridae sp. isolate ctma920, partial genome
+12,108 bp linear DNA 
+BK017517.1 GI:2052892616
+
+940. TPA_asm: Inoviridae sp. isolate ctX3g5, partial genome
+9,253 bp linear DNA 
+BK017465.1 GI:2052889789
+
+941. TPA_asm: Inoviridae sp. isolate ctJES1, partial genome
+10,150 bp linear DNA 
+BK017410.1 GI:2052887456
+
+942. TPA_asm: Inoviridae sp. isolate ctbAs4, partial genome
+5,012 bp linear DNA 
+BK017378.1 GI:2052885950
+
+943. TPA_asm: Inoviridae sp. isolate ctt7x1, partial genome
+31,235 bp linear DNA 
+BK017376.1 GI:2052885848
+
+944. TPA_asm: CRESS virus sp. isolate ctB901, partial genome
+10,500 bp linear DNA 
+BK017358.1 GI:2052884791
+
+945. TPA_asm: Inoviridae sp. isolate ct1ur9, partial genome
+13,100 bp linear DNA 
+BK019711.1 GI:2052257771
+
+946. TPA_asm: Inoviridae sp. isolate ctdw63, partial genome
+16,212 bp linear DNA 
+BK056748.1 GI:2052232727
+
+947. TPA_asm: Inoviridae sp. isolate ctPL97, partial genome
+11,645 bp linear DNA 
+BK056621.1 GI:2052226315
+
+948. TPA_asm: Inoviridae sp. isolate ct8ap5, partial genome
+13,524 bp linear DNA 
+BK056343.1 GI:2052212844
+
+949. TPA_asm: Microviridae sp. isolate ctpEM11, partial genome
+5,124 bp linear DNA 
+BK056166.1 GI:2052203063
+
+950. TPA_asm: Inoviridae sp. ct6Op23, partial genome
+9,000 bp linear DNA 
+BK015782.1 GI:2051143877
+
+951. TPA_asm: Inoviridae sp. ctWUU20, partial genome
+5,051 bp linear DNA 
+BK014694.1 GI:2051114658
+
+952. TPA_asm: Inoviridae sp. ctFNB4, partial genome
+7,696 bp linear DNA 
+BK014674.1 GI:2051113777
+
+953. TPA_asm: Inoviridae sp. ctPjN3, partial genome
+13,417 bp linear DNA 
+BK015168.1 GI:2051106717
+
+954. TPA_asm: CRESS virus sp. ctBnw2, partial genome
+12,000 bp linear DNA 
+BK015003.1 GI:2051099294
+
+955. TPA_asm: Inoviridae sp. ct6Sz5, partial genome
+10,973 bp linear DNA 
+BK015002.1 GI:2051099271
+
+956. TPA_asm: Inoviridae sp. ctDEu7, partial genome
+30,700 bp linear DNA 
+BK014988.1 GI:2051098504
+
+957. TPA_asm: Inoviridae sp. ctO6A5, partial genome
+11,203 bp linear DNA 
+BK014823.1 GI:2051089876
+
+958. TPA_asm: Inoviridae sp. isolate ctEAr15, partial genome
+9,840 bp linear DNA 
+BK016829.1 GI:2050464316
+
+959. TPA_asm: Inoviridae sp. isolate ctvTz11 genomic sequence
+17,936 bp linear DNA 
+BK059141.1 GI:2050460385
+
+960. TPA_asm: CRESS virus sp. isolate ctpLm22 genomic sequence
+8,447 bp linear DNA 
+BK059137.1 GI:2050460354
+
+961. UNVERIFIED: Microvirus sp. isolate VIRES_HLJ01_2265210, complete genome
+5,869 bp circular DNA 
+MT135375.1 GI:1988362954
+
+962. Gokushovirinae sp. SC_5_H2H4_2017 minor capsid protein genes, complete cds
+6,894 bp linear DNA 
+MT121963.1 GI:1829641606
+
+963. Gokushovirinae sp. SC_3_H2_2017 hypothetical protein and major capsid protein genes, complete cds
+5,693 bp linear DNA 
+MT121961.1 GI:1829641600
+
+964. CRESS virus SC_1_H1_2017 hypothetical protein genes, complete cds
+5,747 bp linear DNA 
+MT121959.1 GI:1829641594
+
+965. Sequence 1258 from Patent EP3498865
+7,308 bp linear DNA 
+MP220846.1 GI:1741796109
+
+966. Sequence 1257 from Patent EP3498865
+7,249 bp linear DNA 
+MP220845.1 GI:1741796106
+
+967. Coliphage NC28, complete genome
+6,065 bp circular DNA 
+NC_007823.1 GI:89903031
+
+968. Coliphage NC29, complete genome
+6,259 bp circular DNA 
+NC_007827.1 GI:89888708
+
+969. Coliphage ID52, complete genome
+5,538 bp circular DNA 
+NC_007825.1 GI:89888685
+
+970. Coliphage ID62, complete genome
+6,051 bp circular DNA 
+NC_007824.1 GI:89888674
+
+971. Coliphage WA45, complete genome
+6,068 bp circular DNA 
+NC_007822.1 GI:89888663
+
+972. Coliphage NC35, complete genome
+6,039 bp circular DNA 
+NC_007820.1 GI:89888641
+
+973. Coliphage ID32, complete genome
+6,071 bp circular DNA 
+NC_007819.1 GI:89888630
+
+974. Coliphage ID21, complete genome
+6,068 bp circular DNA 
+NC_007818.1 GI:89888619
+
+975. Microviridae sp. isolate ctdc25, complete genome
+5,210 bp circular DNA 
+MH593837.2 GI:1603902399
+
+976. Microviridae sp. isolate ctbf9, complete genome
+5,224 bp circular DNA 
+MH593835.2 GI:1603902395
+
+977. Microviridae sp. isolate ctgh214, complete genome
+5,312 bp circular DNA 
+MH552571.2 GI:1603902388
+
+978. Microviridae sp. isolate ctbe346, complete genome
+5,405 bp circular DNA 
+MH552569.2 GI:1603902386
+
+979. Microviridae sp. isolate ctcf390, complete genome
+5,520 bp circular DNA 
+MH552560.2 GI:1603902382
+
+980. Microviridae sp. isolate ctcg250, complete genome
+6,065 bp circular DNA 
+MH552553.2 GI:1603902374
+
+981. Microviridae sp. isolate ctid22, complete genome
+5,591 bp circular DNA 
+MH552552.2 GI:1603902372
+
+982. Microviridae sp. isolate ctbi34, complete genome
+4,577 bp circular DNA 
+MH552544.2 GI:1603902364
+
+983. Microviridae sp. isolate ctdb34, complete genome
+5,874 bp circular DNA 
+MH552540.2 GI:1603902361
+
+984. Microviridae sp. isolate ctce14, complete genome
+4,206 bp circular DNA 
+MH552515.2 GI:1603902353
+
+985. Microviridae sp. isolate ctbc18, complete genome
+5,858 bp circular DNA 
+MH552512.2 GI:1603902350
+
+986. Microviridae sp. isolate ctbh658, complete genome
+5,648 bp circular DNA 
+MH552498.2 GI:1603902338
+
+987. Microviridae sp. isolate ctie12, complete genome
+4,486 bp circular DNA 
+MH552497.2 GI:1603902335
+
+988. Microviridae sp. isolate ctbc36, complete genome
+4,414 bp circular DNA 
+MH552483.2 GI:1603902324
+
+989. Microvirus sp. isolate ctbg7, complete genome
+6,444 bp circular DNA 
+MH510273.2 GI:1603902318
+
+990. Microviridae sp. isolate ctbc205, complete genome
+6,019 bp circular DNA 
+MH552492.1 GI:1433281999
+
+991. Microviridae sp. isolate ctjj269, complete genome
+4,437 bp circular DNA 
+MH552487.1 GI:1433280499
+
+992. Microviridae sp. isolate ctgd198, complete genome
+4,487 bp circular DNA 
+MH552479.1 GI:1433278207
+
+993. JP 2017099398-A/1: CONTINUOUS DIRECTED EVOLUTION
+6,407 bp linear DNA 
+MA648319.1 GI:1565537254
+
+994. Inoviridae sp. isolate ctii000, complete genome
+7,006 bp circular DNA 
+MH649021.1 GI:1464458210
+
+995. Inoviridae sp. isolate ctcf138, complete genome
+6,362 bp circular DNA 
+MH649005.1 GI:1464458137
+
+996. Microviridae Fen7940_21, complete genome
+4,453 bp circular DNA 
+NC_027648.1 GI:906476420
+
+997. Bacteriophage phiK complete genome
+6,089 bp linear DNA 
+NC_001730.1 GI:9628921
+
+998. Inoviridae sp. isolate ctcc37, complete genome
+5,180 bp circular DNA 
+MH617717.1 GI:1436219110
+
+999. Inoviridae sp. isolate ctch32, complete genome
+5,205 bp circular DNA 
+MH617618.1 GI:1436217019
+
+1000. Inoviridae sp. isolate ctcf31, complete genome
+5,853 bp circular DNA 
+MH617539.1 GI:1436215679
+
+1001. Inoviridae sp. isolate ctcf2, complete genome
+7,256 bp circular DNA 
+MH617445.1 GI:1436213597
+
+1002. Inoviridae sp. isolate ctbi36, complete genome
+5,178 bp circular DNA 
+MH617298.1 GI:1436210655
+
+1003. Inoviridae sp. isolate ctbh8, complete genome
+6,223 bp circular DNA 
+MH617292.1 GI:1436210531
+
+1004. Inoviridae sp. isolate ctcg5, complete genome
+6,789 bp circular DNA 
+MH617262.1 GI:1436210078
+
+1005. Microviridae sp. isolate ctbe610, complete genome
+5,083 bp circular DNA 
+MH617137.1 GI:1436207652
+
+1006. Inoviridae sp. isolate ctda702, complete genome
+4,649 bp circular DNA 
+MH617117.1 GI:1436207254
+
+1007. Inoviridae sp. isolate ctce6, complete genome
+7,769 bp circular DNA 
+MH617040.1 GI:1436205753
+
+1008. Inoviridae sp. isolate ctcj34, complete genome
+5,175 bp circular DNA 
+MH617011.1 GI:1436205296
+
+1009. Inoviridae sp. isolate ctdf33, complete genome
+5,181 bp circular DNA 
+MH616872.1 GI:1436203823
+
+1010. Inoviridae sp. isolate ctbf525, complete genome
+5,715 bp circular DNA 
+MH616815.1 GI:1436201643
+
+1011. Microviridae sp. isolate ctjj954, complete genome
+4,175 bp circular DNA 
+MH616814.1 GI:1436201638
+
+1012. Inoviridae sp. isolate ctgd30, complete genome
+5,370 bp circular DNA 
+MH616730.1 GI:1436199804
+
+1013. Inoviridae sp. isolate ctge7, complete genome
+7,265 bp circular DNA 
+MH616675.1 GI:1436199484
+
+1014. Inoviridae sp. isolate ctcf41, complete genome
+5,080 bp circular DNA 
+MH616641.1 GI:1436199322
+
+1015. Inoviridae sp. isolate ctcj22, complete genome
+6,301 bp circular DNA 
+MH622909.1 GI:1436197913
+
+1016. Inoviridae sp. isolate ctbh10, complete genome
+5,166 bp circular DNA 
+MH593836.1 GI:1433292729
+
+1017. Inoviridae sp. isolate ctda431, complete genome
+6,216 bp circular DNA 
+MH552551.1 GI:1433289120
+
+1018. Inoviridae sp. isolate ctcb17, complete genome
+5,922 bp circular DNA 
+MH552527.1 GI:1433286987
+
+1019. Inoviridae sp. isolate ctbe117, complete genome
+8,707 bp circular DNA 
+MH552519.1 GI:1433286241
+
+1020. Inoviridae sp. isolate cthb500, complete genome
+6,176 bp circular DNA 
+MH552503.1 GI:1433285065
+
+1021. Inoviridae sp. isolate ctda6, complete genome
+6,561 bp circular DNA 
+MH552488.1 GI:1433280767
+
+1022. Poophage MBI-2016a genome assembly, complete genome: monopartite
+5,752 bp circular DNA 
+LT986678.1 GI:1356684014
+
+1023. Microviridae Fen7940_21, complete genome
+4,453 bp circular DNA 
+KM589514.1 GI:823079548
+
+1024. JP 2011041527-A/1: plasmid
+6,662 bp linear DNA 
+HV029539.1 GI:338906152
+
+1025. Uncultured Microviridae clone SARssphi1, complete genome
+4,487 bp circular DNA 
+HQ157199.1 GI:313766926
+
+1026. Uncultured Microviridae clone SARssphi2, complete genome
+4,478 bp circular DNA 
+HQ157198.1 GI:313766921
+
+1027. Genome of bacteriophage f1 (closely related to phages fd and m13)
+6,407 bp circular DNA 
+V00606.1 GI:14974
+
+1028. Bacteriophage IKe genome
+6,883 bp circular DNA 
+X02139.1 GI:14942
+
+1029. Filamentous Bacteriophage I2-2 genome
+6,744 bp circular DNA 
+X14336.1 GI:14920
+
+1030. Bacteriophage Pf3 from Pseudomonas aeruginosa (Nijmegen strain), complete genome
+5,833 bp circular DNA 
+M11912.1 GI:215371
+
+1031. Bacteriophage If1, complete genome
+8,454 bp circular DNA 
+U02303.1 GI:3676280
+
+1032. His2 virus, complete genome
+16,067 bp linear DNA 
+AF191797.1 GI:78172403
+
+1033. Coliphage WA14, complete genome
+5,486 bp circular DNA 
+DQ079909.1 GI:71843211
+
+1034. Coliphage ID18, complete genome
+5,486 bp circular DNA 
+DQ079908.1 GI:71843199
+
+1035. Coliphage NC10, complete genome
+5,529 bp circular DNA 
+DQ079906.1 GI:71843175
+
+1036. Coliphage ID12, complete genome
+5,529 bp circular DNA 
+DQ079905.1 GI:71843163
+
+1037. Coliphage WA6, complete genome
+5,529 bp circular DNA 
+DQ079904.1 GI:71843151
+
+1038. Coliphage ID41, complete genome
+5,577 bp circular DNA 
+DQ079903.1 GI:71843139
+
+1039. Coliphage NC19, complete genome
+5,577 bp circular DNA 
+DQ079902.1 GI:71843127
+
+1040. Coliphage NC13, complete genome
+5,577 bp circular DNA 
+DQ079901.1 GI:71843115
+
+1041. Coliphage NC2, complete genome
+5,577 bp circular DNA 
+DQ079900.1 GI:71843103
+
+1042. Coliphage WA5, complete genome
+5,577 bp circular DNA 
+DQ079899.1 GI:71843091
+
+1043. Coliphage ID8, complete genome
+5,540 bp circular DNA 
+DQ079898.1 GI:71843079
+
+1044. Coliphage WA3, complete genome
+5,540 bp circular DNA 
+DQ079897.1 GI:71843067
+
+1045. Coliphage WA2, complete genome
+5,540 bp circular DNA 
+DQ079896.1 GI:71843055
+
+1046. Coliphage WA11, complete genome
+5,387 bp circular DNA 
+DQ079895.1 GI:71843043
+
+1047. Coliphage WA10, complete genome
+5,386 bp circular DNA 
+DQ079894.1 GI:71843031
+
+1048. Coliphage WA4, complete genome
+5,386 bp circular DNA 
+DQ079893.1 GI:71843019
+
+1049. Coliphage NC56, complete genome
+5,386 bp circular DNA 
+DQ079892.1 GI:71843007
+
+1050. Coliphage NC51, complete genome
+5,386 bp circular DNA 
+DQ079891.1 GI:71842995
+
+1051. Coliphage NC41, complete genome
+5,386 bp circular DNA 
+DQ079890.1 GI:71842983
+
+1052. Coliphage NC37, complete genome
+5,386 bp circular DNA 
+DQ079889.1 GI:71842971
+
+1053. Coliphage NC16, complete genome
+5,386 bp circular DNA 
+DQ079888.1 GI:71842959
+
+1054. Coliphage NC11, complete genome
+5,386 bp circular DNA 
+DQ079887.1 GI:71842947
+
+1055. Coliphage NC7, complete genome
+5,386 bp circular DNA 
+DQ079886.1 GI:71842935
+
+1056. Coliphage NC5, complete genome
+5,386 bp circular DNA 
+DQ079885.1 GI:71842923
+
+1057. Coliphage NC1, complete genome
+5,386 bp circular DNA 
+DQ079884.1 GI:71842911
+
+1058. Coliphage ID45, complete genome
+5,386 bp circular DNA 
+DQ079883.1 GI:71842899
+
+1059. Coliphage ID34, complete genome
+5,386 bp circular DNA 
+DQ079882.1 GI:71842887
+
+1060. Coliphage ID22, complete genome
+5,386 bp circular DNA 
+DQ079881.1 GI:71842875
+
+1061. Coliphage ID1, complete genome
+5,386 bp circular DNA 
+DQ079880.1 GI:71842863
+
+1062. Coliphage NC29, complete genome
+6,259 bp circular DNA 
+DQ079879.1 GI:71842852
+
+1063. Coliphage NC3, complete genome
+6,097 bp circular DNA 
+DQ079878.1 GI:71842841
+
+1064. Coliphage ID52, complete genome
+5,538 bp circular DNA 
+DQ079877.1 GI:71842829
+
+1065. Coliphage ID62, complete genome
+6,051 bp circular DNA 
+DQ079876.1 GI:71842818
+
+1066. Coliphage NC28, complete genome
+6,065 bp circular DNA 
+DQ079875.1 GI:71842807
+
+1067. Coliphage WA45, complete genome
+6,068 bp circular DNA 
+DQ079874.1 GI:71842796
+
+1068. Coliphage WA13, complete genome
+6,068 bp circular DNA 
+DQ079873.1 GI:71842785
+
+1069. Coliphage NC35, complete genome
+6,039 bp circular DNA 
+DQ079872.1 GI:71842774
+
+1070. Coliphage ID32, complete genome
+6,071 bp circular DNA 
+DQ079871.1 GI:71842763
+
+1071. Coliphage ID21, complete genome
+6,068 bp circular DNA 
+DQ079870.1 GI:71842752
+
+1072. Coliphage ID11, complete genome
+5,577 bp circular DNA 
+AY751298.1 GI:58397107
+
+1073. Bacteriophage VSKK, complete genome
+6,834 bp circular DNA 
+AF452449.2 GI:33578266
+
+1074. Bacteriophage S13, complete genome
+5,386 bp circular DNA 
+AF274751.1 GI:11095661
+
+1075. Bacteriophage Pf3 from Pseudomonas aeruginosa (New York strain), complete genome
+5,833 bp circular DNA 
+M19377.1 GI:215380
+
+1076. Bacteriophage f1, complete genome
+6,407 bp circular DNA 
+J02448.1 GI:166201
+
+1077. Coliphage NC6, complete genome
+5,529 bp circular DNA 
+DQ079907.2 GI:226440711
+
+1078. Bacteriophage S13 circular DNA, complete genome
+5,386 bp circular DNA 
+M14428.1 GI:216089
+
+1079. Bacteriophage phiK complete genome
+6,089 bp linear DNA 
+X60323.1 GI:1478118
+
+1080. Coliphage alpha3 complete genome
+6,087 bp linear DNA 
+X60322.1 GI:14775
+
+1081. Acholeplasma virus MV-L1 DNA for complete circular genome
+4,491 bp circular DNA 
+X58839.1 GI:58655

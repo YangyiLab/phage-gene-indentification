@@ -1,0 +1,1304 @@
+
+1. Coliphage alpha3 complete genome
+6,087 bp linear DNA 
+X60322.1 GI:14775
+
+2. Xanthomonas phage Cf1c unknown gene
+7,308 bp linear DNA 
+M57538.1 GI:166169
+
+3. Bacteriophage phiK complete genome
+6,089 bp linear DNA 
+X60323.1 GI:1478118
+
+4. Vibrio phage fs2 DNA, complete genome
+8,651 bp linear DNA 
+AB002632.1 GI:3702207
+
+5. Pseudomonas phage Pf1, complete genome
+7,349 bp linear DNA 
+NC_001331.1 GI:9625366
+
+6. Bacteriophage phiK complete genome
+6,089 bp linear DNA 
+NC_001730.1 GI:9628921
+
+7. Vibrio phage fs2, complete genome
+8,651 bp linear DNA 
+NC_001956.1 GI:9630761
+
+8. Vibrio phage CTX core region Cep (cep), OrfU (orfU), Ace (ace), and Zot (zot) genes, complete cds and Vibrio cholerae serogroup 0139, partial sequence
+5,728 bp linear DNA 
+AF416590.1 GI:15825405
+
+9. Vibrio phage CTX RstA2 (rstA2) gene, partial cds; and RstB2 (rstB2), Cep (cep), OrfU (orfU), Ace (ace), Zot (zot), CtxA (ctxA), and CtxB (ctxB) genes, complete cds
+4,878 bp linear DNA 
+AF542089.2 GI:24437189
+
+10. Vibrio phage CTX RstA2 (rstA2) gene, partial cds; and RstB2 (rstB2), Cep (cep), OrfU (orfU), Ace (ace), Zot (zot), CtxA (ctxA), and CtxB (ctxB) genes, complete cds
+4,878 bp linear DNA 
+AF542088.2 GI:24438360
+
+11. Vibrio phage CTX RstA2 (rstA2) gene, partial cds; and RstB2 (rstB2), Cep (cep), OrfU (orfU), Ace (ace), Zot (zot), CtxA (ctxA), and CtxB (ctxB) genes, complete cds
+4,883 bp linear DNA 
+AF414369.2 GI:24440227
+
+12. Pseudomonas phage Pf1, complete prophage
+10,675 bp linear DNA 
+AY324828.1 GI:44889503
+
+13. His2 virus, complete genome
+16,067 bp linear DNA 
+AF191797.1 GI:78172403
+
+14. Ralstonia phage p12J, complete genome
+7,118 bp linear DNA 
+AY374414.2 GI:156519262
+
+15. Ralstonia phage p12J, complete genome
+7,118 bp linear DNA 
+NC_005131.2 GI:156535141
+
+16. Vibrio phage CTX RstR (rstR), RstA (rstA), RstB (rstB), Cep (cep), Ace (ace), ZOT (zot), CtxA (ctxA), and CtxB (ctxB) genes, complete cds; and unknown gene
+7,830 bp linear DNA 
+GQ499847.1 GI:258523311
+
+17. Vibrio phage CTX strain B33 RstR (rstR), RstA (rstA), RstB (rstB), Cep (cep), hypothetical protein, Ace (ace), Zot (zot), CtxA (ctxA), CtxB (ctxB), RstR (rstR), RstA (rstA), RstB (rstB), Cep (cep), hypothetical protein, Ace (ace), Zot (zot), CtxA (ctxA), and CtxB (ctxB) genes, complete cds
+15,285 bp linear DNA 
+GQ485644.1 GI:259046013
+
+18. Vibrio phage CTX strain MJ1236 RstR (rstR), RstA (rstA), RstB (rstB), Cep (cep), hypothetical protein, Ace (ace), Zot (zot), CtxA (ctxA), CtxB (ctxB), RstR (rstR), RstA (rstA), RstB (rstB), Cep (cep), hypothetical protein, Ace (ace), Zot (zot), CtxA (ctxA), and CtxB (ctxB) genes, complete cds
+15,285 bp linear DNA 
+GQ485645.1 GI:259046032
+
+19. Vibrio phage CTX strain MG116926 RstR (rstR), RstA (rstA), RstB (rstB), Cep (cep), hypothetical protein, Ace (ace), Zot (zot), CtxA (ctxA), CtxB (ctxB), RstR (rstR), RstA (rstA), RstB (rstB), Cep (cep), hypothetical protein, Ace (ace), Zot (zot), CtxA (ctxA), and CtxB (ctxB) genes, complete cds
+14,874 bp linear DNA 
+GQ485646.1 GI:259046051
+
+20. Vibrio phage CTX strain 12.02vp RstR (rstR), RstA (rstA), RstB (rstB), Cep (cep), hypothetical protein, Ace (ace), Zot (zot), CtxA (ctxA), CtxB (ctxB), RstR (rstR), RstA (rstA), RstB (rstB), Cep (cep), hypothetical protein, Ace (ace), Zot (zot), CtxA (ctxA), and CtxB (ctxB) genes, complete cds
+14,874 bp linear DNA 
+GQ485647.1 GI:259046070
+
+21. Vibrio phage CTX strain 07.95vp RstR (rstR), RstA (rstA), RstB (rstB), Cep (cep), hypothetical protein, Ace (ace), Zot (zot), CtxA (ctxA), CtxB (ctxB), RstR (rstR), RstA (rstA), RstB (rstB), Cep (cep), hypothetical protein, Ace (ace), Zot (zot), CtxA (ctxA), and CtxB (ctxB) genes, complete cds
+14,874 bp linear DNA 
+GQ485648.1 GI:259046089
+
+22. Vibrio phage CTX strain E1781 RstR (rstR), RstA (rstA), RstB (rstB), Cep (cep), hypothetical protein, Ace (ace), Zot (zot), CtxA (ctxA), CtxB (ctxB), RstR (rstR), RstA (rstA), RstB (rstB), Cep (cep), hypothetical protein, Ace (ace), Zot (zot), CtxA (ctxA), and CtxB (ctxB) genes, complete cds
+14,860 bp linear DNA 
+GQ485649.1 GI:259046108
+
+23. Vibrio phage CTX strain IB4322 RstR (rstR), RstA (rstA), RstB (rstB), RstC (rstC), RstR (rstR), RstA (rstA), RstB (rstB), Cep (cep), hypothetical protein, Ace (ace), CtxA (ctxA), and CtxB (ctxB) genes, complete cds
+10,628 bp linear DNA 
+GQ485650.1 GI:259046127
+
+24. Vibrio phage CTX strain IB4642 RstR (rstR), RstA (rstA), RstB (rstB), RstC (rstC), RstR (rstR), RstA (rstA), RstB (rstB), Cep (cep), hypothetical protein, Ace (ace), Zot (zot), CtxA (ctxA), and CtxB (ctxB) genes, complete cds
+10,628 bp linear DNA 
+GQ485651.1 GI:259046140
+
+25. Vibrio phage CTX strain 01.07vp RstR (rstR), RstA (rstA), RstB (rstB), RstC (rstC), RstR (rstR), RstA (rstA), RstB (rstB), Cep (cep), hypothetical protein, Ace (ace), Zot (zot), CtxA (ctxA), and CtxB (ctxB) genes, complete cds
+10,628 bp linear DNA 
+GQ485652.1 GI:259046154
+
+26. Vibrio phage CTX strain E1781 RstR (rstR), RstA (rstA), RstB (rstB), RstC (rstC), RstR (rstR), RstA (rstA), RstB (rstB), and RstC (rstC) genes, complete cds
+6,300 bp linear DNA 
+GQ485653.1 GI:259046168
+
+27. Vibrio phage CTX strain MG116926 RstR (rstR), RstA (rstA), RstB (rstB), RstC (rstC), RstR (rstR), RstA (rstA), RstB (rstB), and RstC (rstC) genes, complete cds
+6,448 bp linear DNA 
+GQ485654.1 GI:259046177
+
+28. Vibrio phage CTX strain IB1346 RstR (rstR), RstA (rstA), RstB (rstB), Cep (cep), hypothetical protein, Ace (ace), Zot (zot), CtxA (ctxA), CtxB (ctxB), RstR (rstR), RstA (rstA), RstB (rstB), RstC (rstC), RstR (rstR), RstA (rstA), RstB (rstB), and RstC (rstC) genes, complete cds
+13,607 bp linear DNA 
+GQ466608.1 GI:259130183
+
+29. Vibrio phage CTX strain IB1346 RstR (rstR), RstA (rstA), RstB (rstB), Cep (cep), hypothetical protein, Ace (ace), Zot (zot), CtxA (ctxA), CtxB (ctxB), RstR (rstR), RstA (rstA), RstB (rstB), Cep (cep), hypothetical protein, Ace (ace), Zot (zot), CtxA (ctxA), and CtxB (ctxB) genes, complete cds
+14,898 bp linear DNA 
+GQ466609.1 GI:259130201
+
+30. Vibrio phage CTX strain IB1627 RstR (rstR), RstA (rstA), RstB (rstB), Cep (cep), hypothetical protein, Ace (ace), Zot (zot), CtxA (ctxA), CtxB (ctxB), RstR (rstR), RstA (rstA), RstB (rstB), and RstC (rstC) genes, complete cds
+10,766 bp linear DNA 
+GQ466610.1 GI:259130220
+
+31. Vibrio phage CTX strain IB1617 RstR (rstR), RstA (rstA), RstB (rstB), Cep (cep), hypothetical protein, Ace (ace), Zot (zot), CtxA (ctxA), CtxB (ctxB), and RstR (rstR) genes, complete cds
+8,135 bp linear DNA 
+GQ466611.1 GI:259130234
+
+32. Vibrio phage CTX strain IB1482 RstR (rstR), RstA (rstA), RstB (rstB), Cep (cep), hypothetical protein, Ace (ace), Zot (zot), CtxA (ctxA), CtxB (ctxB), RstR (rstR), RstA (rstA), RstB (rstB), Cep (cep), hypothetical protein, Ace (ace), Zot (zot), CtxA (ctxA), and CtxB (ctxB) genes, complete cds
+14,905 bp linear DNA 
+GQ466612.1 GI:259130245
+
+33. Vibrio phage CTX chromosome I prophage, complete sequence
+17,070 bp linear DNA 
+GU942563.1 GI:294470392
+
+34. Vibrio phage CTXphi, complete genome
+10,638 bp linear DNA 
+HQ224500.1 GI:323145568
+
+35. Vibrio phage CTXphi, complete genome
+10,638 bp linear DNA 
+NC_015209.1 GI:332672294
+
+36. JP 2011041527-A/1: plasmid
+6,662 bp linear DNA 
+HV029539.1 GI:338906152
+
+37. Uncultured phage WW-nAnB, complete genome
+4,817 bp linear DNA 
+JN402401.1 GI:348651832
+
+38. Vibrio phage VCY-phi, complete genome
+7,103 bp linear DNA 
+JN848801.1 GI:354804972
+
+39. Vibrio phage VCY-phi, complete genome
+7,103 bp linear DNA 
+NC_016162.1 GI:358356470
+
+40. Vibrio phage CTX strain 03/09-KB RstR (rstR), RstA (rstA), RstB (rstB), RstC (rstC), RstR (rstR), RstA (rstA), RstB (rstB), RstC (rstC), RstR (rstR), RstA (rstA), and RstB (rstB) genes, complete cds; and Cep (cep) gene, partial cds
+8,561 bp linear DNA 
+JN545744.1 GI:361051273
+
+41. Vibrio phage CTX strain 27/09-KB RstR (rstR), RstA (rstA), RstB (rstB), RstC (rstC), RstR (rstR), RstA (rstA), RstB (rstB), RstC (rstC), RstR (rstR), RstA (rstA), and RstB (rstB) genes, complete cds; and Cep (cep) gene, partial cds
+8,562 bp linear DNA 
+JN545745.1 GI:361051286
+
+42. Vibrio phage CTX strain 03/09-TRG RstR (rstR), RstA (rstA), RstB (rstB), RstC (rstC), RstR (rstR), RstA (rstA), RstB (rstB), RstC (rstC), RstR (rstR), RstA (rstA), and RstB (rstB) genes, complete cds; and Cep (cep) gene, partial cds
+8,562 bp linear DNA 
+JN545746.1 GI:361051299
+
+43. Vibrio phage CTX RstR (rstR), RstA (rstA), RstB (rstB), RstC (rstC), RstR (rstR), RstA (rstA), RstB (rstB), Cep (cep), OrfU (orfu), Ace (ace), Zot (zot), CtxA (ctxA), CtxB (ctxB), RstR (rstR), RstA (rstA), RstB (rstB), and RstC (rstC) genes, complete cds
+13,322 bp linear DNA 
+KF664566.1 GI:554621632
+
+44. Vibrio phage CTX plasmid pCTX-2 RstR (rstR), RstA (rstA), RstB (rstB), Cep (cep), OrfU (orfu), Ace (ace), Zot (zot), CtxA (ctxA), CtxB (ctxB), RstR (rstR), RstA (rstA), RstB (rstB), Cep (cep), OrfU (orfu), Ace (ace), Zot (zot), CtxA (ctxA), and CtxB (ctxB) genes, complete cds
+14,849 bp linear DNA 
+KF664567.1 GI:554621651
+
+45. Vibrio phage CTX isolate recombinant CTX-RS1 plasmid pCTX-1 RstR (rstR), RstA (rstA), RstB (rstB), Cep (cep), OrfU (orfu), Ace (ace), Zot (zot), CtxA (ctxA), CtxB (ctxB), RstR (rstR), RstA (rstA), RstB (rstB), and RstC (rstC) genes, complete cds
+10,621 bp linear DNA 
+KF664568.1 GI:554621671
+
+46. Vibrio phage CTX RstR (rstR), RstA (rstA), RstB (rstB), Cep (cep), OrfU (orfU), Ace (ace), Zot (zot), CtxA (ctxA), and CtxB (ctxB) genes, complete cds
+7,756 bp linear DNA 
+KF664572.1 GI:554621696
+
+47. Vibrio phage CTX, complete genome
+6,446 bp linear DNA 
+KJ619459.1 GI:625369941
+
+48. Vibrio phage CTX strain 81, partial genome
+8,000 bp linear DNA 
+KM352500.1 GI:729057596
+
+49. Uncultured phage WW-nAnB, complete genome
+4,817 bp linear DNA 
+NC_026582.1 GI:764159063
+
+50. Vibrio phage pre-CTX, complete genome
+6,722 bp linear DNA 
+KP972568.1 GI:817033949
+
+51. Vibrio phage pre-CTX, complete genome
+6,722 bp linear DNA 
+KP972569.1 GI:817033957
+
+52. Vibrio phage pre-CTX, complete genome
+5,714 bp linear DNA 
+KR063267.1 GI:930624313
+
+53. Vibrio phage pre-CTX, complete genome
+5,087 bp linear DNA 
+KR063268.1 GI:930624321
+
+54. Vibrio phage pre-CTX, complete genome
+5,215 bp linear DNA 
+KT728930.1 GI:946725795
+
+55. Vibrio phage pre-CTX, complete genome
+5,712 bp linear DNA 
+KT728931.1 GI:946725803
+
+56. Vibrio phage pre-CTX, partial genome
+4,583 bp linear DNA 
+KT779270.1 GI:1008987759
+
+57. Vibrio phage pre-CTX, partial genome
+4,583 bp linear DNA 
+KT779271.1 GI:1008987766
+
+58. Vibrio phage pre-CTX, partial genome
+4,594 bp linear DNA 
+KT779272.1 GI:1008987773
+
+59. Vibrio phage pre-CTX, partial genome
+4,901 bp linear DNA 
+KT779273.1 GI:1008987780
+
+60. Vibrio phage pre-CTX, partial genome
+4,919 bp linear DNA 
+KT779274.1 GI:1008987787
+
+61. Ralstonia phage Rs551, complete genome
+7,929 bp linear DNA 
+KX179905.1 GI:1041568536
+
+62. Escherichia phage SECphi17 genome assembly, complete genome: monopartite
+5,538 bp linear DNA 
+LT960607.1 GI:1315671042
+
+63. Ruegeria phage vB_RpoMi-V15, complete genome
+4,248 bp linear DNA 
+MH015251.1 GI:1417814084
+
+64. JP 2017099398-A/1: CONTINUOUS DIRECTED EVOLUTION
+6,407 bp linear DNA 
+MA648319.1 GI:1565537254
+
+65. Escherichia phage Lilleput, complete genome
+5,490 bp linear DNA 
+MK629525.1 GI:1613838524
+
+66. Escherichia phage Lilleven, complete genome
+6,090 bp linear DNA 
+MK629527.1 GI:1613838531
+
+67. Escherichia phage Lilleto, complete genome
+5,494 bp linear DNA 
+MK629529.1 GI:1613838597
+
+68. Escherichia phage Lilleen, complete genome
+5,342 bp linear DNA 
+MK629526.1 GI:1625842012
+
+69. Escherichia phage Lilledu, complete genome
+5,484 bp linear DNA 
+MK791318.1 GI:1735346732
+
+70. Sequence 1257 from Patent EP3498865
+7,249 bp linear DNA 
+MP220845.1 GI:1741796106
+
+71. Sequence 1258 from Patent EP3498865
+7,308 bp linear DNA 
+MP220846.1 GI:1741796109
+
+72. Xanthomonas phage XaF13, complete genome
+7,045 bp linear DNA 
+MN335248.1 GI:1765937410
+
+73. Vibrio phage VP24-2_Ke, complete genome
+7,180 bp linear DNA 
+MN536023.1 GI:1777141816
+
+74. Vibrio phage VALG_phi8, complete genome
+7,311 bp linear DNA 
+MN690600.1 GI:1781483672
+
+75. Vibrio phage VALG_phi6, complete genome
+8,529 bp linear DNA 
+MN719123.1 GI:1781483745
+
+76. Escherichia phage lillemer, complete genome
+5,492 bp linear DNA 
+MN850599.1 GI:1802640186
+
+77. Escherichia phage EC6098, complete genome
+4,526 bp linear DNA 
+MT185428.1 GI:1825544128
+
+78. CRESS virus SC_1_H1_2017 hypothetical protein genes, complete cds
+5,747 bp linear DNA 
+MT121959.1 GI:1829641594
+
+79. Gokushovirinae sp. SC_3_H2_2017 hypothetical protein and major capsid protein genes, complete cds
+5,693 bp linear DNA 
+MT121961.1 GI:1829641600
+
+80. Gokushovirinae sp. SC_5_H2H4_2017 minor capsid protein genes, complete cds
+6,894 bp linear DNA 
+MT121963.1 GI:1829641606
+
+81. Vibrio phage vB_Vipa4291, complete genome
+9,663 bp linear DNA 
+MT188665.1 GI:1834463262
+
+82. Vibrio phage vB_Vipa10, complete genome
+9,318 bp linear DNA 
+MT188666.1 GI:1834463278
+
+83. Vibrio phage vB_Vipa71, complete genome
+10,295 bp linear DNA 
+MT193890.1 GI:1834463293
+
+84. Ralstonia phage Rs551, complete genome
+7,929 bp linear DNA 
+NC_047765.1 GI:1841998152
+
+85. Escherichia phage EC6098, complete genome
+4,526 bp linear DNA 
+NC_048874.1 GI:1859671168
+
+86. Aeromonas phage MBa-2020a, partial genome
+7,191 bp linear DNA 
+CP062802.1 GI:2030727901
+
+87. TPA_asm: CRESS virus sp. isolate ctpLm22 genomic sequence
+8,447 bp linear DNA 
+BK059137.1 GI:2050460354
+
+88. TPA_asm: Inoviridae sp. isolate ctvTz11 genomic sequence
+17,936 bp linear DNA 
+BK059141.1 GI:2050460385
+
+89. TPA_asm: Inoviridae sp. isolate ctEAr15, partial genome
+9,840 bp linear DNA 
+BK016829.1 GI:2050464316
+
+90. TPA_asm: Inoviridae sp. ctO6A5, partial genome
+11,203 bp linear DNA 
+BK014823.1 GI:2051089876
+
+91. TPA_asm: Inoviridae sp. ctDEu7, partial genome
+30,700 bp linear DNA 
+BK014988.1 GI:2051098504
+
+92. TPA_asm: Inoviridae sp. ct6Sz5, partial genome
+10,973 bp linear DNA 
+BK015002.1 GI:2051099271
+
+93. TPA_asm: CRESS virus sp. ctBnw2, partial genome
+12,000 bp linear DNA 
+BK015003.1 GI:2051099294
+
+94. TPA_asm: Inoviridae sp. ctPjN3, partial genome
+13,417 bp linear DNA 
+BK015168.1 GI:2051106717
+
+95. TPA_asm: Inoviridae sp. ctFNB4, partial genome
+7,696 bp linear DNA 
+BK014674.1 GI:2051113777
+
+96. TPA_asm: Inoviridae sp. ctWUU20, partial genome
+5,051 bp linear DNA 
+BK014694.1 GI:2051114658
+
+97. TPA_asm: Inoviridae sp. ct6Op23, partial genome
+9,000 bp linear DNA 
+BK015782.1 GI:2051143877
+
+98. TPA_asm: Microviridae sp. isolate ctpEM11, partial genome
+5,124 bp linear DNA 
+BK056166.1 GI:2052203063
+
+99. TPA_asm: Inoviridae sp. isolate ct8ap5, partial genome
+13,524 bp linear DNA 
+BK056343.1 GI:2052212844
+
+100. TPA_asm: Inoviridae sp. isolate ctPL97, partial genome
+11,645 bp linear DNA 
+BK056621.1 GI:2052226315
+
+101. TPA_asm: Inoviridae sp. isolate ctdw63, partial genome
+16,212 bp linear DNA 
+BK056748.1 GI:2052232727
+
+102. TPA_asm: Inoviridae sp. isolate ct1ur9, partial genome
+13,100 bp linear DNA 
+BK019711.1 GI:2052257771
+
+103. TPA_asm: CRESS virus sp. isolate ctB901, partial genome
+10,500 bp linear DNA 
+BK017358.1 GI:2052884791
+
+104. TPA_asm: Inoviridae sp. isolate ctt7x1, partial genome
+31,235 bp linear DNA 
+BK017376.1 GI:2052885848
+
+105. TPA_asm: Inoviridae sp. isolate ctbAs4, partial genome
+5,012 bp linear DNA 
+BK017378.1 GI:2052885950
+
+106. TPA_asm: Inoviridae sp. isolate ctJES1, partial genome
+10,150 bp linear DNA 
+BK017410.1 GI:2052887456
+
+107. TPA_asm: Inoviridae sp. isolate ctX3g5, partial genome
+9,253 bp linear DNA 
+BK017465.1 GI:2052889789
+
+108. TPA_asm: Inoviridae sp. isolate ctma920, partial genome
+12,108 bp linear DNA 
+BK017517.1 GI:2052892616
+
+109. TPA_asm: Microviridae sp. isolate ctKRE3, partial genome
+5,436 bp linear DNA 
+BK018216.1 GI:2052931255
+
+110. TPA_asm: Inoviridae sp. isolate ctfmb6, partial genome
+9,307 bp linear DNA 
+BK030234.1 GI:2052961982
+
+111. TPA_asm: Inoviridae sp. isolate ctMbE2, partial genome
+5,726 bp linear DNA 
+BK030431.1 GI:2052971734
+
+112. TPA_asm: Microviridae sp. isolate ctapL8, partial genome
+5,714 bp linear DNA 
+BK030460.1 GI:2052973139
+
+113. TPA_asm: Inoviridae sp. isolate ctwRX5, partial genome
+19,329 bp linear DNA 
+BK030472.1 GI:2052973664
+
+114. TPA_asm: Inoviridae sp. isolate ctCBR15, partial genome
+35,784 bp linear DNA 
+BK030493.1 GI:2052974669
+
+115. TPA_asm: Inoviridae sp. isolate ctaDF4, partial genome
+4,814 bp linear DNA 
+BK030744.1 GI:2052986352
+
+116. TPA_asm: Inoviridae sp. isolate ctb2g21, partial genome
+18,100 bp linear DNA 
+BK030952.1 GI:2052997309
+
+117. TPA_asm: Inoviridae sp. isolate ctavI2, partial genome
+5,520 bp linear DNA 
+BK023729.1 GI:2053013214
+
+118. TPA_asm: Inoviridae sp. isolate ctNd46, partial genome
+6,573 bp linear DNA 
+BK023781.1 GI:2053016261
+
+119. TPA_asm: Inoviridae sp. isolate ct3sN9, partial genome
+5,555 bp linear DNA 
+BK023819.1 GI:2053018182
+
+120. TPA_asm: Inoviridae sp. isolate ctGrF1, partial genome
+8,142 bp linear DNA 
+BK023949.1 GI:2053024818
+
+121. TPA_asm: Inoviridae sp. isolate ctVOc5, partial genome
+7,960 bp linear DNA 
+BK023980.1 GI:2053026298
+
+122. TPA_asm: Inoviridae sp. isolate ctVEl18, partial genome
+5,591 bp linear DNA 
+BK023989.1 GI:2053026698
+
+123. TPA_asm: Inoviridae sp. isolate ctCYD1, partial genome
+9,590 bp linear DNA 
+BK024144.1 GI:2053035353
+
+124. TPA_asm: Inoviridae sp. isolate ctCZL1, partial genome
+4,750 bp linear DNA 
+BK024396.1 GI:2053048226
+
+125. TPA_asm: Inoviridae sp. isolate ct98p36, partial genome
+15,150 bp linear DNA 
+BK024455.1 GI:2053050784
+
+126. TPA_asm: Inoviridae sp. isolate ct9zJ6, partial genome
+32,900 bp linear DNA 
+BK024560.1 GI:2053056796
+
+127. TPA_asm: Inoviridae sp. isolate ctISv12, partial genome
+58,350 bp linear DNA 
+BK024631.1 GI:2053060158
+
+128. TPA_asm: Inoviridae sp. ctJfE44, partial genome
+9,300 bp linear DNA 
+BK016060.1 GI:2053071083
+
+129. TPA_asm: Inoviridae sp. ctTrc50, partial genome
+9,000 bp linear DNA 
+BK016085.1 GI:2053072744
+
+130. TPA_asm: Inoviridae sp. isolate ctuB34, partial genome
+8,986 bp linear DNA 
+BK020029.1 GI:2053078019
+
+131. TPA_asm: Inoviridae sp. isolate ct50P9, partial genome
+10,176 bp linear DNA 
+BK020653.1 GI:2053108523
+
+132. TPA_asm: Inoviridae sp. isolate ctjOs5, partial genome
+10,955 bp linear DNA 
+BK020839.1 GI:2053117194
+
+133. TPA_asm: Inoviridae sp. isolate ctHQq4, partial genome
+10,623 bp linear DNA 
+BK018673.1 GI:2053134619
+
+134. TPA_asm: Inoviridae sp. ctTUL13, partial genome
+8,946 bp linear DNA 
+BK016119.1 GI:2053171815
+
+135. TPA_asm: Inoviridae sp. ct0MH15, partial genome
+7,446 bp linear DNA 
+BK016260.1 GI:2053180869
+
+136. TPA_asm: Inoviridae sp. isolate ct5Vx2, partial genome
+4,417 bp linear DNA 
+BK016584.1 GI:2053195862
+
+137. TPA_asm: Inoviridae sp. isolate ctrOl2, partial genome
+10,745 bp linear DNA 
+BK016992.1 GI:2053202091
+
+138. TPA_asm: Inoviridae sp. isolate ctIy22, partial genome
+9,502 bp linear DNA 
+BK017045.1 GI:2053205131
+
+139. TPA_asm: Inoviridae sp. isolate ctvc71, partial genome
+7,903 bp linear DNA 
+BK017128.1 GI:2053209525
+
+140. TPA_asm: Inoviridae sp. isolate ctIqu11, partial genome
+8,357 bp linear DNA 
+BK017199.1 GI:2053213238
+
+141. TPA_asm: Microviridae sp. isolate ctgso20, partial genome
+6,200 bp linear DNA 
+BK017209.1 GI:2053213804
+
+142. TPA_asm: Inoviridae sp. isolate ctNOU3, partial genome
+7,497 bp linear DNA 
+BK017302.1 GI:2053218847
+
+143. TPA_asm: Inoviridae sp. ctiYN10, partial genome
+10,700 bp linear DNA 
+BK031239.1 GI:2054402287
+
+144. TPA_asm: Inoviridae sp. isolate ctBpV9, partial genome
+5,467 bp linear DNA 
+BK035498.1 GI:2054409695
+
+145. TPA_asm: Inoviridae sp. isolate ctppP11, partial genome
+19,050 bp linear DNA 
+BK035896.1 GI:2054428949
+
+146. TPA_asm: Inoviridae sp. isolate ctSjg4, partial genome
+49,000 bp linear DNA 
+BK036222.1 GI:2054444724
+
+147. TPA_asm: Inoviridae sp. isolate ctNpO5, partial genome
+11,485 bp linear DNA 
+BK031739.1 GI:2054471149
+
+148. TPA_asm: Inoviridae sp. isolate ct4Eh10, partial genome
+6,335 bp linear DNA 
+BK031898.1 GI:2054478532
+
+149. TPA_asm: Inoviridae sp. isolate ctzp04, partial genome
+17,550 bp linear DNA 
+BK031967.1 GI:2054481614
+
+150. TPA_asm: Inoviridae sp. isolate ct4DJ1, partial genome
+14,150 bp linear DNA 
+BK032400.1 GI:2054503448
+
+151. TPA_asm: Microviridae sp. isolate ctm4M3, partial genome
+5,054 bp linear DNA 
+BK048035.1 GI:2054550486
+
+152. TPA_asm: Inoviridae sp. isolate ctlbF4, partial genome
+9,684 bp linear DNA 
+BK048093.1 GI:2054553340
+
+153. TPA_asm: Inoviridae sp. isolate ctW9y4, partial genome
+7,237 bp linear DNA 
+BK048328.1 GI:2054565232
+
+154. TPA_asm: Inoviridae sp. isolate ct7Hy2, partial genome
+12,976 bp linear DNA 
+BK021397.1 GI:2054584566
+
+155. TPA_asm: Inoviridae sp. isolate ctZ6V1, partial genome
+13,100 bp linear DNA 
+BK021722.1 GI:2054600116
+
+156. TPA_asm: Inoviridae sp. isolate ctdss16, partial genome
+9,959 bp linear DNA 
+BK021841.1 GI:2054605923
+
+157. TPA_asm: Microviridae sp. isolate ctFI11, partial genome
+5,137 bp linear DNA 
+BK021885.1 GI:2054608078
+
+158. TPA_asm: Inoviridae sp. isolate cteP810, partial genome
+8,753 bp linear DNA 
+BK051712.1 GI:2054635527
+
+159. TPA_asm: Inoviridae sp. isolate ctcuq11, partial genome
+9,189 bp linear DNA 
+BK051796.1 GI:2054640097
+
+160. TPA_asm: Inoviridae sp. isolate ctJG56, partial genome
+18,650 bp linear DNA 
+BK051800.1 GI:2054640328
+
+161. TPA_asm: Inoviridae sp. isolate ctXC58, partial genome
+12,306 bp linear DNA 
+BK052110.1 GI:2054655574
+
+162. TPA_asm: Inoviridae sp. isolate ctI5f3, partial genome
+5,517 bp linear DNA 
+BK052218.1 GI:2054661180
+
+163. TPA_asm: Inoviridae sp. isolate ctjGh8, partial genome
+14,150 bp linear DNA 
+BK052325.1 GI:2054666916
+
+164. TPA_asm: Inoviridae sp. isolate ct2zk12, partial genome
+7,345 bp linear DNA 
+BK052642.1 GI:2054682801
+
+165. TPA_asm: Inoviridae sp. isolate ctFQ711, partial genome
+6,200 bp linear DNA 
+BK052839.1 GI:2054692856
+
+166. TPA_asm: Inoviridae sp. isolate ctFbs6, partial genome
+8,252 bp linear DNA 
+BK053366.1 GI:2054718212
+
+167. TPA_asm: Inoviridae sp. isolate cti2d12, partial genome
+7,750 bp linear DNA 
+BK038740.1 GI:2054731817
+
+168. TPA_asm: Inoviridae sp. isolate ctfYl11, partial genome
+59,942 bp linear DNA 
+BK038855.1 GI:2054737053
+
+169. TPA_asm: Inoviridae sp. isolate ctqQ43, partial genome
+6,642 bp linear DNA 
+BK043403.1 GI:2054750353
+
+170. TPA_asm: Inoviridae sp. isolate ctPtv9, partial genome
+8,127 bp linear DNA 
+BK043623.1 GI:2054761288
+
+171. TPA_asm: Inoviridae sp. isolate ct7h71, partial genome
+10,226 bp linear DNA 
+BK049614.1 GI:2054773558
+
+172. TPA_asm: Inoviridae sp. isolate ct28P3, partial genome
+7,457 bp linear DNA 
+BK049625.1 GI:2054774183
+
+173. TPA_asm: Inoviridae sp. isolate ct4HV5, partial genome
+12,400 bp linear DNA 
+BK049715.1 GI:2054779835
+
+174. TPA_asm: Inoviridae sp. isolate ctoyC15, partial genome
+16,507 bp linear DNA 
+BK050093.1 GI:2054800178
+
+175. TPA_asm: Inoviridae sp. isolate ct5Ei2, partial genome
+5,401 bp linear DNA 
+BK050094.1 GI:2054800215
+
+176. TPA_asm: Inoviridae sp. isolate ct94w8, partial genome
+5,089 bp linear DNA 
+BK045192.1 GI:2056745239
+
+177. TPA_asm: Inoviridae sp. isolate ct0Rg2, partial genome
+9,701 bp linear DNA 
+BK045394.1 GI:2056754662
+
+178. TPA_asm: Inoviridae sp. isolate ctpv15, partial genome
+8,979 bp linear DNA 
+BK045429.1 GI:2056756337
+
+179. TPA_asm: Inoviridae sp. isolate ctoJk8, partial genome
+8,215 bp linear DNA 
+BK045552.1 GI:2056762762
+
+180. TPA_asm: Inoviridae sp. isolate ct21t5, partial genome
+7,981 bp linear DNA 
+BK045590.1 GI:2056764717
+
+181. TPA_asm: Inoviridae sp. isolate cto3X1, partial genome
+31,450 bp linear DNA 
+BK045642.1 GI:2056767256
+
+182. TPA_asm: Inoviridae sp. isolate ct0IR21, partial genome
+28,462 bp linear DNA 
+BK045651.1 GI:2056767787
+
+183. TPA_asm: Inoviridae sp. isolate ctMGq3, partial genome
+17,040 bp linear DNA 
+BK045722.1 GI:2056770937
+
+184. TPA_asm: Inoviridae sp. isolate ctvvg3, partial genome
+19,450 bp linear DNA 
+BK057524.1 GI:2056811783
+
+185. TPA_asm: Inoviridae sp. isolate ct8rw10, partial genome
+7,590 bp linear DNA 
+BK057566.1 GI:2056813795
+
+186. TPA_asm: Inoviridae sp. isolate ctLzZ1, partial genome
+10,282 bp linear DNA 
+BK057593.1 GI:2056815095
+
+187. TPA_asm: Inoviridae sp. isolate cti9L17, partial genome
+5,399 bp linear DNA 
+BK044033.1 GI:2056836410
+
+188. TPA_asm: Inoviridae sp. isolate ctXjl4, partial genome
+12,743 bp linear DNA 
+BK044060.1 GI:2056837707
+
+189. TPA_asm: Inoviridae sp. isolate ctx2K3, partial genome
+8,606 bp linear DNA 
+BK044096.1 GI:2056839431
+
+190. TPA_asm: Inoviridae sp. isolate ctIw26, partial genome
+24,550 bp linear DNA 
+BK044237.1 GI:2056846704
+
+191. TPA_asm: Inoviridae sp. isolate ctI0821, partial genome
+26,950 bp linear DNA 
+BK044307.1 GI:2056850090
+
+192. TPA_asm: Inoviridae sp. isolate ctumj8, partial genome
+10,071 bp linear DNA 
+BK044504.1 GI:2056861576
+
+193. TPA_asm: Inoviridae sp. isolate ctOUb3, partial genome
+10,989 bp linear DNA 
+BK044621.1 GI:2056867760
+
+194. TPA_asm: Inoviridae sp. isolate ctisO2, partial genome
+6,690 bp linear DNA 
+BK044681.1 GI:2056870887
+
+195. TPA_asm: Inoviridae sp. isolate ctfeg1, partial genome
+5,620 bp linear DNA 
+BK044703.1 GI:2056872136
+
+196. TPA_asm: Inoviridae sp. isolate ctWfi4, partial genome
+15,700 bp linear DNA 
+BK053528.1 GI:2056883065
+
+197. TPA_asm: Inoviridae sp. isolate ctBrI6, partial genome
+5,379 bp linear DNA 
+BK053536.1 GI:2056883455
+
+198. TPA_asm: Inoviridae sp. isolate ct2Vp13, partial genome
+18,602 bp linear DNA 
+BK053541.1 GI:2056883710
+
+199. TPA_asm: Inoviridae sp. isolate ctMlF9, partial genome
+8,597 bp linear DNA 
+BK053677.1 GI:2056890097
+
+200. TPA_asm: Inoviridae sp. isolate ctKTw4, partial genome
+5,083 bp linear DNA 
+BK053727.1 GI:2056892461
+
+201. TPA_asm: Inoviridae sp. isolate ctOD110, partial genome
+17,650 bp linear DNA 
+BK053878.1 GI:2056899215
+
+202. TPA_asm: Inoviridae sp. isolate ctBqO24, partial genome
+7,431 bp linear DNA 
+BK054214.1 GI:2056916403
+
+203. TPA_asm: Inoviridae sp. isolate ctU8W9, partial genome
+98,996 bp linear DNA 
+BK054229.1 GI:2056916965
+
+204. TPA_asm: Inoviridae sp. isolate ctSwM8, partial genome
+8,827 bp linear DNA 
+BK054279.1 GI:2056919393
+
+205. TPA_asm: Inoviridae sp. isolate ctCZh2, partial genome
+9,893 bp linear DNA 
+BK054306.1 GI:2056920779
+
+206. TPA_asm: CRESS virus sp. isolate ctfvz7, partial genome
+9,212 bp linear DNA 
+BK022846.1 GI:2056958071
+
+207. TPA_asm: Inoviridae sp. isolate ctzVT1, partial genome
+5,755 bp linear DNA 
+BK022860.1 GI:2056958543
+
+208. TPA_asm: Inoviridae sp. isolate ctVkQ11, partial genome
+7,601 bp linear DNA 
+BK023494.1 GI:2056989093
+
+209. TPA_asm: Inoviridae sp. isolate ctS9S2, partial genome
+6,277 bp linear DNA 
+BK023509.1 GI:2056989875
+
+210. TPA_asm: Inoviridae sp. isolate ctTXy3, partial genome
+5,865 bp linear DNA 
+BK048497.1 GI:2057000787
+
+211. TPA_asm: CRESS virus sp. isolate ctr9q11, partial genome
+7,150 bp linear DNA 
+BK048789.1 GI:2057017133
+
+212. TPA_asm: Inoviridae sp. isolate ctFES7, partial genome
+24,600 bp linear DNA 
+BK049390.1 GI:2057046767
+
+213. TPA_asm: Inoviridae sp. isolate ctFoF13, partial genome
+10,800 bp linear DNA 
+BK049450.1 GI:2057050093
+
+214. TPA_asm: CRESS virus sp. isolate ctt4z3, partial genome
+14,168 bp linear DNA 
+BK049498.1 GI:2057052453
+
+215. TPA_asm: Microviridae sp. isolate ct3jU11, partial genome
+5,846 bp linear DNA 
+BK037598.1 GI:2057065615
+
+216. TPA_asm: Microviridae sp. isolate cto0l3, partial genome
+5,704 bp linear DNA 
+BK037858.1 GI:2057078047
+
+217. TPA_asm: Microviridae sp. isolate ct36t13, partial genome
+5,534 bp linear DNA 
+BK037870.1 GI:2057078538
+
+218. TPA_asm: Inoviridae sp. isolate ctsY314, partial genome
+6,110 bp linear DNA 
+BK037926.1 GI:2057081351
+
+219. TPA_asm: Microviridae sp. isolate ct2DQ19, partial genome
+36,995 bp linear DNA 
+BK038085.1 GI:2057089470
+
+220. TPA_asm: Inoviridae sp. isolate ctlQH11, partial genome
+24,618 bp linear DNA 
+BK038098.1 GI:2057090093
+
+221. TPA_asm: Inoviridae sp. isolate ctcA711, partial genome
+9,226 bp linear DNA 
+BK038104.1 GI:2057090415
+
+222. TPA_asm: Inoviridae sp. isolate ctcg62, partial genome
+6,459 bp linear DNA 
+BK038216.1 GI:2057095780
+
+223. TPA_asm: Inoviridae sp. isolate ctWQh7, partial genome
+8,958 bp linear DNA 
+BK038363.1 GI:2057103308
+
+224. TPA_asm: Inoviridae sp. isolate ctsTY7, partial genome
+16,147 bp linear DNA 
+BK038368.1 GI:2057103586
+
+225. TPA_asm: Inoviridae sp. isolate ct2qB16, partial genome
+7,157 bp linear DNA 
+BK038453.1 GI:2057107553
+
+226. TPA_asm: Inoviridae sp. isolate cts6n6, partial genome
+20,700 bp linear DNA 
+BK038475.1 GI:2057108830
+
+227. TPA_asm: Inoviridae sp. isolate ctjDR3, partial genome
+8,828 bp linear DNA 
+BK057876.1 GI:2057116576
+
+228. TPA_asm: Inoviridae sp. isolate cttGx4, partial genome
+9,740 bp linear DNA 
+BK058268.1 GI:2057138384
+
+229. TPA_asm: Inoviridae sp. isolate ct9wA4, partial genome
+55,954 bp linear DNA 
+BK058493.1 GI:2057149770
+
+230. TPA_asm: Inoviridae sp. isolate ct5N49, partial genome
+8,884 bp linear DNA 
+BK058900.1 GI:2057175348
+
+231. TPA_asm: Inoviridae sp. isolate ctWC68, partial genome
+12,387 bp linear DNA 
+BK058966.1 GI:2057178442
+
+232. TPA_asm: Inoviridae sp. isolate ctHPa14, partial genome
+6,331 bp linear DNA 
+BK054793.1 GI:2057786240
+
+233. TPA_asm: Inoviridae sp. isolate ct9tj3, partial genome
+15,950 bp linear DNA 
+BK054807.1 GI:2057787093
+
+234. TPA_asm: Inoviridae sp. isolate ctMBG9, partial genome
+18,250 bp linear DNA 
+BK054891.1 GI:2057793046
+
+235. TPA_asm: Inoviridae sp. isolate ctrx76, partial genome
+31,965 bp linear DNA 
+BK054926.1 GI:2057795283
+
+236. TPA_asm: Inoviridae sp. isolate ctvyK2, partial genome
+5,051 bp linear DNA 
+BK055107.1 GI:2057806565
+
+237. TPA_asm: Inoviridae sp. isolate ctTZp11, partial genome
+12,979 bp linear DNA 
+BK055554.1 GI:2057831706
+
+238. TPA_asm: Inoviridae sp. isolate ctphY2, partial genome
+7,347 bp linear DNA 
+BK055650.1 GI:2057837122
+
+239. TPA_asm: Inoviridae sp. isolate ct9aU2, partial genome
+5,898 bp linear DNA 
+BK055792.1 GI:2057845701
+
+240. TPA_asm: Inoviridae sp. isolate ctjHP20, partial genome
+118,386 bp linear DNA 
+BK050429.1 GI:2057854854
+
+241. TPA_asm: Inoviridae sp. isolate ctYis4, partial genome
+28,270 bp linear DNA 
+BK050833.1 GI:2057880594
+
+242. TPA_asm: Inoviridae sp. isolate ctmTd13, partial genome
+5,913 bp linear DNA 
+BK050939.1 GI:2057886621
+
+243. TPA_asm: Inoviridae sp. isolate ctqXa16, partial genome
+8,713 bp linear DNA 
+BK051078.1 GI:2057895905
+
+244. TPA_asm: Inoviridae sp. isolate ctGYH2, partial genome
+12,486 bp linear DNA 
+BK051145.1 GI:2057900015
+
+245. TPA_asm: Microviridae sp. isolate ctLUG2, partial genome
+5,991 bp linear DNA 
+BK051344.1 GI:2057912959
+
+246. TPA_asm: Inoviridae sp. isolate ctv8A1, partial genome
+5,858 bp linear DNA 
+BK051451.1 GI:2057919097
+
+247. TPA_asm: Inoviridae sp. isolate cta5e9, partial genome
+10,550 bp linear DNA 
+BK051603.1 GI:2057927153
+
+248. TPA_asm: Inoviridae sp. isolate ctf7H26, partial genome
+8,111 bp linear DNA 
+BK045798.1 GI:2057930636
+
+249. TPA_asm: Inoviridae sp. isolate ctA1W23, partial genome
+5,266 bp linear DNA 
+BK045851.1 GI:2057934607
+
+250. TPA_asm: Inoviridae sp. isolate cthsW4, partial genome
+27,386 bp linear DNA 
+BK045885.1 GI:2057936157
+
+251. TPA_asm: Inoviridae sp. isolate ct9nG11, partial genome
+5,523 bp linear DNA 
+BK046178.1 GI:2057950303
+
+252. TPA_asm: Microviridae sp. isolate ctZ9e15, partial genome
+15,691 bp linear DNA 
+BK046278.1 GI:2057955467
+
+253. TPA_asm: Inoviridae sp. isolate ct4pk2, partial genome
+5,367 bp linear DNA 
+BK046290.1 GI:2057956386
+
+254. TPA_asm: Inoviridae sp. isolate ctCyW4, partial genome
+7,257 bp linear DNA 
+BK046779.1 GI:2057982265
+
+255. TPA_asm: Inoviridae sp. isolate ct9S018, partial genome
+11,200 bp linear DNA 
+BK041834.1 GI:2058015696
+
+256. TPA_asm: Inoviridae sp. isolate ctJQC2, partial genome
+12,440 bp linear DNA 
+BK042284.1 GI:2058037926
+
+257. TPA_asm: Inoviridae sp. isolate ctqHj10, partial genome
+7,486 bp linear DNA 
+BK042358.1 GI:2058041960
+
+258. TPA_asm: Inoviridae sp. isolate ctW9k18, partial genome
+11,380 bp linear DNA 
+BK042377.1 GI:2058042757
+
+259. TPA_asm: Inoviridae sp. isolate ct0985, partial genome
+7,930 bp linear DNA 
+BK042425.1 GI:2058045438
+
+260. TPA_asm: Inoviridae sp. isolate ct2ST13, partial genome
+7,985 bp linear DNA 
+BK042574.1 GI:2058052708
+
+261. TPA_asm: Inoviridae sp. isolate cts5p2, partial genome
+11,050 bp linear DNA 
+BK042808.1 GI:2058064255
+
+262. TPA_asm: Inoviridae sp. isolate ctlXs1, partial genome
+7,716 bp linear DNA 
+BK042848.1 GI:2058066295
+
+263. TPA_asm: Inoviridae sp. isolate ctMCl7, partial genome
+8,920 bp linear DNA 
+BK043026.1 GI:2058075237
+
+264. TPA_asm: Inoviridae sp. isolate ctDVc9, partial genome
+7,344 bp linear DNA 
+BK033500.1 GI:2058097294
+
+265. TPA_asm: Inoviridae sp. isolate ct7Qh16, partial genome
+13,750 bp linear DNA 
+BK033507.1 GI:2058097480
+
+266. TPA_asm: Inoviridae sp. isolate ctaeJ5, partial genome
+9,291 bp linear DNA 
+BK033558.1 GI:2058100811
+
+267. TPA_asm: Inoviridae sp. isolate ctsKr1, partial genome
+17,124 bp linear DNA 
+BK034437.1 GI:2058147352
+
+268. TPA_asm: Inoviridae sp. isolate ctuO07, partial genome
+8,275 bp linear DNA 
+BK034467.1 GI:2058148703
+
+269. TPA_asm: Inoviridae sp. isolate ct7xe1, partial genome
+8,399 bp linear DNA 
+BK034606.1 GI:2058156245
+
+270. TPA_asm: Inoviridae sp. isolate ctrqw6, partial genome
+15,548 bp linear DNA 
+BK034684.1 GI:2058160393
+
+271. TPA_asm: Inoviridae sp. isolate ctdOu2, partial genome
+17,464 bp linear DNA 
+BK036347.1 GI:2059562607
+
+272. TPA_asm: Microviridae sp. isolate ctsfP3, partial genome
+6,107 bp linear DNA 
+BK036371.1 GI:2059563877
+
+273. TPA_asm: Inoviridae sp. isolate cthBU12, partial genome
+8,062 bp linear DNA 
+BK036386.1 GI:2059564476
+
+274. TPA_asm: Inoviridae sp. isolate ctBX510, partial genome
+8,992 bp linear DNA 
+BK036472.1 GI:2059568646
+
+275. TPA_asm: Inoviridae sp. isolate cte4m10, partial genome
+8,927 bp linear DNA 
+BK036490.1 GI:2059569337
+
+276. TPA_asm: Inoviridae sp. isolate ctXGq1, partial genome
+15,800 bp linear DNA 
+BK036535.1 GI:2059571885
+
+277. TPA_asm: Inoviridae sp. isolate ctCVc5, partial genome
+13,939 bp linear DNA 
+BK036636.1 GI:2059577653
+
+278. TPA_asm: Inoviridae sp. isolate ctPvE6, partial genome
+26,981 bp linear DNA 
+BK037164.1 GI:2059604206
+
+279. TPA_asm: Inoviridae sp. isolate ctFmG9, partial genome
+11,482 bp linear DNA 
+BK037271.1 GI:2059609279
+
+280. TPA_asm: Inoviridae sp. isolate cteXp24, partial genome
+7,109 bp linear DNA 
+BK037300.1 GI:2059610912
+
+281. TPA_asm: Inoviridae sp. isolate ct4SZ4, partial genome
+10,564 bp linear DNA 
+BK037346.1 GI:2059613483
+
+282. TPA_asm: Inoviridae sp. isolate cta6A2, partial genome
+31,349 bp linear DNA 
+BK037425.1 GI:2059617279
+
+283. TPA_asm: Microviridae sp. isolate ct1825, partial genome
+5,897 bp linear DNA 
+BK028380.1 GI:2059629545
+
+284. TPA_asm: Inoviridae sp. isolate ctGcv4, partial genome
+21,950 bp linear DNA 
+BK028848.1 GI:2059655425
+
+285. TPA_asm: Inoviridae sp. isolate ctZ913, partial genome
+5,587 bp linear DNA 
+BK029419.1 GI:2059689110
+
+286. TPA_asm: CRESS virus sp. isolate ctcYd7, partial genome
+13,900 bp linear DNA 
+BK029432.1 GI:2059689808
+
+287. TPA_asm: Inoviridae sp. isolate ct5qk3, partial genome
+11,600 bp linear DNA 
+BK029458.1 GI:2059691432
+
+288. TPA_asm: Inoviridae sp. isolate ctp6W6, partial genome
+21,000 bp linear DNA 
+BK029600.1 GI:2059701222
+
+289. TPA_asm: Inoviridae sp. isolate ct6jA3, partial genome
+7,057 bp linear DNA 
+BK029613.1 GI:2059702523
+
+290. TPA_asm: Inoviridae sp. isolate ctJql5, partial genome
+13,860 bp linear DNA 
+BK024948.1 GI:2059728525
+
+291. TPA_asm: Inoviridae sp. isolate ctkgu37, partial genome
+20,950 bp linear DNA 
+BK025108.1 GI:2059729973
+
+292. TPA_asm: Inoviridae sp. isolate ctuGm20, partial genome
+10,400 bp linear DNA 
+BK025893.1 GI:2059736497
+
+293. TPA_asm: Inoviridae sp. isolate cteJo1, partial genome
+16,481 bp linear DNA 
+BK026323.1 GI:2059739563
+
+294. TPA_asm: Inoviridae sp. isolate ctWJB2, partial genome
+9,150 bp linear DNA 
+BK026415.1 GI:2059739988
+
+295. TPA_asm: Inoviridae sp. isolate ctBtZ2, partial genome
+8,262 bp linear DNA 
+BK026458.1 GI:2059740428
+
+296. TPA_asm: Inoviridae sp. isolate ctx6u14, partial genome
+26,000 bp linear DNA 
+BK026520.1 GI:2059740745
+
+297. TPA_asm: Inoviridae sp. isolate ctTsM18, partial genome
+16,050 bp linear DNA 
+BK026610.1 GI:2059741787
+
+298. TPA_asm: Inoviridae sp. isolate ct2iP7, partial genome
+10,950 bp linear DNA 
+BK026775.1 GI:2059743752
+
+299. TPA_asm: Inoviridae sp. isolate ctnlV15, partial genome
+10,200 bp linear DNA 
+BK026932.1 GI:2059744995
+
+300. TPA_asm: Inoviridae sp. isolate ct9O71, partial genome
+9,333 bp linear DNA 
+BK026945.1 GI:2059745192
+
+301. TPA_asm: Inoviridae sp. isolate ctFvi7, partial genome
+9,707 bp linear DNA 
+BK027000.1 GI:2059745898
+
+302. TPA_asm: Inoviridae sp. isolate ctzCa2, partial genome
+6,320 bp linear DNA 
+BK027321.1 GI:2059749108
+
+303. TPA_asm: Inoviridae sp. isolate ctDS922, partial genome
+12,450 bp linear DNA 
+BK027377.1 GI:2059749548
+
+304. TPA_asm: Inoviridae sp. isolate ctUac1, partial genome
+8,400 bp linear DNA 
+BK027483.1 GI:2059751007
+
+305. TPA_asm: Inoviridae sp. isolate ctBcC17, partial genome
+21,650 bp linear DNA 
+BK027663.1 GI:2059753186
+
+306. TPA_asm: Inoviridae sp. isolate ctdvW16, partial genome
+9,300 bp linear DNA 
+BK027980.1 GI:2059756171
+
+307. TPA_asm: Inoviridae sp. isolate ctTCV22, partial genome
+9,286 bp linear DNA 
+BK028040.1 GI:2059756782
+
+308. TPA_asm: Inoviridae sp. isolate ctLxA16, partial genome
+7,571 bp linear DNA 
+BK038996.1 GI:2059763450
+
+309. TPA_asm: Inoviridae sp. isolate ctaGf1, partial genome
+9,384 bp linear DNA 
+BK039263.1 GI:2059777179
+
+310. TPA_asm: Inoviridae sp. isolate ctvp64, partial genome
+9,867 bp linear DNA 
+BK039307.1 GI:2059779553
+
+311. TPA_asm: Inoviridae sp. isolate ctDT74, partial genome
+9,906 bp linear DNA 
+BK039581.1 GI:2059793443
+
+312. TPA_asm: Inoviridae sp. isolate ctJqL3, partial genome
+8,069 bp linear DNA 
+BK039727.1 GI:2059802564
+
+313. TPA_asm: Inoviridae sp. isolate ctgba13, partial genome
+16,200 bp linear DNA 
+BK040062.1 GI:2059825276
+
+314. TPA_asm: Inoviridae sp. isolate ctnuS4, partial genome
+9,669 bp linear DNA 
+BK040141.1 GI:2059829814
+
+315. TPA_asm: Inoviridae sp. isolate ctOl711, partial genome
+9,291 bp linear DNA 
+BK040345.1 GI:2059841667
+
+316. TPA_asm: Inoviridae sp. isolate cttMf1, partial genome
+10,172 bp linear DNA 
+BK040358.1 GI:2059842308
+
+317. TPA_asm: Inoviridae sp. isolate ctEC31, partial genome
+7,961 bp linear DNA 
+BK040381.1 GI:2059843837
+
+318. TPA_asm: Inoviridae sp. isolate ct1v65, partial genome
+9,819 bp linear DNA 
+BK040397.1 GI:2059844604
+
+319. TPA_asm: Inoviridae sp. isolate ctOWY8, partial genome
+8,758 bp linear DNA 
+BK040891.1 GI:2059873144
+
+320. TPA_asm: Inoviridae sp. isolate ct8AQ6, partial genome
+4,846 bp linear DNA 
+BK040930.1 GI:2059875548
+
+321. TPA_asm: Inoviridae sp. isolate ctbaU8, partial genome
+7,853 bp linear DNA 
+BK041128.1 GI:2059888367
+
+322. TPA_asm: Inoviridae sp. isolate ctnNq1, partial genome
+8,394 bp linear DNA 
+BK041182.1 GI:2059892006
+
+323. TPA_asm: Inoviridae sp. isolate ctpMR13, partial genome
+16,109 bp linear DNA 
+BK041454.1 GI:2059909220
+
+324. TPA_asm: Inoviridae sp. isolate ctbkI2, partial genome
+11,130 bp linear DNA 
+BK041494.1 GI:2059911699
+
+325. KR 1020200098624-A/1257: SINGLE MOLECULE DETECTION OR QUANTIFICATION BY DNA NANOTECHNOLOGY IN MICROWELLS
+7,249 bp linear DNA 
+OF064846.1 GI:2077270785
+
+326. KR 1020200098624-A/1258: SINGLE MOLECULE DETECTION OR QUANTIFICATION BY DNA NANOTECHNOLOGY IN MICROWELLS
+7,308 bp linear DNA 
+OF064847.1 GI:2077270786
